@@ -1,1 +1,101 @@
-Hello there new test fixture
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  null
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+[object HTMLTextAreaElement]
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Leonard v. Pepsico, Inc.</i>, 88 F. Supp. 2d 116, 127 (S.D.N.Y. 1999)xxx
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+{
+  "id": "cJR3MF83A"
+}
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "data": {
+      "id": "JR3MF83A",
+      "type": "legal_case",
+      "title": "Leonard v. Pepsico, Inc.",
+      "author": [
+        {
+          "given": "Bob",
+          "family": "Smith"
+        }
+      ],
+      "container-title": "F. Supp. 2d",
+      "volume": "116",
+      "authority": "district.court",
+      "page": "88",
+      "issued": {
+        "date-parts": [
+          [
+            1999,
+            10,
+            23
+          ]
+        ]
+      },
+      "jurisdiction": "011us:c2:ny.sdUnited States|US|Second Circuit|S.D. New York"
+    },
+    "status": 200,
+    "statusText": "",
+    "headers": {
+      "accept-ranges": "bytes",
+      "access-control-allow-origin": "*",
+      "age": "0",
+      "cache-control": "max-age=600",
+      "content-encoding": "gzip",
+      "content-length": "295",
+      "content-type": "application/json; charset=utf-8",
+      "date": "Sun, 05 Apr 2020 15:36:07 GMT",
+      "etag": "W/\"5e89fa7c-1bd\"",
+      "expires": "Sun, 05 Apr 2020 15:46:07 GMT",
+      "last-modified": "Sun, 05 Apr 2020 15:34:20 GMT",
+      "server": "GitHub.com",
+      "status": "200",
+      "vary": "Accept-Encoding",
+      "via": "1.1 varnish",
+      "x-cache": "MISS",
+      "x-cache-hits": "0",
+      "x-fastly-request-id": "031de8f75660b09ddfc75bb9905dccda170ff613",
+      "x-github-request-id": "375C:4BF4:22FD02:2558A1:5E89FAE6",
+      "x-proxy-cache": "MISS",
+      "x-served-by": "cache-tyo19946-TYO",
+      "x-timer": "S1586100967.258649,VS0,VE170"
+    },
+    "config": {
+      "url": "https://fbennett.github.io/indigobook//itemdata/JR3MF83A.json",
+      "method": "get",
+      "headers": {
+        "Accept": "application/json, text/plain, */*"
+      },
+      "transformRequest": [
+        null
+      ],
+      "transformResponse": [
+        null
+      ],
+      "timeout": 0,
+      "xsrfCookieName": "XSRF-TOKEN",
+      "xsrfHeaderName": "X-XSRF-TOKEN",
+      "maxContentLength": -1
+    },
+    "request": {}
+  }
+]
+<<===== INPUT =====<<
