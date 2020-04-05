@@ -1,0 +1,47 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "2352WLFZ"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+XXX
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Toolson v. N.Y. Yankees, Inc.</i>, 346 U.S. 356 (1953) ZZZ
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+{
+  "id": "2352WLFZ"
+}
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "2352WLFZ",
+    "type": "legal_case",
+    "title": "Toolson v. N.Y. Yankees, Inc.",
+    "container-title": "U.S.",
+    "volume": "346",
+    "authority": "supreme.court",
+    "page": "356",
+    "issued": {
+      "literal": "Nineteen fifty-three",
+      "date-parts": [
+        [],
+        []
+      ]
+    },
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<
