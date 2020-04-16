@@ -1,0 +1,51 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "2352WLFZ"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Fix abbrev, remote court indicator.
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Toolson v. New York Yankees, Inc.</i>, 346 U.S. 356 (1953)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "2352WLFZ",
+    "position": 0,
+    "suppress-author": true
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "2352WLFZ",
+    "type": "legal_case",
+    "title": "Toolson v. New York Yankees, Incorp.",
+    "container-title": "U.S.",
+    "volume": "346",
+    "authority": "supreme.court",
+    "page": "356",
+    "issued": {
+      "date-parts": [
+        [
+          1953
+        ]
+      ]
+    },
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<
