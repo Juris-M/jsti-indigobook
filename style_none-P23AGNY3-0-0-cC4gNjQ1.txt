@@ -9,11 +9,11 @@ citation
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+Misspell a word.
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Indus. Union Dep’t, AFL-CIO v. Am. Petroleum Inst. (The Benzene Case)</i>, 448 U.S. 607, 645 (1980)
+<i>Indus. Union Dep’t, AFL-CIO v. Am. Petroleum Inst. (The Benzini Case)</i>, 448 U.S. 607, 645 (1980)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
