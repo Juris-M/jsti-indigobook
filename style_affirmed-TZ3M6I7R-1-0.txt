@@ -1,0 +1,51 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "TZ3M6I7R"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>aff’d,</i> 489 U.S. 705 (1989)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "prefix": "<i>aff'd</i>",
+    "id": "TZ3M6I7R",
+    "position": 1
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "TZ3M6I7R",
+    "type": "legal_case",
+    "title": "Schmuck v. United States",
+    "container-title": "U.S.",
+    "volume": "489",
+    "authority": "supreme.court",
+    "page": "705",
+    "issued": {
+      "date-parts": [
+        [
+          1989
+        ]
+      ]
+    },
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,48 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "WCZN3N2A"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Kan. Admin. Regs. § <var>x-x-x</var> (<var>year</var>)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "WCZN3N2A",
+    "position": 0,
+    "locator": "sec. 12-34-56"
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "WCZN3N2A",
+    "type": "legislation",
+    "container-title": "Kan. Admin. Regs.",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "section": "sec. 12-34-56",
+    "jurisdiction": "us:ks"
+  }
+]
+<<===== INPUT =====<<

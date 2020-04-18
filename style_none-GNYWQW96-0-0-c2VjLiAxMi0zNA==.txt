@@ -1,0 +1,49 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "GNYWQW96"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Neb. Rev. Stat. Ann. § <var>x-x</var> (LexisNexis <var>year</var>)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "GNYWQW96",
+    "position": 0,
+    "locator": "sec. 12-34"
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "GNYWQW96",
+    "type": "legislation",
+    "container-title": "Neb. Rev. Stat. Ann.",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "section": "sec. 12-34",
+    "publisher": "LexisNexis",
+    "jurisdiction": "us:ne"
+  }
+]
+<<===== INPUT =====<<

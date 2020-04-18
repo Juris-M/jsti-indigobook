@@ -1,0 +1,48 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "XEUCZCEM"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Restatement (Third) of Prop.: Servitudes § 7.1 (Am. Law Inst. 2000)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "XEUCZCEM",
+    "position": 0,
+    "locator": "sec. 7.1"
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "XEUCZCEM",
+    "type": "entry-encyclopedia",
+    "title": "Restatement (Third) of Prop.: Servitudes",
+    "publisher": "Am. Law Inst.",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "sec. 7.1"
+  }
+]
+<<===== INPUT =====<<

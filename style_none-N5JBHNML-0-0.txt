@@ -1,0 +1,50 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "N5JBHNML"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Energy &amp;amp; Env't Legal Inst. v. Epel</i>, 43 F. Supp. 3d 1171 (D. Colo. 2014)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "N5JBHNML",
+    "position": 0
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "N5JBHNML",
+    "type": "legal_case",
+    "title": "Energy & Env't Legal Inst. v. Epel",
+    "container-title": "F. Supp. 3d",
+    "volume": "43",
+    "authority": "district.court",
+    "page": "1171",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "jurisdiction": "us:c10:co.d"
+  }
+]
+<<===== INPUT =====<<

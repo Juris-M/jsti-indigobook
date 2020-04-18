@@ -1,0 +1,48 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "YULWV3UL"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Restatement (Second) of Trusts § 46 (Am. Law Inst. 1959)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "YULWV3UL",
+    "position": 0,
+    "locator": "sec. 46"
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "YULWV3UL",
+    "type": "entry-encyclopedia",
+    "title": "Restatement (Second) of Trusts",
+    "publisher": "Am. Law Inst.",
+    "issued": {
+      "date-parts": [
+        [
+          1959
+        ]
+      ]
+    },
+    "page": "sec. 46"
+  }
+]
+<<===== INPUT =====<<

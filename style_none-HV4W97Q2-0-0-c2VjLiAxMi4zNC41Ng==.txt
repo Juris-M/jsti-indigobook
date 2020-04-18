@@ -1,0 +1,49 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "HV4W97Q2"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Wash. Rev. Code Ann. § <var>x.x.x</var> (West <var>year</var>)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "HV4W97Q2",
+    "position": 0,
+    "locator": "sec. 12.34.56"
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "HV4W97Q2",
+    "type": "legislation",
+    "container-title": "Wash. Rev. Code Ann.",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "section": "sec. 12.34.56",
+    "publisher": "West",
+    "jurisdiction": "us:wa"
+  }
+]
+<<===== INPUT =====<<

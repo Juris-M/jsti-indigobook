@@ -1,0 +1,49 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "YWTDX3RN"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Ind. Code Ann. § <var>x-x-x-x</var> (LexisNexis <var>year</var>)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "YWTDX3RN",
+    "position": 0,
+    "locator": "sec. 12-34-56-78"
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "YWTDX3RN",
+    "type": "legislation",
+    "container-title": "Ind. Code Ann.",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "section": "sec. 12-34-56-78",
+    "publisher": "LexisNexis",
+    "jurisdiction": "us:in"
+  }
+]
+<<===== INPUT =====<<

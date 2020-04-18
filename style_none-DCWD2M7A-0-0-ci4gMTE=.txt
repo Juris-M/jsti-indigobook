@@ -1,0 +1,49 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "DCWD2M7A"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+N.Y. C.P.L.R. <var>rule no.</var> (McKinney <var>year</var>)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "DCWD2M7A",
+    "position": 0,
+    "locator": "r. 11"
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "DCWD2M7A",
+    "type": "legislation",
+    "container-title": "N.Y. C.P.L.R.",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "section": "11",
+    "publisher": "McKinney",
+    "jurisdiction": "us:ny"
+  }
+]
+<<===== INPUT =====<<

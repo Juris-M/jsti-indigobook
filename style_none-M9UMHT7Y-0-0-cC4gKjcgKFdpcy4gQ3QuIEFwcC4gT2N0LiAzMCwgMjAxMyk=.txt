@@ -1,0 +1,54 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "M9UMHT7Y"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>State v. Green</i>, No. 2012AP1475–CR, 2013 WL 5811261, at *7 (Wis. Ct. App. Oct. 30, 2013)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "M9UMHT7Y",
+    "position": 0,
+    "locator": "p. *7 (Wis. Ct. App. Oct. 30, 2013)"
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "M9UMHT7Y",
+    "type": "legal_case",
+    "title": "State v. Green",
+    "container-title": "WL",
+    "volume": "2013",
+    "authority": "court.appeals",
+    "number": "2012AP1475–CR",
+    "page": "5811261",
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          10,
+          30
+        ]
+      ]
+    },
+    "jurisdiction": "us:wi"
+  }
+]
+<<===== INPUT =====<<

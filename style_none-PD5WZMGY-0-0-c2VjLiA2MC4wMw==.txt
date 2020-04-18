@@ -1,0 +1,49 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "PD5WZMGY"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+N.Y. Arts &amp;amp; Cult. Aff. Law § 60.03 (McKinney 2000)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "PD5WZMGY",
+    "position": 0,
+    "locator": "sec. 60.03"
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "PD5WZMGY",
+    "type": "legislation",
+    "container-title": "N.Y. Arts & Cult. Aff. Law",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "section": "sec. 60.03",
+    "publisher": "McKinney",
+    "jurisdiction": "us:ny"
+  }
+]
+<<===== INPUT =====<<

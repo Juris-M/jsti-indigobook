@@ -1,0 +1,48 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "A4S6CLKC"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Treas. Reg. § 1.41-2 (1989)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "A4S6CLKC",
+    "position": 0,
+    "locator": "sec. 1.41-2"
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "A4S6CLKC",
+    "type": "legislation",
+    "container-title": "Treas. Reg.",
+    "issued": {
+      "date-parts": [
+        [
+          1989
+        ]
+      ]
+    },
+    "section": "sec. 1.41-2",
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<
