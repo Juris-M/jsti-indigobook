@@ -1,0 +1,41 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "8NBD2RG2"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<var>year</var> Or. Laws Spec. Sess. <var>page no.</var>
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "8NBD2RG2",
+    "position": 0
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "8NBD2RG2",
+    "type": "legislation",
+    "title": "Or. Laws Spec. Sess.",
+    "volume": "2000",
+    "section": "45",
+    "jurisdiction": "us:or"
+  }
+]
+<<===== INPUT =====<<

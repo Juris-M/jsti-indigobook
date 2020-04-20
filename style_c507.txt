@@ -1,0 +1,41 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "25HBENDA"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<var>year</var> Miss. Laws <var>page no.</var>
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "25HBENDA",
+    "position": 0
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "25HBENDA",
+    "type": "legislation",
+    "title": "Miss. Laws",
+    "volume": "2000",
+    "section": "45",
+    "jurisdiction": "us:ms"
+  }
+]
+<<===== INPUT =====<<

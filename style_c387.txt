@@ -1,0 +1,48 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "2JPI7SC6"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Ga. Code Ann. § <var>x-x-x</var> (<var>year</var>)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "2JPI7SC6",
+    "position": 0,
+    "locator": "sec. 12-34-56"
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "2JPI7SC6",
+    "type": "legislation",
+    "container-title": "Ga. Code Ann.",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "section": "sec. 12-34-56",
+    "jurisdiction": "us:ga"
+  }
+]
+<<===== INPUT =====<<

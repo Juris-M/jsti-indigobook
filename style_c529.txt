@@ -1,0 +1,49 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "FYIZVAPB"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<var>tit. no.</var> Neb. Admin. Code § <var>x-x</var> (<var>year</var>)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "FYIZVAPB",
+    "position": 0,
+    "locator": "sec. 12-34"
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "FYIZVAPB",
+    "type": "legislation",
+    "title": "Neb. Admin. Code",
+    "volume": "50",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "section": "§ 12-34",
+    "jurisdiction": "us:ne"
+  }
+]
+<<===== INPUT =====<<

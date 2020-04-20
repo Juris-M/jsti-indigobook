@@ -1,0 +1,48 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "J42BBANM"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<var>vol. no.</var> Del. Laws <var>page no.</var> (<var>year</var>)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "J42BBANM",
+    "position": 0
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "J42BBANM",
+    "type": "legislation",
+    "title": "Del. Laws",
+    "volume": "23",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "section": "45",
+    "jurisdiction": "us:de"
+  }
+]
+<<===== INPUT =====<<

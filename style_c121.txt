@@ -1,0 +1,50 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "V32M226N"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<var>Name of Statute [optional]</var>, <var>title no.</var> U.S.C. § <var>section number</var> <var>(year published)</var>
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "V32M226N",
+    "position": 0,
+    "locator": "sec. 15"
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "V32M226N",
+    "type": "legislation",
+    "title": "Worthy Act",
+    "container-title": "U.S.C.",
+    "volume": "50",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "section": "sec. 15",
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<

@@ -4,7 +4,7 @@ citation
 
 >>===== KEYS =====>>
 [
-  "TKZBTLHM"
+  "29N4C9JW"
 ]
 <<===== KEYS =====<<
 
@@ -13,15 +13,14 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>See generally</i> Richard A. Posner, <i>Against Footnotes</i>, 38 Ct. Rev. 24 (2001)
+<i>Batman v. Commissioner</i>, 189 F.2d 107 (5th Cir. 1951)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
 [
 [
   {
-    "prefix": "<i>see generally</i>",
-    "id": "TKZBTLHM",
+    "id": "29N4C9JW",
     "position": 0
   }
 ]
@@ -31,25 +30,21 @@ Initial test checkin
 >>===== INPUT =====>>
 [
   {
-    "id": "TKZBTLHM",
-    "type": "article-journal",
-    "title": "Against Footnotes",
-    "author": [
-      {
-        "given": "Richard A.",
-        "family": "Posner"
-      }
-    ],
-    "container-title": "Ct. Rev.",
-    "volume": "38",
-    "page": "24",
+    "id": "29N4C9JW",
+    "type": "legal_case",
+    "title": "Batman v. Commissioner",
+    "container-title": "F.2d",
+    "volume": "189",
+    "authority": "court.appeals",
+    "page": "107",
     "issued": {
       "date-parts": [
         [
-          2001
+          1951
         ]
       ]
-    }
+    },
+    "jurisdiction": "us:c5"
   }
 ]
 <<===== INPUT =====<<

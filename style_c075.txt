@@ -4,25 +4,25 @@ citation
 
 >>===== KEYS =====>>
 [
-  "JR3MF83A"
+  "RZ29I7G8"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Tell me, yeah.
+Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Leonard v. Pepsico, Inc.</i>, 88 F. Supp. 2d 116, 127 (S.D.N.Y. 1999)
+<i>Brown v. Swindell</i>, 198 So. 2d 432, 434 (La. Ct. App. 1967)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
 [
 [
   {
-    "id": "JR3MF83A",
+    "id": "RZ29I7G8",
     "position": 0,
-    "locator": "p. 127"
+    "locator": "p. 434"
   }
 ]
 ]
@@ -31,23 +31,21 @@ Tell me, yeah.
 >>===== INPUT =====>>
 [
   {
-    "id": "JR3MF83A",
+    "id": "RZ29I7G8",
     "type": "legal_case",
-    "title": "Leonard v. Pepsico, Inc.",
-    "container-title": "F. Supp. 2d",
-    "volume": "88",
-    "authority": "district.court",
-    "page": "116",
+    "title": "Brown v. Swindell",
+    "container-title": "So. 2d",
+    "volume": "198",
+    "authority": "court.appeal",
+    "page": "432",
     "issued": {
       "date-parts": [
         [
-          1999,
-          10,
-          23
+          1967
         ]
       ]
     },
-    "jurisdiction": "us:c2:ny.sd"
+    "jurisdiction": "us:la"
   }
 ]
 <<===== INPUT =====<<

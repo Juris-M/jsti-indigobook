@@ -1,0 +1,50 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "Y6P8VHI7"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<var>vol. no.</var> D.C. Reg. <var>page no.</var> (<var>month day, year</var>)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "Y6P8VHI7",
+    "position": 0
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "Y6P8VHI7",
+    "type": "legislation",
+    "container-title": "D.C. Reg.",
+    "volume": "23",
+    "issued": {
+      "date-parts": [
+        [
+          2000,
+          4,
+          1
+        ]
+      ]
+    },
+    "section": "45",
+    "jurisdiction": "us:dc"
+  }
+]
+<<===== INPUT =====<<

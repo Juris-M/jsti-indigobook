@@ -1,0 +1,49 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "2BQ86IAH"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<var>tit. no.</var> N. Mar. I. Code § <var>x</var> (<var>year</var>)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "2BQ86IAH",
+    "position": 0,
+    "locator": "sec. 123"
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "2BQ86IAH",
+    "type": "legislation",
+    "title": "N. Mar. I. Code",
+    "volume": "50",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "section": "§ 123",
+    "jurisdiction": "us:mp"
+  }
+]
+<<===== INPUT =====<<

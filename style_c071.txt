@@ -4,25 +4,25 @@ citation
 
 >>===== KEYS =====>>
 [
-  "JR3MF83A"
+  "XVYEQZB9"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Tell me, yeah.
+Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Leonard v. Pepsico, Inc.</i>, 88 F. Supp. 2d 116, 127 (S.D.N.Y. 1999)
+<i>Frigaliment Importing Co. v. B.N.S. International Sales Corp.</i>, 190 F. Supp. 116, 117 (S.D.N.Y. 1960)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
 [
 [
   {
-    "id": "JR3MF83A",
+    "id": "XVYEQZB9",
     "position": 0,
-    "locator": "p. 127"
+    "locator": "p. 117"
   }
 ]
 ]
@@ -31,19 +31,17 @@ Tell me, yeah.
 >>===== INPUT =====>>
 [
   {
-    "id": "JR3MF83A",
+    "id": "XVYEQZB9",
     "type": "legal_case",
-    "title": "Leonard v. Pepsico, Inc.",
-    "container-title": "F. Supp. 2d",
-    "volume": "88",
+    "title": "Frigaliment Importing Co. v. B.N.S. International Sales Corp.",
+    "container-title": "F. Supp.",
+    "volume": "190",
     "authority": "district.court",
     "page": "116",
     "issued": {
       "date-parts": [
         [
-          1999,
-          10,
-          23
+          1960
         ]
       ]
     },

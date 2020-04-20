@@ -1,0 +1,41 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "RW8NUS7K"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<var>year</var> Minn. Laws <var>page no.</var>
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "RW8NUS7K",
+    "position": 0
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "RW8NUS7K",
+    "type": "legislation",
+    "title": "Minn. Laws",
+    "volume": "2000",
+    "section": "45",
+    "jurisdiction": "us:mn"
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,41 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "ZGVWF68N"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Unif. R. Evid. 601
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "ZGVWF68N",
+    "position": 0,
+    "locator": "r. 601"
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "ZGVWF68N",
+    "type": "legislation",
+    "title": "Unif. R. Evid.",
+    "section": "601",
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<

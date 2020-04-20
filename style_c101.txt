@@ -4,25 +4,25 @@ citation
 
 >>===== KEYS =====>>
 [
-  "JR3MF83A"
+  "SR2XRUKU"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Tell me, yeah.
+Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Leonard v. Pepsico, Inc.</i>, 88 F. Supp. 2d 116, 127 (S.D.N.Y. 1999)
+<i>Fenton v. Quaboag Country Club</i>, 233 N.E.2d 216, 219 (Mass. 1968)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
 [
 [
   {
-    "id": "JR3MF83A",
+    "id": "SR2XRUKU",
     "position": 0,
-    "locator": "p. 127"
+    "locator": "p. 219"
   }
 ]
 ]
@@ -31,23 +31,21 @@ Tell me, yeah.
 >>===== INPUT =====>>
 [
   {
-    "id": "JR3MF83A",
+    "id": "SR2XRUKU",
     "type": "legal_case",
-    "title": "Leonard v. Pepsico, Inc.",
-    "container-title": "F. Supp. 2d",
-    "volume": "88",
-    "authority": "district.court",
-    "page": "116",
+    "title": "Fenton v. Quaboag Country Club",
+    "container-title": "N.E.2d",
+    "volume": "233",
+    "authority": "supreme.judicial.court",
+    "page": "216",
     "issued": {
       "date-parts": [
         [
-          1999,
-          10,
-          23
+          1968
         ]
       ]
     },
-    "jurisdiction": "us:c2:ny.sd"
+    "jurisdiction": "us:ma"
   }
 ]
 <<===== INPUT =====<<

@@ -1,0 +1,48 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "RX3PBRYE"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Mich. Comp. Laws § <var>x.x</var> (<var>year</var>)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "RX3PBRYE",
+    "position": 0,
+    "locator": "sec. 12.34"
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "RX3PBRYE",
+    "type": "legislation",
+    "container-title": "Mich. Comp. Laws",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "section": "sec. 12.34",
+    "jurisdiction": "us:mi"
+  }
+]
+<<===== INPUT =====<<

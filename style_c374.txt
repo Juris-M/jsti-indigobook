@@ -1,0 +1,41 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "6VIYWAWJ"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<var>year</var>-<var>pamph. no.</var> D.C. Code Adv. Leg. Serv. <var>page no.</var>
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "6VIYWAWJ",
+    "position": 0
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "6VIYWAWJ",
+    "type": "legislation",
+    "title": "D.C. Code Adv. Leg. Serv.",
+    "volume": "2000-14",
+    "section": "45",
+    "jurisdiction": "us:dc"
+  }
+]
+<<===== INPUT =====<<

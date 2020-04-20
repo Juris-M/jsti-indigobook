@@ -1,0 +1,48 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "D495J8RT"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+S.D. Codified Laws § <var>x-x-x</var> (<var>year</var>)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "D495J8RT",
+    "position": 0,
+    "locator": "sec. 12-34-56"
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "D495J8RT",
+    "type": "legislation",
+    "container-title": "S.D. Codified Laws",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "section": "sec. 12-34-56",
+    "jurisdiction": "us:sd"
+  }
+]
+<<===== INPUT =====<<

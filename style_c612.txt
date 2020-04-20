@@ -1,0 +1,41 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "JU2XSKXB"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<var>year</var> Okla. Sess. Laws <var>page no.</var>
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "JU2XSKXB",
+    "position": 0
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "JU2XSKXB",
+    "type": "legislation",
+    "title": "Okla. Sess. Laws",
+    "volume": "2000",
+    "section": "45",
+    "jurisdiction": "us:ok"
+  }
+]
+<<===== INPUT =====<<

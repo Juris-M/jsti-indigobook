@@ -4,12 +4,12 @@ citation
 
 >>===== KEYS =====>>
 [
-  "JR3MF83A"
+  "9VHMKKNG"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Tell me, yeah.
+Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
@@ -20,7 +20,7 @@ Tell me, yeah.
 [
 [
   {
-    "id": "JR3MF83A",
+    "id": "9VHMKKNG",
     "position": 0,
     "locator": "p. 127"
   }
@@ -31,19 +31,30 @@ Tell me, yeah.
 >>===== INPUT =====>>
 [
   {
-    "id": "JR3MF83A",
+    "id": "9VHMKKNG",
     "type": "legal_case",
     "title": "Leonard v. Pepsico, Inc.",
     "container-title": "F. Supp. 2d",
     "volume": "88",
     "authority": "district.court",
+    "number": "96 Civ. 5320(KMW);96 Civ. 9069(KMW)",
     "page": "116",
     "issued": {
       "date-parts": [
         [
           1999,
-          10,
-          23
+          8,
+          5
+        ]
+      ]
+    },
+    "URL": "https://www.courtlistener.com/opinion/2579076/leonard-v-pepsico-inc/",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          22
         ]
       ]
     },

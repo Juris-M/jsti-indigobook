@@ -1,0 +1,50 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "MF9KDTEA"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<var>tit. no.</var> U.S.C.A. § <var>x</var> (West <var>year</var>)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "MF9KDTEA",
+    "position": 0,
+    "locator": "sec. 123"
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "MF9KDTEA",
+    "type": "legislation",
+    "container-title": "U.S.C.A.",
+    "volume": "50",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "section": "§ 123",
+    "publisher": "West",
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<

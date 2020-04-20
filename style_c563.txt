@@ -1,0 +1,50 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "KZCW7PKQ"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<var>vol. no.</var> N.M. Reg. <var>page no.</var> (<var>month day, year</var>)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "KZCW7PKQ",
+    "position": 0
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "KZCW7PKQ",
+    "type": "legislation",
+    "container-title": "N.M. Reg.",
+    "volume": "23",
+    "issued": {
+      "date-parts": [
+        [
+          2000,
+          4,
+          1
+        ]
+      ]
+    },
+    "section": "45",
+    "jurisdiction": "us:nm"
+  }
+]
+<<===== INPUT =====<<

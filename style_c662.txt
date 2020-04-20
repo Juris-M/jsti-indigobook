@@ -1,0 +1,49 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "8YLV7D54"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Tex. Ins. Code Ann. art. <var>x</var> (West <var>year</var>)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "8YLV7D54",
+    "position": 0,
+    "locator": "art. 123"
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "8YLV7D54",
+    "type": "legislation",
+    "container-title": "Tex. Ins. Code Ann.",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "section": "art. 123",
+    "publisher": "West",
+    "jurisdiction": "us:tx"
+  }
+]
+<<===== INPUT =====<<

@@ -4,25 +4,24 @@ citation
 
 >>===== KEYS =====>>
 [
-  "JR3MF83A"
+  "93GX8PLX"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Tell me, yeah.
+Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Leonard v. Pepsico, Inc.</i>, 88 F. Supp. 2d 116, 127 (S.D.N.Y. 1999)
+<i>In re Verizon Internet Servs., Inc.</i>, 257 F. Supp. 2d 244 (D.D.C. 2003)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
 [
 [
   {
-    "id": "JR3MF83A",
-    "position": 0,
-    "locator": "p. 127"
+    "id": "93GX8PLX",
+    "position": 0
   }
 ]
 ]
@@ -31,23 +30,21 @@ Tell me, yeah.
 >>===== INPUT =====>>
 [
   {
-    "id": "JR3MF83A",
+    "id": "93GX8PLX",
     "type": "legal_case",
-    "title": "Leonard v. Pepsico, Inc.",
+    "title": "In re Verizon Internet Servs., Inc.",
     "container-title": "F. Supp. 2d",
-    "volume": "88",
+    "volume": "257",
     "authority": "district.court",
-    "page": "116",
+    "page": "244",
     "issued": {
       "date-parts": [
         [
-          1999,
-          10,
-          23
+          2003
         ]
       ]
     },
-    "jurisdiction": "us:c2:ny.sd"
+    "jurisdiction": "us:c0:dc.d"
   }
 ]
 <<===== INPUT =====<<

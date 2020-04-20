@@ -4,25 +4,25 @@ citation
 
 >>===== KEYS =====>>
 [
-  "JR3MF83A"
+  "CDDYBPHD"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Tell me, yeah.
+Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Leonard v. Pepsico, Inc.</i>, 88 F. Supp. 2d 116, 127 (S.D.N.Y. 1999)
+<i>Dep’t of Revenue v. James B. Beam Distilling Co.</i>, 377 U.S. 341, 349 (1964)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
 [
 [
   {
-    "id": "JR3MF83A",
+    "id": "CDDYBPHD",
     "position": 0,
-    "locator": "p. 127"
+    "locator": "p. 349"
   }
 ]
 ]
@@ -31,23 +31,21 @@ Tell me, yeah.
 >>===== INPUT =====>>
 [
   {
-    "id": "JR3MF83A",
+    "id": "CDDYBPHD",
     "type": "legal_case",
-    "title": "Leonard v. Pepsico, Inc.",
-    "container-title": "F. Supp. 2d",
-    "volume": "88",
-    "authority": "district.court",
-    "page": "116",
+    "title": "Dep’t of Revenue v. James B. Beam Distilling Co.",
+    "container-title": "U.S.",
+    "volume": "377",
+    "authority": "supreme.court",
+    "page": "341",
     "issued": {
       "date-parts": [
         [
-          1999,
-          10,
-          23
+          1964
         ]
       ]
     },
-    "jurisdiction": "us:c2:ny.sd"
+    "jurisdiction": "us"
   }
 ]
 <<===== INPUT =====<<

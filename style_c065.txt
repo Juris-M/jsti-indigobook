@@ -4,25 +4,25 @@ citation
 
 >>===== KEYS =====>>
 [
-  "JR3MF83A"
+  "9DRXCP3H"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Tell me, yeah.
+Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Leonard v. Pepsico, Inc.</i>, 88 F. Supp. 2d 116, 127 (S.D.N.Y. 1999)
+<i>Selmon v. Hasbro Bradley, Inc.</i>, 669 F. Supp. 1267, 1272-73 (S.D.N.Y. 1987)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
 [
 [
   {
-    "id": "JR3MF83A",
+    "id": "9DRXCP3H",
     "position": 0,
-    "locator": "p. 127"
+    "locator": "p. 1272-73"
   }
 ]
 ]
@@ -31,19 +31,17 @@ Tell me, yeah.
 >>===== INPUT =====>>
 [
   {
-    "id": "JR3MF83A",
+    "id": "9DRXCP3H",
     "type": "legal_case",
-    "title": "Leonard v. Pepsico, Inc.",
-    "container-title": "F. Supp. 2d",
-    "volume": "88",
+    "title": "Selmon v. Hasbro Bradley, Inc.",
+    "container-title": "F. Supp.",
+    "volume": "669",
     "authority": "district.court",
-    "page": "116",
+    "page": "1267",
     "issued": {
       "date-parts": [
         [
-          1999,
-          10,
-          23
+          1987
         ]
       ]
     },

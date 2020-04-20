@@ -13,14 +13,14 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>But cf.</i> <i>The Bluebook: A Uniform System of Citation</i> (Columbia Law Review Ass’n et al. eds., 20th ed. 2015)
+<i>Cf.</i> <i>The Bluebook: A Uniform System of Citation</i> (Columbia Law Review Ass’n et al. eds., 20th ed. 2015)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
 [
 [
   {
-    "prefix": "<i>but cf.</i>",
+    "prefix": "<i>cf.</i>",
     "id": "L4TVSRGE",
     "position": 0
   }

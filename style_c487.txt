@@ -1,0 +1,49 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "TLAXBE9J"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<var>tit. no.</var> Mass. Code Regs. <var>sec. no.</var> (LexisNexis <var>year</var>)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "TLAXBE9J",
+    "position": 0
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "TLAXBE9J",
+    "type": "legislation",
+    "title": "Mass. Code Regs.",
+    "volume": "50",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "section": "10",
+    "publisher": "LexisNexis",
+    "jurisdiction": "us:ma"
+  }
+]
+<<===== INPUT =====<<

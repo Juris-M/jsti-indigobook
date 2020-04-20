@@ -1,0 +1,48 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "RRXHVULG"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Treas. Reg. § 1.414(r)-8 (1994)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "RRXHVULG",
+    "position": 0,
+    "locator": "sec. 1.414(r)-8"
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "RRXHVULG",
+    "type": "legislation",
+    "container-title": "Treas. Reg.",
+    "issued": {
+      "date-parts": [
+        [
+          1994
+        ]
+      ]
+    },
+    "section": "sec. 1.414(r)-8",
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<

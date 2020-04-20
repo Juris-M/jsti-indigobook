@@ -4,25 +4,25 @@ citation
 
 >>===== KEYS =====>>
 [
-  "JR3MF83A"
+  "63JH7M2T"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Tell me, yeah.
+Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Leonard v. Pepsico, Inc.</i>, 88 F. Supp. 2d 116, 127 (S.D.N.Y. 1999)
+<i>Ford v. Wainwright</i>, 477 U.S. 399, 410 (1986)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
 [
 [
   {
-    "id": "JR3MF83A",
+    "id": "63JH7M2T",
     "position": 0,
-    "locator": "p. 127"
+    "locator": "p. 410"
   }
 ]
 ]
@@ -31,23 +31,21 @@ Tell me, yeah.
 >>===== INPUT =====>>
 [
   {
-    "id": "JR3MF83A",
+    "id": "63JH7M2T",
     "type": "legal_case",
-    "title": "Leonard v. Pepsico, Inc.",
-    "container-title": "F. Supp. 2d",
-    "volume": "88",
-    "authority": "district.court",
-    "page": "116",
+    "title": "Ford v. Wainwright",
+    "container-title": "U.S.",
+    "volume": "477",
+    "authority": "supreme.court",
+    "page": "399",
     "issued": {
       "date-parts": [
         [
-          1999,
-          10,
-          23
+          1986
         ]
       ]
     },
-    "jurisdiction": "us:c2:ny.sd"
+    "jurisdiction": "us"
   }
 ]
 <<===== INPUT =====<<

@@ -4,25 +4,24 @@ citation
 
 >>===== KEYS =====>>
 [
-  "JR3MF83A"
+  "N5JBHNML"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Tell me, yeah.
+Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Leonard v. Pepsico, Inc.</i>, 88 F. Supp. 2d 116, 127 (S.D.N.Y. 1999)
+<i>Energy &amp;amp; Env't Legal Inst. v. Epel</i>, 43 F. Supp. 3d 1171 (D. Colo. 2014)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
 [
 [
   {
-    "id": "JR3MF83A",
-    "position": 0,
-    "locator": "p. 127"
+    "id": "N5JBHNML",
+    "position": 0
   }
 ]
 ]
@@ -31,23 +30,21 @@ Tell me, yeah.
 >>===== INPUT =====>>
 [
   {
-    "id": "JR3MF83A",
+    "id": "N5JBHNML",
     "type": "legal_case",
-    "title": "Leonard v. Pepsico, Inc.",
-    "container-title": "F. Supp. 2d",
-    "volume": "88",
+    "title": "Energy & Env't Legal Inst. v. Epel",
+    "container-title": "F. Supp. 3d",
+    "volume": "43",
     "authority": "district.court",
-    "page": "116",
+    "page": "1171",
     "issued": {
       "date-parts": [
         [
-          1999,
-          10,
-          23
+          2014
         ]
       ]
     },
-    "jurisdiction": "us:c2:ny.sd"
+    "jurisdiction": "us:c10:co.d"
   }
 ]
 <<===== INPUT =====<<

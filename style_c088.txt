@@ -4,25 +4,25 @@ citation
 
 >>===== KEYS =====>>
 [
-  "JR3MF83A"
+  "3A2SGMNI"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Tell me, yeah.
+Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Leonard v. Pepsico, Inc.</i>, 88 F. Supp. 2d 116, 127 (S.D.N.Y. 1999)
+<i>People v. Foranyic</i>, 74 Cal. Rptr. 2d 804, 807 (Ct. App. 1998)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
 [
 [
   {
-    "id": "JR3MF83A",
+    "id": "3A2SGMNI",
     "position": 0,
-    "locator": "p. 127"
+    "locator": "p. 807"
   }
 ]
 ]
@@ -31,23 +31,21 @@ Tell me, yeah.
 >>===== INPUT =====>>
 [
   {
-    "id": "JR3MF83A",
+    "id": "3A2SGMNI",
     "type": "legal_case",
-    "title": "Leonard v. Pepsico, Inc.",
-    "container-title": "F. Supp. 2d",
-    "volume": "88",
-    "authority": "district.court",
-    "page": "116",
+    "title": "People v. Foranyic",
+    "container-title": "Cal. Rptr. 2d",
+    "volume": "74",
+    "authority": "court.appeal",
+    "page": "804",
     "issued": {
       "date-parts": [
         [
-          1999,
-          10,
-          23
+          1998
         ]
       ]
     },
-    "jurisdiction": "us:c2:ny.sd"
+    "jurisdiction": "us:ca"
   }
 ]
 <<===== INPUT =====<<

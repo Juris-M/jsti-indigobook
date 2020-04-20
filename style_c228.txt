@@ -4,25 +4,25 @@ citation
 
 >>===== KEYS =====>>
 [
-  "JR3MF83A"
+  "SN5P2GHJ"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Tell me, yeah.
+Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Leonard v. Pepsico, Inc.</i>, 88 F. Supp. 2d 116, 127 (S.D.N.Y. 1999)
+<i>Viacom Int’l, Inc. v. YouTube, Inc.</i>, 676 F.3d 19, 31 (2d Cir. 2012)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
 [
 [
   {
-    "id": "JR3MF83A",
+    "id": "SN5P2GHJ",
     "position": 0,
-    "locator": "p. 127"
+    "locator": "p. 31"
   }
 ]
 ]
@@ -31,23 +31,21 @@ Tell me, yeah.
 >>===== INPUT =====>>
 [
   {
-    "id": "JR3MF83A",
+    "id": "SN5P2GHJ",
     "type": "legal_case",
-    "title": "Leonard v. Pepsico, Inc.",
-    "container-title": "F. Supp. 2d",
-    "volume": "88",
-    "authority": "district.court",
-    "page": "116",
+    "title": "Viacom Int’l, Inc. v. YouTube, Inc.",
+    "container-title": "F.3d",
+    "volume": "676",
+    "authority": "court.appeals",
+    "page": "19",
     "issued": {
       "date-parts": [
         [
-          1999,
-          10,
-          23
+          2012
         ]
       ]
     },
-    "jurisdiction": "us:c2:ny.sd"
+    "jurisdiction": "us:c2"
   }
 ]
 <<===== INPUT =====<<

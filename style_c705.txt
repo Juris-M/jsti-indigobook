@@ -1,0 +1,49 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "5CXYJFCD"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+W. Va. Code Ann. § <var>x-x-x</var> (LexisNexis <var>year</var>)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "5CXYJFCD",
+    "position": 0,
+    "locator": "sec. 12-34-56"
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "5CXYJFCD",
+    "type": "legislation",
+    "container-title": "W. Va. Code Ann.",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "section": "sec. 12-34-56",
+    "publisher": "LexisNexis",
+    "jurisdiction": "us:wv"
+  }
+]
+<<===== INPUT =====<<

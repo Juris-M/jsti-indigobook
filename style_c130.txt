@@ -1,0 +1,43 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "SC2WBGB3"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Family Sponsor Immigration Act of 2002, Pub. L. No. 107-150, 116 Stat. 74
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "SC2WBGB3",
+    "position": 0
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "SC2WBGB3",
+    "type": "legislation",
+    "title": "Family Sponsor Immigration Act of 2002",
+    "volume": "116",
+    "number": "107-150",
+    "page": "74",
+    "jurisdiction": "us",
+    "gazette-flag": "1"
+  }
+]
+<<===== INPUT =====<<

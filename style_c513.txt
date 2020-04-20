@@ -1,0 +1,49 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "BPUDM7R6"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Mo. Ann. Stat. § <var>x.x</var> (West <var>year</var>)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "BPUDM7R6",
+    "position": 0,
+    "locator": "sec. 12.34"
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "BPUDM7R6",
+    "type": "legislation",
+    "container-title": "Mo. Ann. Stat.",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "section": "sec. 12.34",
+    "publisher": "West",
+    "jurisdiction": "us:mo"
+  }
+]
+<<===== INPUT =====<<

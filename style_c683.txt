@@ -1,0 +1,48 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "Z9M6ETUA"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Vt. Stat. Ann. tit. <var>x</var>, § <var>x</var> (<var>year</var>)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "Z9M6ETUA",
+    "position": 0,
+    "locator": "tit. 123, sec. 123"
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "Z9M6ETUA",
+    "type": "legislation",
+    "container-title": "Vt. Stat. Ann.",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "section": "tit. 123, § 123",
+    "jurisdiction": "us:vt"
+  }
+]
+<<===== INPUT =====<<

@@ -4,25 +4,25 @@ citation
 
 >>===== KEYS =====>>
 [
-  "JR3MF83A"
+  "S5Q9BXBA"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Tell me, yeah.
+Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Leonard v. Pepsico, Inc.</i>, 88 F. Supp. 2d 116, 127 (S.D.N.Y. 1999)
+<i>Naked Cowboy</i>, 844 F. Supp. 2d at 517-18
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
 [
 [
   {
-    "id": "JR3MF83A",
-    "position": 0,
-    "locator": "p. 127"
+    "id": "S5Q9BXBA",
+    "position": 1,
+    "locator": "p. 517-18"
   }
 ]
 ]
@@ -31,19 +31,17 @@ Tell me, yeah.
 >>===== INPUT =====>>
 [
   {
-    "id": "JR3MF83A",
+    "id": "S5Q9BXBA",
     "type": "legal_case",
-    "title": "Leonard v. Pepsico, Inc.",
+    "title": "Naked Cowboy v. CBS",
     "container-title": "F. Supp. 2d",
-    "volume": "88",
+    "volume": "844",
     "authority": "district.court",
-    "page": "116",
+    "page": "510",
     "issued": {
       "date-parts": [
         [
-          1999,
-          10,
-          23
+          2012
         ]
       ]
     },

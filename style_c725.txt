@@ -1,0 +1,49 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "J9FPYSSE"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Wyo. Stat. Ann. § <var>x-x-x</var> (West <var>year</var>)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "J9FPYSSE",
+    "position": 0,
+    "locator": "sec. 12-34-56"
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "J9FPYSSE",
+    "type": "legislation",
+    "container-title": "Wyo. Stat. Ann.",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "section": "sec. 12-34-56",
+    "publisher": "West",
+    "jurisdiction": "us:wy"
+  }
+]
+<<===== INPUT =====<<

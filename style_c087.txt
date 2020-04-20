@@ -4,25 +4,25 @@ citation
 
 >>===== KEYS =====>>
 [
-  "JR3MF83A"
+  "IAL7VTK8"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Tell me, yeah.
+Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Leonard v. Pepsico, Inc.</i>, 88 F. Supp. 2d 116, 127 (S.D.N.Y. 1999)
+<i>Stambovsky v. Ackley</i>, 572 N.Y.S.2d 672, 674 (App. Div. 1991)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
 [
 [
   {
-    "id": "JR3MF83A",
+    "id": "IAL7VTK8",
     "position": 0,
-    "locator": "p. 127"
+    "locator": "p. 674"
   }
 ]
 ]
@@ -31,23 +31,21 @@ Tell me, yeah.
 >>===== INPUT =====>>
 [
   {
-    "id": "JR3MF83A",
+    "id": "IAL7VTK8",
     "type": "legal_case",
-    "title": "Leonard v. Pepsico, Inc.",
-    "container-title": "F. Supp. 2d",
-    "volume": "88",
-    "authority": "district.court",
-    "page": "116",
+    "title": "Stambovsky v. Ackley",
+    "container-title": "N.Y.S.2d",
+    "volume": "572",
+    "authority": "appellate.division.supreme.court",
+    "page": "672",
     "issued": {
       "date-parts": [
         [
-          1999,
-          10,
-          23
+          1991
         ]
       ]
     },
-    "jurisdiction": "us:c2:ny.sd"
+    "jurisdiction": "us:ny"
   }
 ]
 <<===== INPUT =====<<

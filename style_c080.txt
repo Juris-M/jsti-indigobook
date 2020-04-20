@@ -4,25 +4,24 @@ citation
 
 >>===== KEYS =====>>
 [
-  "JR3MF83A"
+  "INNSUEIC"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Tell me, yeah.
+Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Leonard v. Pepsico, Inc.</i>, 88 F. Supp. 2d 116, 127 (S.D.N.Y. 1999)
+<i>Beastie Boys v. Monster Energy Co.</i>, No. 12 Civ. 6065 (S.D.N.Y. Dec. 4, 2014)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
 [
 [
   {
-    "id": "JR3MF83A",
-    "position": 0,
-    "locator": "p. 127"
+    "id": "INNSUEIC",
+    "position": 0
   }
 ]
 ]
@@ -31,19 +30,17 @@ Tell me, yeah.
 >>===== INPUT =====>>
 [
   {
-    "id": "JR3MF83A",
+    "id": "INNSUEIC",
     "type": "legal_case",
-    "title": "Leonard v. Pepsico, Inc.",
-    "container-title": "F. Supp. 2d",
-    "volume": "88",
+    "title": "Beastie Boys v. Monster Energy Co.",
     "authority": "district.court",
-    "page": "116",
+    "number": "12 Civ. 6065",
     "issued": {
       "date-parts": [
         [
-          1999,
-          10,
-          23
+          2014,
+          12,
+          4
         ]
       ]
     },

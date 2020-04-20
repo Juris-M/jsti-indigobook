@@ -4,25 +4,25 @@ citation
 
 >>===== KEYS =====>>
 [
-  "JR3MF83A"
+  "BS7H6L8T"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Tell me, yeah.
+Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Leonard v. Pepsico, Inc.</i>, 88 F. Supp. 2d 116, 127 (S.D.N.Y. 1999)
+<i>Gordon v. Secretary of State of New Jersey</i>, 460 F. Supp. 1026, 1026, 1028 (D.N.J. 1978)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
 [
 [
   {
-    "id": "JR3MF83A",
+    "id": "BS7H6L8T",
     "position": 0,
-    "locator": "p. 127"
+    "locator": "p. 1028"
   }
 ]
 ]
@@ -31,23 +31,21 @@ Tell me, yeah.
 >>===== INPUT =====>>
 [
   {
-    "id": "JR3MF83A",
+    "id": "BS7H6L8T",
     "type": "legal_case",
-    "title": "Leonard v. Pepsico, Inc.",
-    "container-title": "F. Supp. 2d",
-    "volume": "88",
+    "title": "Gordon v. Secretary of State of New Jersey",
+    "container-title": "F. Supp.",
+    "volume": "460",
     "authority": "district.court",
-    "page": "116",
+    "page": "1026",
     "issued": {
       "date-parts": [
         [
-          1999,
-          10,
-          23
+          1978
         ]
       ]
     },
-    "jurisdiction": "us:c2:ny.sd"
+    "jurisdiction": "us:c3:nj.d"
   }
 ]
 <<===== INPUT =====<<

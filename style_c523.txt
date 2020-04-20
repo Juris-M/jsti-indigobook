@@ -1,0 +1,50 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "IB6JV64P"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<var>iss. no.</var> Mont. Admin. Reg. <var>page no.</var> (<var>month day, year</var>)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "IB6JV64P",
+    "position": 0
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "IB6JV64P",
+    "type": "legislation",
+    "container-title": "Mont. Admin. Reg.",
+    "volume": "15",
+    "issued": {
+      "date-parts": [
+        [
+          2000,
+          4,
+          1
+        ]
+      ]
+    },
+    "section": "45",
+    "jurisdiction": "us:mt"
+  }
+]
+<<===== INPUT =====<<

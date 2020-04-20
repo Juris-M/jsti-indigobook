@@ -4,25 +4,25 @@ citation
 
 >>===== KEYS =====>>
 [
-  "JR3MF83A"
+  "V7ESPKED"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Tell me, yeah.
+Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Leonard v. Pepsico, Inc.</i>, 88 F. Supp. 2d 116, 127 (S.D.N.Y. 1999)
+<i>Liriano II</i>, 92 N.Y.2d at 236–37
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
 [
 [
   {
-    "id": "JR3MF83A",
+    "id": "V7ESPKED",
     "position": 0,
-    "locator": "p. 127"
+    "locator": "p. 236–37"
   }
 ]
 ]
@@ -31,23 +31,21 @@ Tell me, yeah.
 >>===== INPUT =====>>
 [
   {
-    "id": "JR3MF83A",
+    "id": "V7ESPKED",
     "type": "legal_case",
-    "title": "Leonard v. Pepsico, Inc.",
-    "container-title": "F. Supp. 2d",
-    "volume": "88",
-    "authority": "district.court",
-    "page": "116",
+    "title": "Liriano v. Hobart Corp. (Liriano II)",
+    "container-title": "N.Y.2d",
+    "volume": "92",
+    "authority": "court.appeals",
+    "page": "232",
     "issued": {
       "date-parts": [
         [
-          1999,
-          10,
-          23
+          1998
         ]
       ]
     },
-    "jurisdiction": "us:c2:ny.sd"
+    "jurisdiction": "us:ny"
   }
 ]
 <<===== INPUT =====<<

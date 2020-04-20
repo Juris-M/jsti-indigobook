@@ -1,0 +1,41 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "WK4TE2Y6"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<var>year</var> Conn. Spec. Acts <var>page no.</var>
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "WK4TE2Y6",
+    "position": 0
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "WK4TE2Y6",
+    "type": "legislation",
+    "title": "Conn. Spec. Acts",
+    "volume": "2000",
+    "section": "45",
+    "jurisdiction": "us:ct"
+  }
+]
+<<===== INPUT =====<<

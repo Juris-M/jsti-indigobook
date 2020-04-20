@@ -1,0 +1,49 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "N9DZ5JW5"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Del. Code Ann. tit. <var>x</var>, § <var>x</var> (West <var>year</var>)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "N9DZ5JW5",
+    "position": 0,
+    "locator": "sec. 123"
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "N9DZ5JW5",
+    "type": "legislation",
+    "container-title": "Del. Code Ann.",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "section": "tit. 123, § 123",
+    "publisher": "West",
+    "jurisdiction": "us:de"
+  }
+]
+<<===== INPUT =====<<

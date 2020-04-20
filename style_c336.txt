@@ -1,0 +1,49 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "ZTCGADTX"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Cal. <var>Subject</var> Code § <var>x</var> (Deering <var>year</var>)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "ZTCGADTX",
+    "position": 0,
+    "locator": "sec. 123"
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "ZTCGADTX",
+    "type": "legislation",
+    "container-title": "Cal. Civil Code",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "section": "sec. 123",
+    "publisher": "Deering",
+    "jurisdiction": "us:ca"
+  }
+]
+<<===== INPUT =====<<

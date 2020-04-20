@@ -4,25 +4,25 @@ citation
 
 >>===== KEYS =====>>
 [
-  "JR3MF83A"
+  "NHHMS5NA"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Tell me, yeah.
+Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Leonard v. Pepsico, Inc.</i>, 88 F. Supp. 2d 116, 127 (S.D.N.Y. 1999)
+<i>Brown v. Entm’t Merchs. Ass’n</i>, 131 S. Ct. 2729, 2738 (2011)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
 [
 [
   {
-    "id": "JR3MF83A",
+    "id": "NHHMS5NA",
     "position": 0,
-    "locator": "p. 127"
+    "locator": "p. 2738"
   }
 ]
 ]
@@ -31,23 +31,21 @@ Tell me, yeah.
 >>===== INPUT =====>>
 [
   {
-    "id": "JR3MF83A",
+    "id": "NHHMS5NA",
     "type": "legal_case",
-    "title": "Leonard v. Pepsico, Inc.",
-    "container-title": "F. Supp. 2d",
-    "volume": "88",
-    "authority": "district.court",
-    "page": "116",
+    "title": "Brown v. Entm’t Merchs. Ass’n",
+    "container-title": "S. Ct.",
+    "volume": "131",
+    "authority": "supreme.court",
+    "page": "2729",
     "issued": {
       "date-parts": [
         [
-          1999,
-          10,
-          23
+          2011
         ]
       ]
     },
-    "jurisdiction": "us:c2:ny.sd"
+    "jurisdiction": "us"
   }
 ]
 <<===== INPUT =====<<

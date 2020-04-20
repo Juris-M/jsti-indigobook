@@ -1,0 +1,50 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "BTS3XUW5"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<var>tit. no.</var> U.S.C.S. § <var>x</var> (LexisNexis <var>year</var>)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "BTS3XUW5",
+    "position": 0,
+    "locator": "sec. 123"
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "BTS3XUW5",
+    "type": "legislation",
+    "container-title": "U.S.C.S.",
+    "volume": "50",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "section": "§ 123",
+    "publisher": "LexisNexis",
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<

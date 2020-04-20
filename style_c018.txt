@@ -4,25 +4,26 @@ citation
 
 >>===== KEYS =====>>
 [
-  "JR3MF83A"
+  "HY9R83RB"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Tell me, yeah.
+Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Leonard v. Pepsico, Inc.</i>, 88 F. Supp. 2d 116, 127 (S.D.N.Y. 1999)
+<i>E.g.</i>, <i>U.S. v. Murphy</i>, 552 F.3d 405, 411 (4th Cir. 2009)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
 [
 [
   {
-    "id": "JR3MF83A",
+    "prefix": "<i>e.g.</i>",
+    "id": "HY9R83RB",
     "position": 0,
-    "locator": "p. 127"
+    "locator": "p. 411"
   }
 ]
 ]
@@ -31,23 +32,21 @@ Tell me, yeah.
 >>===== INPUT =====>>
 [
   {
-    "id": "JR3MF83A",
+    "id": "HY9R83RB",
     "type": "legal_case",
-    "title": "Leonard v. Pepsico, Inc.",
-    "container-title": "F. Supp. 2d",
-    "volume": "88",
-    "authority": "district.court",
-    "page": "116",
+    "title": "U.S. v. Murphy",
+    "container-title": "F.3d",
+    "volume": "552",
+    "authority": "court.appeals",
+    "page": "405",
     "issued": {
       "date-parts": [
         [
-          1999,
-          10,
-          23
+          2009
         ]
       ]
     },
-    "jurisdiction": "us:c2:ny.sd"
+    "jurisdiction": "us:c4"
   }
 ]
 <<===== INPUT =====<<

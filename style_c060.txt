@@ -4,25 +4,25 @@ citation
 
 >>===== KEYS =====>>
 [
-  "JR3MF83A"
+  "7XQICBJV"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Tell me, yeah.
+Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Leonard v. Pepsico, Inc.</i>, 88 F. Supp. 2d 116, 127 (S.D.N.Y. 1999)
+<i>Mattel, Inc. v. MCA Records, Inc.</i>, 296 F.3d 894, 908 (9th Cir. 2002)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
 [
 [
   {
-    "id": "JR3MF83A",
+    "id": "7XQICBJV",
     "position": 0,
-    "locator": "p. 127"
+    "locator": "p. 908"
   }
 ]
 ]
@@ -31,23 +31,21 @@ Tell me, yeah.
 >>===== INPUT =====>>
 [
   {
-    "id": "JR3MF83A",
+    "id": "7XQICBJV",
     "type": "legal_case",
-    "title": "Leonard v. Pepsico, Inc.",
-    "container-title": "F. Supp. 2d",
-    "volume": "88",
-    "authority": "district.court",
-    "page": "116",
+    "title": "Mattel, Inc. v. MCA Records, Inc.",
+    "container-title": "F.3d",
+    "volume": "296",
+    "authority": "court.appeals",
+    "page": "894",
     "issued": {
       "date-parts": [
         [
-          1999,
-          10,
-          23
+          2002
         ]
       ]
     },
-    "jurisdiction": "us:c2:ny.sd"
+    "jurisdiction": "us:c9"
   }
 ]
 <<===== INPUT =====<<

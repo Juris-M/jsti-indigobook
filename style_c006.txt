@@ -4,25 +4,26 @@ citation
 
 >>===== KEYS =====>>
 [
-  "JR3MF83A"
+  "A6YP7FGS"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Tell me, yeah.
+Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Leonard v. Pepsico, Inc.</i>, 88 F. Supp. 2d 116, 127 (S.D.N.Y. 1999)
+<i>see also Maryland v. King</i>, 133 S. Ct. 1958, 1989 (2013)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
 [
 [
   {
-    "id": "JR3MF83A",
+    "prefix": "<i>see also</i>",
+    "id": "A6YP7FGS",
     "position": 0,
-    "locator": "p. 127"
+    "locator": "p. 1989"
   }
 ]
 ]
@@ -31,23 +32,21 @@ Tell me, yeah.
 >>===== INPUT =====>>
 [
   {
-    "id": "JR3MF83A",
+    "id": "A6YP7FGS",
     "type": "legal_case",
-    "title": "Leonard v. Pepsico, Inc.",
-    "container-title": "F. Supp. 2d",
-    "volume": "88",
-    "authority": "district.court",
-    "page": "116",
+    "title": "Maryland v. King",
+    "container-title": "S. Ct.",
+    "volume": "133",
+    "authority": "supreme.court",
+    "page": "1958",
     "issued": {
       "date-parts": [
         [
-          1999,
-          10,
-          23
+          2013
         ]
       ]
     },
-    "jurisdiction": "us:c2:ny.sd"
+    "jurisdiction": "us"
   }
 ]
 <<===== INPUT =====<<
