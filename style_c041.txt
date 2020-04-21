@@ -4,25 +4,28 @@ citation
 
 >>===== KEYS =====>>
 [
-  "4DAVIATT"
+  "2352WLFZ"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+Testing.
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Toolson v. N.Y. Yankees, Inc.</i>, 346 U.S. 356 (1953)
+<i>Toolson v. New York Yankees, Incorp.</i>, 346 U.S. 356 (Sup. Ct., 1953)boopgaloo
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
 [
 [
-  {
-    "id": "4DAVIATT",
-    "position": 0
-  }
+  [
+    {
+      "id": "2352WLFZ",
+      "position": 0,
+      "suppress-author": true
+    }
+  ]
 ]
 ]
 <<===== CITATION-ITEMS =====<<
@@ -30,9 +33,9 @@ Initial test checkin
 >>===== INPUT =====>>
 [
   {
-    "id": "4DAVIATT",
+    "id": "2352WLFZ",
     "type": "legal_case",
-    "title": "Toolson v. N.Y. Yankees, Inc.",
+    "title": "Toolson v. New York Yankees, Incorp.",
     "container-title": "U.S.",
     "volume": "346",
     "authority": "supreme.court",
@@ -44,7 +47,7 @@ Initial test checkin
         ]
       ]
     },
-    "jurisdiction": "us"
+    "jurisdiction": "002usUnited States|US"
   }
 ]
 <<===== INPUT =====<<
