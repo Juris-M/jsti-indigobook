@@ -18,14 +18,14 @@ Initial test checkin
 
 >>===== CITATION-ITEMS =====>>
 [
-[
-  {
-    "prefix": "<i>e.g.</i>",
-    "id": "HY9R83RB",
-    "position": 0,
-    "locator": "p. 411"
-  }
-]
+  [
+    {
+      "prefix": "<i>E.g.</i>,",
+      "id": "HY9R83RB",
+      "position": 0,
+      "locator": "p. 411"
+    }
+  ]
 ]
 <<===== CITATION-ITEMS =====<<
 

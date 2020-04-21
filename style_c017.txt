@@ -4,7 +4,7 @@ citation
 
 >>===== KEYS =====>>
 [
-  "63JH7M2T"
+  "LC7J76NW"
 ]
 <<===== KEYS =====<<
 
@@ -18,29 +18,29 @@ Initial test checkin
 
 >>===== CITATION-ITEMS =====>>
 [
-[
-  {
-    "id": "63JH7M2T",
-    "position": 0
-  }
-]
+  [
+    {
+      "id": "LC7J76NW",
+      "position": 0
+    }
+  ]
 ]
 <<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
   {
-    "id": "63JH7M2T",
+    "id": "LC7J76NW",
     "type": "legal_case",
-    "title": "Ford v. Wainwright",
-    "container-title": "U.S.",
-    "volume": "477",
+    "title": "Riley v. California",
+    "container-title": "S. Ct.",
+    "volume": "134",
     "authority": "supreme.court",
-    "page": "399",
+    "page": "2473",
     "issued": {
       "date-parts": [
         [
-          1986
+          2014
         ]
       ]
     },

@@ -12,8 +12,18 @@ citation
 Initial test checkin
 <<===== DESCRIPTION =====<<
 
+>>===== ABBREVIATIONS =====>>
+{
+    "us": {
+        "container-title": {
+            "U.S.": "!authority>>>U.S."
+        }
+    }
+}
+<<===== ABBREVIATIONS =====<<
+
 >>===== RESULT =====>>
-<i>see Kyllo v. United States</i>, 389 U.S. 27 (2001)
+<i>see</i> <i>Kyllo v. United States</i>, 389 U.S. 27 (2001)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

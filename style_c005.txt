@@ -12,6 +12,16 @@ citation
 Initial test checkin
 <<===== DESCRIPTION =====<<
 
+>>===== ABBREVIATIONS =====>>
+{
+    "us": {
+        "container-title": {
+            "U.S.": "!authority>>>U.S."
+        }
+    }
+}
+<<===== ABBREVIATIONS =====<<
+
 >>===== RESULT =====>>
 <i>Arizona v. Hicks</i>, 480 U.S. 321, 329 (1987)
 <<===== RESULT =====<<
