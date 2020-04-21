@@ -4,26 +4,28 @@ citation
 
 >>===== KEYS =====>>
 [
-  "FF25SDZE"
+  "JR3MF83A"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+Tell me about it.
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>see also</i> Gerald Lebovits, <i>Write the Cites Right—Part II</i>, 76 N.Y. St. B.J. 64 (Dec. 2004)
+<i>Leonard v. Pepsico, Incorporated</i>, 88 F. Supp. 2nd 116, 127 (S.D. N.Y. 1999)xxx
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
 [
 [
-  {
-    "prefix": "<i>see also</i>",
-    "id": "FF25SDZE",
-    "position": 0
-  }
+  [
+    {
+      "id": "JR3MF83A",
+      "position": 0,
+      "locator": "p. 127"
+    }
+  ]
 ]
 ]
 <<===== CITATION-ITEMS =====<<
@@ -31,26 +33,23 @@ Initial test checkin
 >>===== INPUT =====>>
 [
   {
-    "id": "FF25SDZE",
-    "type": "article-journal",
-    "title": "Write the Cites Right—Part II",
-    "author": [
-      {
-        "given": "Gerald",
-        "family": "Lebovits"
-      }
-    ],
-    "container-title": "N.Y. St. B.J.",
-    "volume": "76",
-    "page": "64",
+    "id": "JR3MF83A",
+    "type": "legal_case",
+    "title": "Leonard v. Pepsico, Inc.",
+    "container-title": "F. Supp. 2d",
+    "volume": "88",
+    "authority": "district.court",
+    "page": "116",
     "issued": {
       "date-parts": [
         [
-          2004,
-          12
+          1999,
+          10,
+          23
         ]
       ]
-    }
+    },
+    "jurisdiction": "011us:c2:ny.sdUnited States|US|Second Circuit|S.D. New York"
   }
 ]
 <<===== INPUT =====<<
