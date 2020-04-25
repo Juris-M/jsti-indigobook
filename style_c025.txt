@@ -18,13 +18,12 @@ Ohio Rev. Code Ann. § 2921.22 (West 2014)
 
 >>===== CITATION-ITEMS =====>>
 [
-[
-  {
-    "id": "59S2P65P",
-    "position": 0,
-    "locator": "sec. 2921.22"
-  }
-]
+  [
+    {
+      "id": "59S2P65P",
+      "position": 0
+    }
+  ]
 ]
 <<===== CITATION-ITEMS =====<<
 

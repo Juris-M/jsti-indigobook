@@ -18,13 +18,13 @@ Initial test checkin
 
 >>===== CITATION-ITEMS =====>>
 [
-[
-  {
-    "id": "9W9TBW34",
-    "position": 0,
-    "locator": "p. 321"
-  }
-]
+  [
+    {
+      "id": "9W9TBW34",
+      "position": 0,
+      "locator": "p. 321"
+    }
+  ]
 ]
 <<===== CITATION-ITEMS =====<<
 

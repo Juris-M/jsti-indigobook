@@ -18,13 +18,13 @@ Initial test checkin
 
 >>===== CITATION-ITEMS =====>>
 [
-[
-  {
-    "prefix": "<i>See generally</i>",
-    "id": "TKZBTLHM",
-    "position": 0
-  }
-]
+  [
+    {
+      "prefix": "<i>See generally</i>",
+      "id": "TKZBTLHM",
+      "position": 0
+    }
+  ]
 ]
 <<===== CITATION-ITEMS =====<<
 

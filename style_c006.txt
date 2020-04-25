@@ -12,30 +12,20 @@ citation
 Initial test checkin
 <<===== DESCRIPTION =====<<
 
->>===== ABBREVIATIONS =====>>
-{
-    "us": {
-        "container-title": {
-            "S. Ct.": "!authority>>>S. Ct."
-        }
-    }
-}
-<<===== ABBREVIATIONS =====<<
-
 >>===== RESULT =====>>
 <i>see also</i> <i>Maryland v. King</i>, 133 S. Ct. 1958, 1989 (2013)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
 [
-[
-  {
-    "prefix": "<i>see also</i>",
-    "id": "A6YP7FGS",
-    "position": 0,
-    "locator": "p. 1989"
-  }
-]
+  [
+    {
+      "prefix": "<i>see also</i>",
+      "id": "A6YP7FGS",
+      "position": 0,
+      "locator": "p. 1989"
+    }
+  ]
 ]
 <<===== CITATION-ITEMS =====<<
 

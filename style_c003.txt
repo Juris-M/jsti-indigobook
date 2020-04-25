@@ -12,25 +12,19 @@ citation
 Initial test checkin
 <<===== DESCRIPTION =====<<
 
->>===== OPTIONS =====>>
-{
-    "uppercase_subtitles": false
-}
-<<===== OPTIONS =====<<
-
 >>===== RESULT =====>>
 <i>But cf.</i> <i>The Bluebook: A Uniform System of Citation</i> (Columbia Law Review Ass’n et al. eds., 20th ed. 2015)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
 [
-[
-  {
-    "prefix": "<i>But cf.</i>",
-    "id": "L4TVSRGE",
-    "position": 0
-  }
-]
+  [
+    {
+      "prefix": "<i>But cf.</i>",
+      "id": "L4TVSRGE",
+      "position": 0
+    }
+  ]
 ]
 <<===== CITATION-ITEMS =====<<
 

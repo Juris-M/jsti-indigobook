@@ -22,7 +22,7 @@ Initial test checkin
   {
     "id": "BS7H6L8T",
     "position": 0,
-    "locator": "p. 1028"
+    "locator": "p. 1026, 1028"
   }
 ]
 ]

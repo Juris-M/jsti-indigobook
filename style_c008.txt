@@ -18,13 +18,13 @@ Initial test checkin
 
 >>===== CITATION-ITEMS =====>>
 [
-[
-  {
-    "prefix": "<i>cf.</i>",
-    "id": "BFMX24KJ",
-    "position": 0
-  }
-]
+  [
+    {
+      "prefix": "<i>cf.</i>",
+      "id": "BFMX24KJ",
+      "position": 0
+    }
+  ]
 ]
 <<===== CITATION-ITEMS =====<<
 

@@ -21,7 +21,8 @@ Initial test checkin
 [
   {
     "id": "RMDSE7GL",
-    "position": 0
+    "position": 0,
+    "locator": "382-384"
   }
 ]
 ]

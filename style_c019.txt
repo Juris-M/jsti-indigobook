@@ -18,13 +18,13 @@ Initial test checkin
 
 >>===== CITATION-ITEMS =====>>
 [
-[
-  {
-    "id": "A455KWP7",
-    "position": 0,
-    "locator": "p. 260"
-  }
-]
+  [
+    {
+      "id": "A455KWP7",
+      "position": 0,
+      "locator": "p. 260"
+    }
+  ]
 ]
 <<===== CITATION-ITEMS =====<<
 

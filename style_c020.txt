@@ -4,7 +4,7 @@ citation
 
 >>===== KEYS =====>>
 [
-  "63JH7M2T"
+  "4RCVP9HI"
 ]
 <<===== KEYS =====<<
 
@@ -18,35 +18,32 @@ Initial test checkin
 
 >>===== CITATION-ITEMS =====>>
 [
-[
-  {
-    "prefix": "<i>see e.g.</i>",
-    "id": "63JH7M2T",
-    "position": 0,
-    "locator": "sec. 18-8-115"
-  }
-]
+  [
+    {
+      "prefix": "<i>See, e.g.</i>,",
+      "id": "4RCVP9HI",
+      "position": 0
+    }
+  ]
 ]
 <<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
   {
-    "id": "63JH7M2T",
-    "type": "legal_case",
-    "title": "Ford v. Wainwright",
-    "container-title": "U.S.",
-    "volume": "477",
-    "authority": "supreme.court",
-    "page": "399",
-    "issued": {
+    "id": "4RCVP9HI",
+    "type": "legislation",
+    "container-title": "Colo. Rev. Stat. Ann.",
+    "section": "sec. 18\\-8\\-115",
+    "publisher": "West",
+    "jurisdiction": "us:co",
+    "publication-date": {
       "date-parts": [
         [
-          1986
+          2014
         ]
       ]
-    },
-    "jurisdiction": "us"
+    }
   }
 ]
 <<===== INPUT =====<<

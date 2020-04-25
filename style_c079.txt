@@ -2,6 +2,12 @@
 citation
 <<===== MODE =====<<
 
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
 >>===== KEYS =====>>
 [
   "M9UMHT7Y"
@@ -18,13 +24,13 @@ Initial test checkin
 
 >>===== CITATION-ITEMS =====>>
 [
-[
-  {
-    "id": "M9UMHT7Y",
-    "position": 0,
-    "locator": "p. *7 (Wis. Ct. App. Oct. 30, 2013)"
-  }
-]
+  [
+    {
+      "id": "M9UMHT7Y",
+      "position": 0,
+      "locator": "p. *7"
+    }
+  ]
 ]
 <<===== CITATION-ITEMS =====<<
 
@@ -34,8 +40,6 @@ Initial test checkin
     "id": "M9UMHT7Y",
     "type": "legal_case",
     "title": "State v. Green",
-    "container-title": "WL",
-    "volume": "2013",
     "authority": "court.appeals",
     "number": "2012AP1475–CR",
     "page": "5811261",
@@ -48,7 +52,9 @@ Initial test checkin
         ]
       ]
     },
-    "jurisdiction": "us:wi"
+    "archive": "WL",
+    "jurisdiction": "us:wi",
+    "collection-number": "2013"
   }
 ]
 <<===== INPUT =====<<

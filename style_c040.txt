@@ -2,6 +2,12 @@
 citation
 <<===== MODE =====<<
 
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
 >>===== KEYS =====>>
 [
   "XZL3QSER"
@@ -18,14 +24,14 @@ Initial test checkin
 
 >>===== CITATION-ITEMS =====>>
 [
-[
-  {
-    "prefix": "<i>aff'd</i>",
-    "id": "XZL3QSER",
-    "position": 0,
-    "suppress-author": true
-  }
-]
+  [
+    {
+      "prefix": "<i>aff'd</i>,",
+      "id": "XZL3QSER",
+      "position": 0,
+      "suppress-author": true
+    }
+  ]
 ]
 <<===== CITATION-ITEMS =====<<
 

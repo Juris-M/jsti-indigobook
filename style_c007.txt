@@ -12,29 +12,19 @@ citation
 Initial test checkin
 <<===== DESCRIPTION =====<<
 
->>===== ABBREVIATIONS =====>>
-{
-    "us": {
-        "container-title": {
-            "U.S.": "!authority>>>U.S."
-        }
-    }
-}
-<<===== ABBREVIATIONS =====<<
-
 >>===== RESULT =====>>
 <i>see</i> <i>Kyllo v. United States</i>, 389 U.S. 27 (2001)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
 [
-[
-  {
-    "prefix": "<i>see</i>",
-    "id": "DX295AKC",
-    "position": 0
-  }
-]
+  [
+    {
+      "prefix": "<i>see</i>",
+      "id": "DX295AKC",
+      "position": 0
+    }
+  ]
 ]
 <<===== CITATION-ITEMS =====<<
 

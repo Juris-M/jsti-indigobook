@@ -18,13 +18,13 @@ Initial test checkin
 
 >>===== CITATION-ITEMS =====>>
 [
-[
-  {
-    "id": "FL26JFQF",
-    "position": 0,
-    "locator": "p. 575"
-  }
-]
+  [
+    {
+      "id": "FL26JFQF",
+      "position": 0,
+      "locator": "p. 575"
+    }
+  ]
 ]
 <<===== CITATION-ITEMS =====<<
 

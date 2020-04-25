@@ -2,6 +2,12 @@
 citation
 <<===== MODE =====<<
 
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
 >>===== KEYS =====>>
 [
   "NF4MNRV6"
@@ -18,13 +24,13 @@ Initial test checkin
 
 >>===== CITATION-ITEMS =====>>
 [
-[
-  {
-    "prefix": "<i>but see</i>",
-    "id": "NF4MNRV6",
-    "position": 0
-  }
-]
+  [
+    {
+      "prefix": "<i>But see</i>",
+      "id": "NF4MNRV6",
+      "position": 0
+    }
+  ]
 ]
 <<===== CITATION-ITEMS =====<<
 

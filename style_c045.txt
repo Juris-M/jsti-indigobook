@@ -2,6 +2,12 @@
 citation
 <<===== MODE =====<<
 
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
 >>===== KEYS =====>>
 [
   "6GHUYYXK"
@@ -13,18 +19,18 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Liriano v. Hobart Corp. </i>(<i>Liraino III</i>), 170 F.3d 264, 266 (2d Cir. 1999)
+<i>Liriano v. Hobart Corp. <span style="font-style:normal;">(</span>Liriano III<span style="font-style:normal;">)</span></i>, 170 F.3d 264, 266 (2d Cir. 1999)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
 [
-[
-  {
-    "id": "6GHUYYXK",
-    "position": 0,
-    "locator": "p. 266"
-  }
-]
+  [
+    {
+      "id": "6GHUYYXK",
+      "position": 0,
+      "locator": "p. 266"
+    }
+  ]
 ]
 <<===== CITATION-ITEMS =====<<
 
@@ -33,7 +39,7 @@ Initial test checkin
   {
     "id": "6GHUYYXK",
     "type": "legal_case",
-    "title": "Liriano v. Hobart Corp. (Liraino III)",
+    "title": "Liriano v. Hobart Corp. <span class=\"nodecor\">(</span>Liriano III<span class=\"nodecor\">)</span>",
     "container-title": "F.3d",
     "volume": "170",
     "authority": "court.appeals",
@@ -45,6 +51,7 @@ Initial test checkin
         ]
       ]
     },
+    "shortTitle": "Liriano III",
     "jurisdiction": "us:c2"
   }
 ]

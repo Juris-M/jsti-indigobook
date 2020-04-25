@@ -2,6 +2,12 @@
 citation
 <<===== MODE =====<<
 
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
 >>===== KEYS =====>>
 [
   "ZUASBD5R"
@@ -18,13 +24,14 @@ Initial test checkin
 
 >>===== CITATION-ITEMS =====>>
 [
-[
-  {
-    "prefix": "<i>cert. denied</i>",
-    "id": "ZUASBD5R",
-    "position": 1
-  }
-]
+  [
+    {
+      "prefix": "<i>cert. denied</i>,",
+      "id": "ZUASBD5R",
+      "position": 0,
+      "suppress-author": true
+    }
+  ]
 ]
 <<===== CITATION-ITEMS =====<<
 

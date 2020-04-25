@@ -2,6 +2,12 @@
 citation
 <<===== MODE =====<<
 
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
 >>===== KEYS =====>>
 [
   "V7ESPKED"
@@ -18,13 +24,14 @@ Initial test checkin
 
 >>===== CITATION-ITEMS =====>>
 [
-[
-  {
-    "id": "V7ESPKED",
-    "position": 0,
-    "locator": "p. 236–37"
-  }
-]
+  [
+    {
+      "id": "V7ESPKED",
+      "position": 1,
+      "locator": "p. 236–37",
+      "near-note": 1
+    }
+  ]
 ]
 <<===== CITATION-ITEMS =====<<
 
@@ -33,7 +40,7 @@ Initial test checkin
   {
     "id": "V7ESPKED",
     "type": "legal_case",
-    "title": "Liriano v. Hobart Corp. (Liriano II)",
+    "title": "Liriano v. Hobart Corp. <span class=\"nodecor\">(</span>Liriano II<span class=\"nodecor\">)</span>",
     "container-title": "N.Y.2d",
     "volume": "92",
     "authority": "court.appeals",
@@ -45,6 +52,7 @@ Initial test checkin
         ]
       ]
     },
+    "shortTitle": "Liriano II",
     "jurisdiction": "us:ny"
   }
 ]

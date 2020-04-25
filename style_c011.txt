@@ -18,13 +18,13 @@ Initial test checkin
 
 >>===== CITATION-ITEMS =====>>
 [
-[
-  {
-    "id": "63JH7M2T",
-    "position": 0,
-    "locator": "p. 410"
-  }
-]
+  [
+    {
+      "id": "63JH7M2T",
+      "position": 0,
+      "locator": "p. 410"
+    }
+  ]
 ]
 <<===== CITATION-ITEMS =====<<
 

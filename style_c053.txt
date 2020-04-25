@@ -2,6 +2,12 @@
 citation
 <<===== MODE =====<<
 
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
 >>===== KEYS =====>>
 [
   "N35VFXXW"
@@ -13,17 +19,17 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>McDonnell Douglas Corp. v. Green</i>, <cite>411 U.S. 792 (1973)</cite>
+<i>McDonnell Douglas Corp. v. Green</i>, 411 U.S. 792 (1973)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
 [
-[
-  {
-    "id": "N35VFXXW",
-    "position": 0
-  }
-]
+  [
+    {
+      "id": "N35VFXXW",
+      "position": 0
+    }
+  ]
 ]
 <<===== CITATION-ITEMS =====<<
 

@@ -18,13 +18,13 @@ Initial test checkin
 
 >>===== CITATION-ITEMS =====>>
 [
-[
-  {
-    "prefix": "<i>see also</i>",
-    "id": "FF25SDZE",
-    "position": 0
-  }
-]
+  [
+    {
+      "prefix": "<i>see also</i>",
+      "id": "FF25SDZE",
+      "position": 0
+    }
+  ]
 ]
 <<===== CITATION-ITEMS =====<<
 

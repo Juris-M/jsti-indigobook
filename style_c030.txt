@@ -2,6 +2,12 @@
 citation
 <<===== MODE =====<<
 
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
 >>===== KEYS =====>>
 [
   "L4TVSRGE"
@@ -18,13 +24,13 @@ Initial test checkin
 
 >>===== CITATION-ITEMS =====>>
 [
-[
-  {
-    "prefix": "<i>cf.</i>",
-    "id": "L4TVSRGE",
-    "position": 0
-  }
-]
+  [
+    {
+      "prefix": "<i>Cf.</i>",
+      "id": "L4TVSRGE",
+      "position": 0
+    }
+  ]
 ]
 <<===== CITATION-ITEMS =====<<
 
@@ -34,7 +40,7 @@ Initial test checkin
     "id": "L4TVSRGE",
     "type": "book",
     "title": "The Bluebook: a uniform system of citation",
-    "author": [
+    "editor": [
       {
         "family": "Columbia Law Review Ass'n"
       },

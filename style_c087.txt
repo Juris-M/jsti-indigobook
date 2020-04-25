@@ -2,6 +2,12 @@
 citation
 <<===== MODE =====<<
 
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
 >>===== KEYS =====>>
 [
   "IAL7VTK8"
@@ -18,13 +24,13 @@ Initial test checkin
 
 >>===== CITATION-ITEMS =====>>
 [
-[
-  {
-    "id": "IAL7VTK8",
-    "position": 0,
-    "locator": "p. 674"
-  }
-]
+  [
+    {
+      "id": "IAL7VTK8",
+      "position": 0,
+      "locator": "p. 674"
+    }
+  ]
 ]
 <<===== CITATION-ITEMS =====<<
 
