@@ -2,63 +2,58 @@
 citation
 <<===== MODE =====<<
 
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
 >>===== KEYS =====>>
 [
-  "9VHMKKNG"
+  "JR3MF83A"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+Fixed.
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Leonard v. Pepsico, Inc.</i>, 88 F. Supp. 2d 116, 127 (S.D.N.Y. 1999)
+<i>Leonard v. Pepsico, Incorporated</i>, 88 F. Supp. 2d 116, 127 (S.D. N.Y. 1999)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
 [
-[
-  {
-    "id": "9VHMKKNG",
-    "position": 0,
-    "locator": "p. 127"
-  }
-]
+  [
+    {
+      "id": "JR3MF83A",
+      "position": 0,
+      "locator": "p. 127"
+    }
+  ]
 ]
 <<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
   {
-    "id": "9VHMKKNG",
+    "id": "JR3MF83A",
     "type": "legal_case",
     "title": "Leonard v. Pepsico, Inc.",
     "container-title": "F. Supp. 2d",
     "volume": "88",
-    "authority": "district.court",
-    "number": "96 Civ. 5320(KMW);96 Civ. 9069(KMW)",
+    "authority": "S.D.N.Y.",
     "page": "116",
     "issued": {
       "date-parts": [
         [
           1999,
-          8,
-          5
+          10,
+          23
         ]
       ]
     },
-    "URL": "https://www.courtlistener.com/opinion/2579076/leonard-v-pepsico-inc/",
-    "accessed": {
-      "date-parts": [
-        [
-          2020,
-          2,
-          22
-        ]
-      ]
-    },
-    "jurisdiction": "us:c2:ny.sd"
+    "jurisdiction": "US|Second Circuit|S.D. New York"
   }
 ]
 <<===== INPUT =====<<
