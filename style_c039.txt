@@ -15,11 +15,11 @@ citation
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Fixed.
+Fix these things please.
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Leonard v. Pepsico, Incorporated</i>, 88 F. Supp. 2d 116, 127 (S.D. N.Y. 1999)
+<i>Leonard v. Pepsico, Inc.</i>, 88 F. Supp. 2d 116, 127 (S.D.N.Y. 1999)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
@@ -42,7 +42,7 @@ Fixed.
     "title": "Leonard v. Pepsico, Inc.",
     "container-title": "F. Supp. 2d",
     "volume": "88",
-    "authority": "S.D.N.Y.",
+    "authority": "district.court",
     "page": "116",
     "issued": {
       "date-parts": [
@@ -53,7 +53,7 @@ Fixed.
         ]
       ]
     },
-    "jurisdiction": "US|Second Circuit|S.D. New York"
+    "jurisdiction": "011us:c2:ny.sdUnited States|US|Second Circuit|S.D. New York"
   }
 ]
 <<===== INPUT =====<<
