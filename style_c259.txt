@@ -1,0 +1,52 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "9X7FQDVI"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Authority of Sec’y of Treasury to Compromise Final Judgments, 36 U.S. Op. Att’ Gen. 40 (1929)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "9X7FQDVI",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "9X7FQDVI",
+    "type": "legal_case",
+    "title": "Authority of Sec’y of Treasury to Compromise Final Judgments, 36 U.S. Op. Att’ Gen. 40",
+    "issued": {
+      "date-parts": [
+        [
+          1929
+        ]
+      ]
+    },
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<

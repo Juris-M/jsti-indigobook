@@ -1,0 +1,53 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "RXQ5CMV7"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+OxyHeal Medical Systems, Inc., <a href="http://law.pubkgroup.com/wp-content/uploads/sites/6/2016/02/SBA-OxyHealth-SIZ-5707.pdf">SBA No. SIZ-5707</a> (Jan. 19 2016)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "RXQ5CMV7",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "RXQ5CMV7",
+    "type": "legal_case",
+    "title": "OxyHeal Medical Systems, Inc., SBA No. SIZ-5707 (Jan. 19",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "jurisdiction": "us",
+    "admin-flag": "1"
+  }
+]
+<<===== INPUT =====<<

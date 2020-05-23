@@ -1,0 +1,52 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "Y2U382HE"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Estate of Hoch v. Stifel</i>, 2011 ME 24, ¶ 11, 16 A.3d 137
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "Y2U382HE",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "Y2U382HE",
+    "type": "legal_case",
+    "title": "Estate of Hoch v. Stifel,   ME 24, ¶ 11, 16 A.3d 137",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<

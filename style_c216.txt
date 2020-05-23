@@ -1,0 +1,52 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "6BCPG4FX"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+James Huguenin-Love, <i>Song on Wire: A Technical Analysis of </i>ReDigi<i> and the Pre-Owned Digital Media Marketplace</i>, 4 N.Y.U. J. Intell. Prop. &#38; Ent. L. 1, 4 (2014), <a href="http://jipel.law.nyu.edu/wp-content/uploads/2015/02/JIPEL-Winter-2014-Edition.pdf">http://jipel.law.nyu.edu/wp-content/uploads/2015/02/JIPEL-Winter-2014-Edition.pdf</a>
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "6BCPG4FX",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "6BCPG4FX",
+    "type": "article-journal",
+    "title": "James Huguenin-Love, Song on Wire: A Technical Analysis of ReDigi and the Pre-Owned Digital Media Marketplace, 4 N.Y.U. J. Intell. Prop. & Ent. L. 1, 4, http://jipel.law.nyu.edu/wp-content/uploads/2015/02/JIPEL-Winter-2014-Edition.pdf",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<

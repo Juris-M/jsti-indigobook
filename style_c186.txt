@@ -1,0 +1,52 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "G7E4KVKA"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Decl. of Martha Woodmansee at 7, <i>Salinger v. Colting</i>, 641 F. Supp. 2d 250 (S.D.N.Y. 2010) (No. 09 Civ. 05095)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "G7E4KVKA",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "G7E4KVKA",
+    "type": "legal_case",
+    "title": "Decl. of Martha Woodmansee at 7, Salinger v. Colting, 641 F. Supp. 2d 250 (S.D.N.Y.(No. 09 Civ. 05095)",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<

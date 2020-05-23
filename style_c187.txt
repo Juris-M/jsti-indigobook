@@ -1,0 +1,45 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "UI6F4DAU"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Decl. of Martha Woodmansee at 7, <i>Salinger</i>, 641 F. Supp. 2d 250 (No. 09 Civ. 05095)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "UI6F4DAU",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "UI6F4DAU",
+    "type": "legal_case",
+    "title": "Decl. of Martha Woodmansee at 7, Salinger, 641 F. Supp. 2d 250 (No. 09 Civ. 05095)",
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<

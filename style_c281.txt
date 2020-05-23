@@ -1,0 +1,53 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "SGAYP5Q7"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Envirosolve, LLC, <a href="https://www.faa.gov/about/office_org/headquarters_offices/agc/pol_adjudication/agc400/civil_penalty/CaseFile/view/2006/2006-2.pdf">FAA Order No. 2006-2</a>, 2006 WL 465371 (Feb. 7, 2006)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "SGAYP5Q7",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "SGAYP5Q7",
+    "type": "legal_case",
+    "title": "Envirosolve, LLC, FAA Order No.  -2, 2006 WL 465371 (Feb. 7, 2006)",
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "jurisdiction": "us",
+    "admin-flag": "1"
+  }
+]
+<<===== INPUT =====<<

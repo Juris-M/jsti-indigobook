@@ -1,0 +1,53 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "CCCFN83E"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Miller Construction Co., 24 BNA OSHC 1817 (<a href="http://www.oshrc.gov/decisions/html_2013/13-0323.htm">No. 13-0323</a>, 2013) (ALJ)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "CCCFN83E",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "CCCFN83E",
+    "type": "legal_case",
+    "title": "Miller Construction Co., 24 BNA OSHC   (No. 13-0323, 2013) (ALJ)",
+    "issued": {
+      "date-parts": [
+        [
+          1817
+        ]
+      ]
+    },
+    "jurisdiction": "us",
+    "admin-flag": "1"
+  }
+]
+<<===== INPUT =====<<

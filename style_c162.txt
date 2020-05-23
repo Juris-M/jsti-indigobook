@@ -1,0 +1,52 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "V8BVDDG7"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Cell Tax Fairness Acxt of 2008: Hearing on H.R. 5793 Before the Subcomm. on Commercial and Administrative Law of the H. Comm. on the Judiciary</i>, 110th Cong. 12 (2008)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "V8BVDDG7",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "V8BVDDG7",
+    "type": "hearing",
+    "title": "Cell Tax Fairness Acxt of  : Hearing on H.R. 5793 Before the Subcomm. on Commercial and Administrative Law of the H. Comm. on the Judiciary, 110th Cong. 12 (2008)",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<

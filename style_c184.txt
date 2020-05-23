@@ -1,0 +1,52 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "ZEV9UXK4"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Pl.’s Resp. to Defs.’ Mot. for Summ. J. at 14, <i>Martinez-Mendoza</i> <i>v. Champion Int’l Corp.</i>, 340 F.3d 1200 (11th Cir. 2003) (No. 06-19139)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "ZEV9UXK4",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "ZEV9UXK4",
+    "type": "legal_case",
+    "title": "Pl.’s Resp. to Defs.’ Mot. for Summ. J. at 14, Martinez-Mendoza v. Champion Int’l Corp., 340 F.3d   (11th Cir. 2003) (No. 06-19139)",
+    "issued": {
+      "date-parts": [
+        [
+          1200
+        ]
+      ]
+    },
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<

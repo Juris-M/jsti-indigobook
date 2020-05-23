@@ -1,0 +1,54 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "GQAY9ENB"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Polyvinyl Alcohol from China, Japan, and Taiwan, Inv. Nos. 701-TA-309, 731-TA-528, 731-TA-529, <a href="https://www.usitc.gov/publications/701_731/pub4067.pdf">USITC Pub. 4067</a> (Mar. 27, 2009)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "GQAY9ENB",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "GQAY9ENB",
+    "type": "report",
+    "title": "Polyvinyl Alcohol from China, Japan, and Taiwan, Inv. Nos. 701-TA-309, 731-TA-528, 731-TA-529, USITC Pub. 4067",
+    "issued": {
+      "date-parts": [
+        [
+          2009,
+          3,
+          27
+        ]
+      ]
+    },
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<

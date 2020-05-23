@@ -1,0 +1,53 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "BW4QEGDT"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Prime Roofing Corp., <a href="http://www.oshrc.gov/decisions/html_2009/07-1409.htm">No. 07-1409</a> (OSHRC Feb. 5, 2008)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "BW4QEGDT",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "BW4QEGDT",
+    "type": "legal_case",
+    "title": "Prime Roofing Corp., No. 07-  (OSHRC Feb. 5, 2008)",
+    "issued": {
+      "date-parts": [
+        [
+          1409
+        ]
+      ]
+    },
+    "jurisdiction": "us",
+    "admin-flag": "1"
+  }
+]
+<<===== INPUT =====<<

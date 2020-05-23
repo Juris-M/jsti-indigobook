@@ -1,0 +1,54 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "JGLQGZ3W"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+SEC Staff Accounting Bulletin No. 99, <a href="https://www.gpo.gov/fdsys/pkg/FR-1999-08-19/pdf/99-21484.pdf">64 Fed. Reg. 45150</a> (Aug. 19, 1999)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "JGLQGZ3W",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "JGLQGZ3W",
+    "type": "report",
+    "title": "SEC Staff Accounting Bulletin No. 99, 64 Fed. Reg. 45150",
+    "issued": {
+      "date-parts": [
+        [
+          1999,
+          8,
+          19
+        ]
+      ]
+    },
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<

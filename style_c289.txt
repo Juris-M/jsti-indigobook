@@ -1,0 +1,53 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "JH6M97Z6"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Phoenix Environmental Design, Inc., <a href="http://www.gao.gov/assets/680/675666.pdf">B-412503</a>, 2016 WL 873296 (Comp. Gen. Mar. 7, 2016)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "JH6M97Z6",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "JH6M97Z6",
+    "type": "legal_case",
+    "title": "Phoenix Environmental Design, Inc., B-4 3, 2016 WL 873296 (Comp. Gen. Mar. 7, 2016)",
+    "issued": {
+      "date-parts": [
+        [
+          1250
+        ]
+      ]
+    },
+    "jurisdiction": "us",
+    "admin-flag": "1"
+  }
+]
+<<===== INPUT =====<<

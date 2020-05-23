@@ -1,0 +1,53 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "88PJ7TLI"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Federal Express Corporation, <a href="https://www.faa.gov/about/office_org/headquarters_offices/agc/pol_adjudication/agc400/civil_penalty/CaseFile/view/2002/2002-20.pdf ">FAA Order No. 2002-20</a>, 2002 WL 31777976 (F.A.A.)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "88PJ7TLI",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "88PJ7TLI",
+    "type": "legal_case",
+    "title": "Federal Express Corporation, FAA Order No.  -20, 2002 WL 31777976 (F.A.A.)",
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "jurisdiction": "us",
+    "admin-flag": "1"
+  }
+]
+<<===== INPUT =====<<

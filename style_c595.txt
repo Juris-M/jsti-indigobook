@@ -1,0 +1,52 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "PS3GAYLY"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Bonacorsi v. Wheeling &#38; Lake Erie Ry. Co.</i>, 95 Ohio St.3d 314, 2002-Ohio-2220, 767 N.E.2d 707, ¶ 15
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "PS3GAYLY",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "PS3GAYLY",
+    "type": "legal_case",
+    "title": "Bonacorsi v. Wheeling & Lake Erie Ry. Co., 95 Ohio St.3d 314,  -Ohio-2220, 767 N.E.2d 707, ¶ 15",
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,51 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "VIZ9TPGP"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+3 Melville Nimmer &#38; David Nimmer, <i>Nimmer on Copyright</i> § 12.01 (Rev. ed. 2015)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "VIZ9TPGP",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "VIZ9TPGP",
+    "type": "book",
+    "title": "3 Melville Nimmer & David Nimmer, Nimmer on Copyright § 12.01 (Rev. ed.",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    }
+  }
+]
+<<===== INPUT =====<<

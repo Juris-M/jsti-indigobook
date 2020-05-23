@@ -1,0 +1,51 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "XX49LDXB"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Marc A. Franklin et al., <i>Mass Media Law Cases and Materials</i> 472 (8th ed. 2011)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "XX49LDXB",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "XX49LDXB",
+    "type": "book",
+    "title": "Marc A. Franklin et al., Mass Media Law Cases and Materials 472 (8th ed.",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    }
+  }
+]
+<<===== INPUT =====<<
