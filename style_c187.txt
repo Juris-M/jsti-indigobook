@@ -10,7 +10,7 @@ citation
 
 >>===== KEYS =====>>
 [
-  "UI6F4DAU"
+  "G7E4KVKA"
 ]
 <<===== KEYS =====<<
 
@@ -26,8 +26,10 @@ Decl. of Martha Woodmansee at 7, <i>Salinger</i>, 641 F. Supp. 2d 250 (No. 09 Ci
 [
   [
     {
-      "id": "UI6F4DAU",
-      "position": 0
+      "id": "G7E4KVKA",
+      "position": 1,
+      "locator": "p. 7",
+      "near-note": 1
     }
   ]
 ]
@@ -36,10 +38,24 @@ Decl. of Martha Woodmansee at 7, <i>Salinger</i>, 641 F. Supp. 2d 250 (No. 09 Ci
 >>===== INPUT =====>>
 [
   {
-    "id": "UI6F4DAU",
+    "id": "G7E4KVKA",
     "type": "legal_case",
-    "title": "Decl. of Martha Woodmansee at 7, Salinger, 641 F. Supp. 2d 250 (No. 09 Civ. 05095)",
-    "jurisdiction": "us"
+    "title": "Salinger v. Colting",
+    "container-title": "F. Supp. 2d",
+    "volume": "641",
+    "authority": "district.court",
+    "number": "09 Civ. 05095",
+    "page": "250",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "shortTitle": "Salinger",
+    "jurisdiction": "us:c2:ny.sd",
+    "document-name": "Decl. of Martha Woodmansee"
   }
 ]
 <<===== INPUT =====<<

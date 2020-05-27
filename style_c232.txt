@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Davey v. The Mary Frost</i>, 7 F. Cas. 11 (E.D. Tx. 1876) (No. 3591)
+<i>Davey v. The Mary Frost</i>, 7 F. Cas. 11 (E.D. Tex. 1876) (No. 3591)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
@@ -38,7 +38,12 @@ Initial test checkin
   {
     "id": "F9N7WF9B",
     "type": "legal_case",
-    "title": "Davey v. The Mary Frost, 7 F. Cas. 11 (E.D. Tx.(No. 3591)",
+    "title": "Davey v. The Mary Frost",
+    "container-title": "F. Cas.",
+    "volume": "7",
+    "authority": "district.court",
+    "number": "3591",
+    "page": "11",
     "issued": {
       "date-parts": [
         [
@@ -46,7 +51,8 @@ Initial test checkin
         ]
       ]
     },
-    "jurisdiction": "us"
+    "archive_location": "3591",
+    "jurisdiction": "us:c5:tx.ed"
   }
 ]
 <<===== INPUT =====<<

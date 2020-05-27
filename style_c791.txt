@@ -38,7 +38,7 @@ Y.B. Eur. Conv. on H.R.
   {
     "id": "JPDXARFX",
     "type": "legal_case",
-    "title": "Y.B. Eur. Conv. on H.R.",
+    "title": "X Y.B. Eur. Conv. on H.R.",
     "jurisdiction": "us"
   }
 ]

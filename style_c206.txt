@@ -38,7 +38,14 @@ Vikas Bajaj, <i>Rules for the Marijuana Market</i>, N.Y. Times, Aug. 5, 2014, at
   {
     "id": "8PJM64JN",
     "type": "article-newspaper",
-    "title": "Vikas Bajaj, Rules for the Marijuana Market, N.Y. Times,  , at A20",
+    "title": "Rules for the Marijuana Market",
+    "author": [
+      {
+        "given": "Vikas",
+        "family": "Bajaj"
+      }
+    ],
+    "container-title": "N.Y. Times",
     "issued": {
       "date-parts": [
         [
@@ -48,6 +55,7 @@ Vikas Bajaj, <i>Rules for the Marijuana Market</i>, N.Y. Times, Aug. 5, 2014, at
         ]
       ]
     },
+    "page": "A20",
     "jurisdiction": "us"
   }
 ]

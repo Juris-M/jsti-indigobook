@@ -10,7 +10,7 @@ citation
 
 >>===== KEYS =====>>
 [
-  "IQZSY86W"
+  "TTKDZGBP"
 ]
 <<===== KEYS =====<<
 
@@ -26,7 +26,7 @@ Chris Cillizza, <i>Winners and Losers of the 2014 Midterm Elections</i>, Wash. P
 [
   [
     {
-      "id": "IQZSY86W",
+      "id": "TTKDZGBP",
       "position": 0
     }
   ]
@@ -36,16 +36,27 @@ Chris Cillizza, <i>Winners and Losers of the 2014 Midterm Elections</i>, Wash. P
 >>===== INPUT =====>>
 [
   {
-    "id": "IQZSY86W",
+    "id": "TTKDZGBP",
     "type": "post-weblog",
-    "title": "Chris Cillizza, Winners and Losers of the   Midterm Elections, Wash. Post Blogs (Nov. 5, 2014, 10:25 AM), http://www.washingtonpost.com/blogs/the-fix/wp/2014/11/04/winners-and-losers-of-the-2014-election-early-edition/",
+    "title": "Winners and Losers of the 2014 Midterm Elections",
+    "author": [
+      {
+        "given": "Chris",
+        "family": "Cillizza"
+      }
+    ],
+    "container-title": "Wash. Post Blogs",
     "issued": {
       "date-parts": [
         [
-          2014
+          2014,
+          11,
+          5
         ]
       ]
-    }
+    },
+    "URL": "http://www.washingtonpost.com/blogs/the-fix/wp/2014/11/04/winners-and-losers-of-the-2014-election-early-edition/",
+    "note": "event-date: 10:25 AM"
   }
 ]
 <<===== INPUT =====<<

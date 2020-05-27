@@ -38,7 +38,9 @@ L.D. 3, 127th Leg., Reg. Sess. (Me. 2015)
   {
     "id": "Z6GNM5RJ",
     "type": "bill",
-    "title": "L.D. 3, 127th Leg., Reg. Sess. (Me.",
+    "number": "L.D. 3",
+    "authority": "Leg.",
+    "chapter-number": "Reg.",
     "issued": {
       "date-parts": [
         [
@@ -46,7 +48,8 @@ L.D. 3, 127th Leg., Reg. Sess. (Me. 2015)
         ]
       ]
     },
-    "jurisdiction": "us"
+    "jurisdiction": "us:me",
+    "collection-number": "127"
   }
 ]
 <<===== INPUT =====<<

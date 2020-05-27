@@ -38,7 +38,14 @@ Jack Dickey, <i>The Power of Taylor Swift</i>, Time, Nov. 24, 2014, at 13
   {
     "id": "ATR63CE6",
     "type": "article-magazine",
-    "title": "Jack Dickey, The Power of Taylor Swift, Time,  , at 13",
+    "title": "The Power of Taylor Swift",
+    "author": [
+      {
+        "given": "Jack",
+        "family": "Dickey"
+      }
+    ],
+    "container-title": "Time",
     "issued": {
       "date-parts": [
         [
@@ -47,7 +54,8 @@ Jack Dickey, <i>The Power of Taylor Swift</i>, Time, Nov. 24, 2014, at 13
           24
         ]
       ]
-    }
+    },
+    "page": "13"
   }
 ]
 <<===== INPUT =====<<

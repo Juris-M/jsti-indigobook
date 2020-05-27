@@ -27,7 +27,8 @@ S. Rep. No. 106-261, at 441 (2000)
   [
     {
       "id": "UZE3M5F2",
-      "position": 0
+      "position": 0,
+      "locator": "p. 441"
     }
   ]
 ]
@@ -37,8 +38,9 @@ S. Rep. No. 106-261, at 441 (2000)
 [
   {
     "id": "UZE3M5F2",
-    "type": "bill",
-    "title": "S. Rep. No. 106-261, at 441",
+    "type": "report",
+    "number": "106\\-261",
+    "genre": "S. Rep.",
     "issued": {
       "date-parts": [
         [

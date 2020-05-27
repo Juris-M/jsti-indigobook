@@ -27,7 +27,8 @@ Daniel E. Ho &#38; Frederick Schauer, <i>Testing the Marketplace of Ideas</i>, 9
   [
     {
       "id": "CS9XRA9A",
-      "position": 0
+      "position": 0,
+      "locator": "p. 1175"
     }
   ]
 ]
@@ -38,14 +39,28 @@ Daniel E. Ho &#38; Frederick Schauer, <i>Testing the Marketplace of Ideas</i>, 9
   {
     "id": "CS9XRA9A",
     "type": "article-journal",
-    "title": "Daniel E. Ho & Frederick Schauer, Testing the Marketplace of Ideas, 90 N.Y.U. L. Rev.  , 1175 (2015), http://www.nyulawreview.org/sites/default/files/pdf/NYULawReview-90-4-Ho_Schauer.pdf",
+    "title": "Testing the Marketplace of Ideas",
+    "author": [
+      {
+        "given": "Daniel E.",
+        "family": "Ho"
+      },
+      {
+        "given": "Frederick",
+        "family": "Schauer"
+      }
+    ],
+    "container-title": "N.Y.U. L. Rev.",
+    "volume": "90",
+    "page": "1160",
     "issued": {
       "date-parts": [
         [
-          1160
+          2015
         ]
       ]
     },
+    "URL": "http://www.nyulawreview.org/sites/default/files/pdf/NYULawReview-90-4-Ho_Schauer.pdf",
     "jurisdiction": "us"
   }
 ]

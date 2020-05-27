@@ -27,7 +27,8 @@ Unif. Rules of Evidence (1974) § 702 note 24, 13E U.L.A. 114 (2011)
   [
     {
       "id": "FWXGNCY7",
-      "position": 0
+      "position": 0,
+      "locator": "sec. 702 note 24"
     }
   ]
 ]
@@ -38,15 +39,19 @@ Unif. Rules of Evidence (1974) § 702 note 24, 13E U.L.A. 114 (2011)
   {
     "id": "FWXGNCY7",
     "type": "legislation",
-    "title": "Unif. Rules of Evidence§ 702 note 24, 13E U.L.A. 114 (2011)",
-    "issued": {
+    "title": "Unif. Rules of Evidence (1974)",
+    "container-title": "U.L.A.",
+    "volume": "13E",
+    "page": "114",
+    "jurisdiction": "us",
+    "gazette-flag": "1",
+    "publication-date": {
       "date-parts": [
         [
-          1974
+          2011
         ]
       ]
-    },
-    "jurisdiction": "us"
+    }
   }
 ]
 <<===== INPUT =====<<

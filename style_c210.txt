@@ -10,7 +10,7 @@ citation
 
 >>===== KEYS =====>>
 [
-  "DUZCRI9N"
+  "ATR63CE6"
 ]
 <<===== KEYS =====<<
 
@@ -26,8 +26,8 @@ Initial test checkin
 [
   [
     {
-      "id": "DUZCRI9N",
-      "position": 0
+      "id": "ATR63CE6",
+      "position": 2
     }
   ]
 ]
@@ -36,10 +36,26 @@ Initial test checkin
 >>===== INPUT =====>>
 [
   {
-    "id": "DUZCRI9N",
-    "type": "legal_case",
-    "title": "Id.",
-    "jurisdiction": "us"
+    "id": "ATR63CE6",
+    "type": "article-magazine",
+    "title": "The Power of Taylor Swift",
+    "author": [
+      {
+        "given": "Jack",
+        "family": "Dickey"
+      }
+    ],
+    "container-title": "Time",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          11,
+          24
+        ]
+      ]
+    },
+    "page": "13"
   }
 ]
 <<===== INPUT =====<<

@@ -10,7 +10,7 @@ citation
 
 >>===== KEYS =====>>
 [
-  "FBAB47WS"
+  "VIZ9TPGP"
 ]
 <<===== KEYS =====<<
 
@@ -26,8 +26,11 @@ Initial test checkin
 [
   [
     {
-      "id": "FBAB47WS",
-      "position": 0
+      "prefix": "<i>See</i>",
+      "id": "VIZ9TPGP",
+      "position": 1,
+      "locator": "sec. 14.02",
+      "near-note": 1
     }
   ]
 ]
@@ -36,9 +39,28 @@ Initial test checkin
 >>===== INPUT =====>>
 [
   {
-    "id": "FBAB47WS",
+    "id": "VIZ9TPGP",
     "type": "book",
-    "title": "See Nimmer & Nimmer, supra, § 14.02"
+    "title": "Nimmer on Copyright",
+    "author": [
+      {
+        "given": "Melville",
+        "family": "Nimmer"
+      },
+      {
+        "given": "David",
+        "family": "Nimmer"
+      }
+    ],
+    "volume": "3",
+    "edition": "Rev.",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    }
   }
 ]
 <<===== INPUT =====<<

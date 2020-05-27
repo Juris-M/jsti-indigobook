@@ -10,7 +10,9 @@ citation
 
 >>===== KEYS =====>>
 [
-  "ALMNPBEL"
+  "JKCJGDNH",
+  "H9CLR6HE",
+  "JKCJGDNH"
 ]
 <<===== KEYS =====<<
 
@@ -19,15 +21,26 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Brown, <i>Bridging The Gap, supra</i>, at 320
+Liz Brown, <i>Bridging The Gap: Improving Intellectual Property Protection for the Look and Feel of Websites</i>, 3 N.Y.U. J. Intell. Prop. &#38; Ent. L. 310 (2014), Brown, <i>Remixing Transformative Use</i>, <i>supra</i>, Brown, <i>Bridging The Gap</i>, <i>supra</i>, at 320
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
 [
   [
     {
-      "id": "ALMNPBEL",
+      "id": "JKCJGDNH",
       "position": 0
+    },
+    {
+      "id": "H9CLR6HE",
+      "position": 1,
+      "near-note": 1
+    },
+    {
+      "id": "JKCJGDNH",
+      "position": 1,
+      "locator": "p. 320",
+      "near-note": 1
     }
   ]
 ]
@@ -36,9 +49,72 @@ Brown, <i>Bridging The Gap, supra</i>, at 320
 >>===== INPUT =====>>
 [
   {
-    "id": "ALMNPBEL",
+    "id": "JKCJGDNH",
     "type": "article-journal",
-    "title": "Brown, Bridging The Gap, supra, at 320",
+    "title": "Bridging The Gap: Improving Intellectual Property Protection for the Look and Feel of Websites",
+    "author": [
+      {
+        "given": "Liz",
+        "family": "Brown"
+      }
+    ],
+    "container-title": "N.Y.U. J. Intell. Prop. & Ent. L.",
+    "volume": "3",
+    "page": "310",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "shortTitle": "Bridging the Gap",
+    "jurisdiction": "us"
+  },
+  {
+    "id": "H9CLR6HE",
+    "type": "article-journal",
+    "title": "Remixing Transformative Use: A Three-Part Proposal for Reform",
+    "author": [
+      {
+        "given": "Liz",
+        "family": "Brown"
+      }
+    ],
+    "container-title": "N.Y.U. J. Intell. Prop. & Ent. L.",
+    "volume": "4",
+    "page": "139",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "shortTitle": "Remixing Transformative Use",
+    "jurisdiction": "us"
+  },
+  {
+    "id": "JKCJGDNH",
+    "type": "article-journal",
+    "title": "Bridging The Gap: Improving Intellectual Property Protection for the Look and Feel of Websites",
+    "author": [
+      {
+        "given": "Liz",
+        "family": "Brown"
+      }
+    ],
+    "container-title": "N.Y.U. J. Intell. Prop. & Ent. L.",
+    "volume": "3",
+    "page": "310",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "shortTitle": "Bridging the Gap",
     "jurisdiction": "us"
   }
 ]

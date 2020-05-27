@@ -27,7 +27,8 @@ Initial test checkin
   [
     {
       "id": "VIZ9TPGP",
-      "position": 0
+      "position": 0,
+      "locator": "sec. 12.01"
     }
   ]
 ]
@@ -38,7 +39,19 @@ Initial test checkin
   {
     "id": "VIZ9TPGP",
     "type": "book",
-    "title": "3 Melville Nimmer & David Nimmer, Nimmer on Copyright § 12.01 (Rev. ed.",
+    "title": "Nimmer on Copyright",
+    "author": [
+      {
+        "given": "Melville",
+        "family": "Nimmer"
+      },
+      {
+        "given": "David",
+        "family": "Nimmer"
+      }
+    ],
+    "volume": "3",
+    "edition": "Rev.",
     "issued": {
       "date-parts": [
         [

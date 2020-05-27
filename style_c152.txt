@@ -39,7 +39,7 @@ Possibly Worthy Act of 2002, S. 12345, 61st Cong. § 5 (2002)
   {
     "id": "JYIPQKYU",
     "type": "bill",
-    "title": "Possibly Worthy Act",
+    "title": "Possibly Worthy Act of 2002",
     "number": "S. 12345",
     "authority": "Cong.",
     "issued": {

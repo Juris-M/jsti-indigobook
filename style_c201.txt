@@ -27,7 +27,8 @@ Liz Brown, <i>Bridging The Gap: Improving Intellectual Property Protection for t
   [
     {
       "id": "JKCJGDNH",
-      "position": 0
+      "position": 0,
+      "locator": "p. 351"
     }
   ]
 ]
@@ -38,7 +39,16 @@ Liz Brown, <i>Bridging The Gap: Improving Intellectual Property Protection for t
   {
     "id": "JKCJGDNH",
     "type": "article-journal",
-    "title": "Liz Brown, Bridging The Gap: Improving Intellectual Property Protection for the Look and Feel of Websites, 3 N.Y.U. J. Intell. Prop. & Ent. L. 310, 351",
+    "title": "Bridging The Gap: Improving Intellectual Property Protection for the Look and Feel of Websites",
+    "author": [
+      {
+        "given": "Liz",
+        "family": "Brown"
+      }
+    ],
+    "container-title": "N.Y.U. J. Intell. Prop. & Ent. L.",
+    "volume": "3",
+    "page": "310",
     "issued": {
       "date-parts": [
         [

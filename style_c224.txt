@@ -38,8 +38,9 @@ Superfan Suits, <a href="http://www.superfansuits.com/">http://www.superfansuits
   {
     "id": "DLEBU843",
     "type": "webpage",
-    "title": "Superfan Suits, http://www.superfansuits.com/ (last visited",
-    "issued": {
+    "container-title": "Superfan Suits",
+    "URL": "http://www.superfansuits.com/",
+    "accessed": {
       "date-parts": [
         [
           2015,

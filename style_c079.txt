@@ -40,9 +40,9 @@ Initial test checkin
     "id": "M9UMHT7Y",
     "type": "legal_case",
     "title": "State v. Green",
+    "container-title": "WL",
     "authority": "court.appeals",
     "number": "2012AP1475\\-CR",
-    "archive_location": "5811261",
     "issued": {
       "date-parts": [
         [
@@ -52,7 +52,7 @@ Initial test checkin
         ]
       ]
     },
-    "container-title": "WL",
+    "archive_location": "5811261",
     "jurisdiction": "us:wi",
     "collection-number": "2013"
   }

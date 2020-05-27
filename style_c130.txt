@@ -38,12 +38,20 @@ Family Sponsor Immigration Act of 2002, Pub. L. No. 107-150, 116 Stat. 74
   {
     "id": "SC2WBGB3",
     "type": "legislation",
-    "title": "Family Sponsor Immigration Act of 2002",
+    "title": "Family Sponsor Immigration Act",
     "container-title": "Stat.",
     "volume": "116",
     "number": "107\\-150",
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
     "page": "74",
     "jurisdiction": "us",
+    "collection-number": "2002",
     "gazette-flag": "1"
   }
 ]

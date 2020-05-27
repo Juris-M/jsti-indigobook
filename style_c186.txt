@@ -27,7 +27,8 @@ Decl. of Martha Woodmansee at 7, <i>Salinger v. Colting</i>, 641 F. Supp. 2d 250
   [
     {
       "id": "G7E4KVKA",
-      "position": 0
+      "position": 0,
+      "locator": "p. 7"
     }
   ]
 ]
@@ -38,7 +39,12 @@ Decl. of Martha Woodmansee at 7, <i>Salinger v. Colting</i>, 641 F. Supp. 2d 250
   {
     "id": "G7E4KVKA",
     "type": "legal_case",
-    "title": "Decl. of Martha Woodmansee at 7, Salinger v. Colting, 641 F. Supp. 2d 250 (S.D.N.Y.(No. 09 Civ. 05095)",
+    "title": "Salinger v. Colting",
+    "container-title": "F. Supp. 2d",
+    "volume": "641",
+    "authority": "district.court",
+    "number": "09 Civ. 05095",
+    "page": "250",
     "issued": {
       "date-parts": [
         [
@@ -46,7 +52,9 @@ Decl. of Martha Woodmansee at 7, <i>Salinger v. Colting</i>, 641 F. Supp. 2d 250
         ]
       ]
     },
-    "jurisdiction": "us"
+    "shortTitle": "Salinger",
+    "jurisdiction": "us:c2:ny.sd",
+    "document-name": "Decl. of Martha Woodmansee"
   }
 ]
 <<===== INPUT =====<<

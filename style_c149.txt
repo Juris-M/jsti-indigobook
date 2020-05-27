@@ -38,15 +38,22 @@ Rev. Rul. 81-225, 1981-2 C.B. 12
   {
     "id": "JMTFTL3D",
     "type": "legal_case",
-    "title": "Rev. Rul. 81-225,  -2 C.B. 12",
+    "container-title": "C.B.",
+    "volume": "2",
+    "number": "81\\-225",
+    "page": "12",
     "issued": {
       "date-parts": [
         [
-          1981
+          1981,
+          1,
+          1
         ]
       ]
     },
     "jurisdiction": "us",
+    "collection-number": "1981",
+    "genre": "Rev. Rul.",
     "admin-flag": "1"
   }
 ]

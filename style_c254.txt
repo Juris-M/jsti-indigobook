@@ -38,7 +38,7 @@ THE BLUEBOOK A UNIFORM SYSTEM OF CITATION, Registration No. 3,886,986
   {
     "id": "9UW2LXLS",
     "type": "patent",
-    "title": "THE BLUEBOOK A UNIFORM SYSTEM OF CITATION, Registration No. 3,886,986",
+    "title": "X THE BLUEBOOK A UNIFORM SYSTEM OF CITATION, Registration No. 3,886,986",
     "jurisdiction": "us"
   }
 ]

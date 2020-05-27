@@ -10,7 +10,7 @@ citation
 
 >>===== KEYS =====>>
 [
-  "SGGRVL84"
+  "8Q789F83"
 ]
 <<===== KEYS =====<<
 
@@ -19,15 +19,17 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Lilly, <i>supra</i>, at 90
+Lilly et al., <i>supra</i>, at 90
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
 [
   [
     {
-      "id": "SGGRVL84",
-      "position": 0
+      "id": "8Q789F83",
+      "position": 1,
+      "locator": "p. 90",
+      "near-note": 1
     }
   ]
 ]
@@ -36,9 +38,31 @@ Lilly, <i>supra</i>, at 90
 >>===== INPUT =====>>
 [
   {
-    "id": "SGGRVL84",
+    "id": "8Q789F83",
     "type": "book",
-    "title": "Lilly, supra, at 90"
+    "title": "Principles of Evidence",
+    "author": [
+      {
+        "given": "Graham C.",
+        "family": "Lilly"
+      },
+      {
+        "given": "Daniel J.",
+        "family": "Capra"
+      },
+      {
+        "given": "Stephen A.",
+        "family": "Saltzburg"
+      }
+    ],
+    "edition": "6",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    }
   }
 ]
 <<===== INPUT =====<<

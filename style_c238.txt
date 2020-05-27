@@ -38,8 +38,13 @@ RMTC Sys., Inc., ASBCA No. 43466, 93-1 BCA ¶ 25,508
   {
     "id": "NM95BYFW",
     "type": "legal_case",
-    "title": "RMTC Sys., Inc., ASBCA No. 43466, 93-1 BCA ¶ 25,508",
+    "title": "RMTC Sys., Inc.,",
+    "authority": "ASBCA",
+    "number": "43466",
+    "page": "para. 25,508",
+    "archive": "BCA",
     "jurisdiction": "us",
+    "collection-number": "93\\-1",
     "admin-flag": "1"
   }
 ]

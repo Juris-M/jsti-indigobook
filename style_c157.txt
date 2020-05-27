@@ -37,8 +37,9 @@ H.R. Res. 431, 114th Cong. (2015)
 [
   {
     "id": "KAL5NQQ4",
-    "type": "legislation",
-    "title": "H.R. Res. 431, 114th Cong.",
+    "type": "bill",
+    "number": "H.R. Res. 431",
+    "authority": "Cong.",
     "issued": {
       "date-parts": [
         [
@@ -46,7 +47,8 @@ H.R. Res. 431, 114th Cong. (2015)
         ]
       ]
     },
-    "jurisdiction": "us"
+    "jurisdiction": "us",
+    "collection-number": "114"
   }
 ]
 <<===== INPUT =====<<

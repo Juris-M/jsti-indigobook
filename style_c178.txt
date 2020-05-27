@@ -38,7 +38,8 @@ U.S. Const. amend. XVIII
   {
     "id": "399JIWCH",
     "type": "legislation",
-    "title": "U.S. Const. amend. XVIII",
+    "title": "U.S. Const.",
+    "section": "amend. XVIII",
     "jurisdiction": "us"
   }
 ]

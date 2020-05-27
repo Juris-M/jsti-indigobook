@@ -38,7 +38,10 @@ Rev. Proc. 97-27, 1997-21 I.R.B. 11
   {
     "id": "YA7FAQCY",
     "type": "legal_case",
-    "title": "Rev. Proc. 97-27,  -21 I.R.B. 11",
+    "container-title": "I.R.B.",
+    "volume": "21",
+    "number": "97\\-27",
+    "page": "11",
     "issued": {
       "date-parts": [
         [
@@ -47,6 +50,8 @@ Rev. Proc. 97-27, 1997-21 I.R.B. 11
       ]
     },
     "jurisdiction": "us",
+    "collection-number": "1997",
+    "genre": "Rev. Proc.",
     "admin-flag": "1"
   }
 ]

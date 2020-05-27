@@ -10,7 +10,7 @@ citation
 
 >>===== KEYS =====>>
 [
-  "IZAY85Q6"
+  "IIFVYTPK"
 ]
 <<===== KEYS =====<<
 
@@ -26,8 +26,8 @@ Initial test checkin
 [
   [
     {
-      "id": "IZAY85Q6",
-      "position": 0
+      "id": "IIFVYTPK",
+      "position": 2
     }
   ]
 ]
@@ -36,10 +36,18 @@ Initial test checkin
 >>===== INPUT =====>>
 [
   {
-    "id": "IZAY85Q6",
-    "type": "legal_case",
-    "title": "Id.",
-    "jurisdiction": "us"
+    "id": "IIFVYTPK",
+    "type": "legislation",
+    "container-title": "U.S.C.",
+    "volume": "7",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "jurisdiction": "us:sc"
   }
 ]
 <<===== INPUT =====<<

@@ -38,7 +38,8 @@ S.J. Res. 12, 109th Cong. (2005)
   {
     "id": "52PN8ZYI",
     "type": "bill",
-    "title": "S.J. Res. 12, 109th Cong.",
+    "number": "S.J. Res. 12",
+    "authority": "Cong.",
     "issued": {
       "date-parts": [
         [
@@ -46,7 +47,8 @@ S.J. Res. 12, 109th Cong. (2005)
         ]
       ]
     },
-    "jurisdiction": "us"
+    "jurisdiction": "us",
+    "collection-number": "109"
   }
 ]
 <<===== INPUT =====<<

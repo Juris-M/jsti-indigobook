@@ -38,7 +38,7 @@ Initial test checkin
   {
     "id": "889JWBVE",
     "type": "patent",
-    "title": "’504 Patent",
+    "title": "X ’504 Patent",
     "jurisdiction": "us"
   }
 ]

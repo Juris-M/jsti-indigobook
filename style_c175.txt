@@ -10,7 +10,7 @@ citation
 
 >>===== KEYS =====>>
 [
-  "8AHP5JDE"
+  "M8GPMDQB"
 ]
 <<===== KEYS =====<<
 
@@ -26,8 +26,8 @@ Initial test checkin
 [
   [
     {
-      "id": "8AHP5JDE",
-      "position": 0
+      "id": "M8GPMDQB",
+      "position": 2
     }
   ]
 ]
@@ -36,9 +36,17 @@ Initial test checkin
 >>===== INPUT =====>>
 [
   {
-    "id": "8AHP5JDE",
-    "type": "legal_case",
-    "title": "Id.",
+    "id": "M8GPMDQB",
+    "type": "legislation",
+    "container-title": "C.F.R.",
+    "volume": "9",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
     "jurisdiction": "us"
   }
 ]

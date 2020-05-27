@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Compl. 2, <i>Jones v. Smith</i>, No. 09-230 (9th Cir. Apr. 17, 2015)
+Compl. at 2, <i>Jones v. Smith</i>, No. 09-230 (9th Cir. Apr. 17, 2015)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
@@ -27,7 +27,8 @@ Compl. 2, <i>Jones v. Smith</i>, No. 09-230 (9th Cir. Apr. 17, 2015)
   [
     {
       "id": "CJB47F83",
-      "position": 0
+      "position": 0,
+      "locator": "p. 2"
     }
   ]
 ]
@@ -38,7 +39,9 @@ Compl. 2, <i>Jones v. Smith</i>, No. 09-230 (9th Cir. Apr. 17, 2015)
   {
     "id": "CJB47F83",
     "type": "legal_case",
-    "title": "Compl. 2, Jones v. Smith, No. 09-230 (9th Cir.",
+    "title": "Jones v. Smith",
+    "authority": "court.appeals",
+    "number": "09\\-230",
     "issued": {
       "date-parts": [
         [
@@ -48,7 +51,8 @@ Compl. 2, <i>Jones v. Smith</i>, No. 09-230 (9th Cir. Apr. 17, 2015)
         ]
       ]
     },
-    "jurisdiction": "us"
+    "jurisdiction": "us:c9",
+    "document-name": "Compl."
   }
 ]
 <<===== INPUT =====<<

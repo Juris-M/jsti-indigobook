@@ -27,7 +27,8 @@ Unif. Mediation Act § 8, 7A Pt. III U.L.A. 137 (2006)
   [
     {
       "id": "VU45UDJP",
-      "position": 0
+      "position": 0,
+      "locator": "sec. 8"
     }
   ]
 ]
@@ -38,7 +39,9 @@ Unif. Mediation Act § 8, 7A Pt. III U.L.A. 137 (2006)
   {
     "id": "VU45UDJP",
     "type": "legislation",
-    "title": "Unif. Mediation Act § 8, 7A Pt. III U.L.A. 137",
+    "title": "Unif. Mediation Act",
+    "container-title": "U.L.A.",
+    "volume": "7A Pt. III",
     "issued": {
       "date-parts": [
         [
@@ -46,7 +49,9 @@ Unif. Mediation Act § 8, 7A Pt. III U.L.A. 137 (2006)
         ]
       ]
     },
-    "jurisdiction": "us"
+    "page": "137",
+    "jurisdiction": "us",
+    "gazette-flag": "1"
   }
 ]
 <<===== INPUT =====<<

@@ -27,7 +27,8 @@ B.F. Skinner, <i>Beyond Freedom and Dignity</i> 32 (2002)
   [
     {
       "id": "MSTVNUM7",
-      "position": 0
+      "position": 0,
+      "locator": "p. 32"
     }
   ]
 ]
@@ -38,7 +39,13 @@ B.F. Skinner, <i>Beyond Freedom and Dignity</i> 32 (2002)
   {
     "id": "MSTVNUM7",
     "type": "book",
-    "title": "B.F. Skinner, Beyond Freedom and Dignity 32",
+    "title": "Beyond Freedom and Dignity",
+    "author": [
+      {
+        "given": "B.F.",
+        "family": "Skinner"
+      }
+    ],
     "issued": {
       "date-parts": [
         [

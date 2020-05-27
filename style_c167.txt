@@ -27,7 +27,8 @@ H.R. Rep. No. 110-803, at 105 (2008)
   [
     {
       "id": "DEKAMH7D",
-      "position": 0
+      "position": 0,
+      "locator": "p. 105"
     }
   ]
 ]
@@ -37,8 +38,9 @@ H.R. Rep. No. 110-803, at 105 (2008)
 [
   {
     "id": "DEKAMH7D",
-    "type": "legislation",
-    "title": "H.R. Rep. No. 110-803, at 105",
+    "type": "report",
+    "number": "110\\-803",
+    "genre": "H.R. Rep.",
     "issued": {
       "date-parts": [
         [

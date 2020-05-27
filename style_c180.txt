@@ -38,8 +38,9 @@ Ariz. Const. art. XVI, § 2
   {
     "id": "WXJM4VQQ",
     "type": "legislation",
-    "title": "Ariz. Const. art. XVI, § 2",
-    "jurisdiction": "us"
+    "title": "Ariz. Const.",
+    "section": "art. XVI, sec. 2",
+    "jurisdiction": "us:az"
   }
 ]
 <<===== INPUT =====<<

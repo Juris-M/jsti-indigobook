@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Welfare and Poverty in America: Hearing before the S. Comm. on Fin.</i>, 114th Cong. (2015)
+<i>Welfare and Poverty in America: Hearing Before the S. Comm. on Fin.</i>, 114th Cong. (2015)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
@@ -38,7 +38,9 @@ Initial test checkin
   {
     "id": "8BKCNFZQ",
     "type": "hearing",
-    "title": "Welfare and Poverty in America: Hearing before the S. Comm. on Fin., 114th Cong.",
+    "title": "Welfare and Poverty in America",
+    "section": "S. Comm. on Fin.",
+    "authority": "Cong.",
     "issued": {
       "date-parts": [
         [
@@ -46,7 +48,8 @@ Initial test checkin
         ]
       ]
     },
-    "jurisdiction": "us"
+    "jurisdiction": "us",
+    "collection-number": "114"
   }
 ]
 <<===== INPUT =====<<

@@ -10,7 +10,7 @@ citation
 
 >>===== KEYS =====>>
 [
-  "B8IZM2WX"
+  "DLEBU843"
 ]
 <<===== KEYS =====<<
 
@@ -26,8 +26,9 @@ Superfan Suits, <i>supra</i>
 [
   [
     {
-      "id": "B8IZM2WX",
-      "position": 0
+      "id": "DLEBU843",
+      "position": 1,
+      "near-note": 1
     }
   ]
 ]
@@ -36,9 +37,19 @@ Superfan Suits, <i>supra</i>
 >>===== INPUT =====>>
 [
   {
-    "id": "B8IZM2WX",
+    "id": "DLEBU843",
     "type": "webpage",
-    "title": "Superfan Suits, supra"
+    "container-title": "Superfan Suits",
+    "URL": "http://www.superfansuits.com/",
+    "accessed": {
+      "date-parts": [
+        [
+          2015,
+          2,
+          21
+        ]
+      ]
+    }
   }
 ]
 <<===== INPUT =====<<

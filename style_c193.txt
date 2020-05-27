@@ -10,7 +10,7 @@ citation
 
 >>===== KEYS =====>>
 [
-  "5X5RL4YU"
+  "MSTVNUM7"
 ]
 <<===== KEYS =====<<
 
@@ -19,16 +19,16 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-
-				<i>Id.</i> at 21
+<i>Id.</i> at 21
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
 [
   [
     {
-      "id": "5X5RL4YU",
-      "position": 0
+      "id": "MSTVNUM7",
+      "position": 3,
+      "locator": "p. 21"
     }
   ]
 ]
@@ -37,10 +37,22 @@ Initial test checkin
 >>===== INPUT =====>>
 [
   {
-    "id": "5X5RL4YU",
-    "type": "legal_case",
-    "title": "Id. at 21",
-    "jurisdiction": "us"
+    "id": "MSTVNUM7",
+    "type": "book",
+    "title": "Beyond Freedom and Dignity",
+    "author": [
+      {
+        "given": "B.F.",
+        "family": "Skinner"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    }
   }
 ]
 <<===== INPUT =====<<

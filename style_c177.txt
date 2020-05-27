@@ -27,7 +27,8 @@ U.S. Const. amend. XIII, § 1
   [
     {
       "id": "ZWBY2UXA",
-      "position": 0
+      "position": 0,
+      "locator": ", sec. 1"
     }
   ]
 ]
@@ -38,7 +39,8 @@ U.S. Const. amend. XIII, § 1
   {
     "id": "ZWBY2UXA",
     "type": "legislation",
-    "title": "U.S. Const. amend. XIII, § 1",
+    "title": "U.S. Const.",
+    "section": "amend. XIII",
     "jurisdiction": "us"
   }
 ]

@@ -27,7 +27,8 @@ Victoria Nemiah, Note, <i>License and Registration, Please: Using Copyright “C
   [
     {
       "id": "TYQDX3MU",
-      "position": 0
+      "position": 0,
+      "locator": "p. 361"
     }
   ]
 ]
@@ -38,7 +39,16 @@ Victoria Nemiah, Note, <i>License and Registration, Please: Using Copyright “C
   {
     "id": "TYQDX3MU",
     "type": "article-journal",
-    "title": "Victoria Nemiah, Note, License and Registration, Please: Using Copyright “Conditions” To Protect Free/Open Source Software, 3 N.Y.U. J. Intell. Prop. & Ent. L. 358, 361",
+    "title": "License and Registration, Please: Using Copyright “Conditions” To Protect Free/Open Source Software",
+    "author": [
+      {
+        "given": "Victoria",
+        "family": "Nemiah"
+      }
+    ],
+    "container-title": "N.Y.U. J. Intell. Prop. & Ent. L.",
+    "volume": "3",
+    "page": "358",
     "issued": {
       "date-parts": [
         [
@@ -46,6 +56,7 @@ Victoria Nemiah, Note, <i>License and Registration, Please: Using Copyright “C
         ]
       ]
     },
+    "note": "genre: Note",
     "jurisdiction": "us"
   }
 ]

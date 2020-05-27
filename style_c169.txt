@@ -37,16 +37,19 @@ American Clean Energy and Security Act, H.R. 2454, 111th Cong. (2009)
 [
   {
     "id": "923JMSUR",
-    "type": "legislation",
-    "title": "American Clean Energy and Security Act, H.R.  , 111th Cong. (2009)",
+    "type": "bill",
+    "title": "American Clean Energy and Security Act",
+    "number": "H.R. 2454",
+    "authority": "Cong.",
     "issued": {
       "date-parts": [
         [
-          2454
+          2009
         ]
       ]
     },
-    "jurisdiction": "us"
+    "jurisdiction": "us",
+    "collection-number": "111"
   }
 ]
 <<===== INPUT =====<<

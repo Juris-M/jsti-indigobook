@@ -10,7 +10,7 @@ citation
 
 >>===== KEYS =====>>
 [
-  "MZ64ZGZ9"
+  "ZEV9UXK4"
 ]
 <<===== KEYS =====<<
 
@@ -26,8 +26,10 @@ Pl.’s Resp. to Defs.’ Mot. for Summ. J. at 14, <i>Martinez-Mendoza</i>, 340 
 [
   [
     {
-      "id": "MZ64ZGZ9",
-      "position": 0
+      "id": "ZEV9UXK4",
+      "position": 1,
+      "locator": "p. 14",
+      "near-note": 1
     }
   ]
 ]
@@ -36,17 +38,24 @@ Pl.’s Resp. to Defs.’ Mot. for Summ. J. at 14, <i>Martinez-Mendoza</i>, 340 
 >>===== INPUT =====>>
 [
   {
-    "id": "MZ64ZGZ9",
+    "id": "ZEV9UXK4",
     "type": "legal_case",
-    "title": "Pl.’s Resp. to Defs.’ Mot. for Summ. J. at 14, Martinez-Mendoza, 340 F.3d   (No. 06-19139)",
+    "title": "Martinez-Mendoza v. Champion Int’l Corp.",
+    "container-title": "F.3d",
+    "volume": "340",
+    "authority": "court.appeals",
+    "number": "06\\-19139",
+    "page": "1200",
     "issued": {
       "date-parts": [
         [
-          1200
+          2003
         ]
       ]
     },
-    "jurisdiction": "us"
+    "shortTitle": "Martinez-Mendoza",
+    "jurisdiction": "us:c11",
+    "document-name": "Pl.’s Resp. to Defs.’ Mot. for Summ. J."
   }
 ]
 <<===== INPUT =====<<

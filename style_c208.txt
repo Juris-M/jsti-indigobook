@@ -38,7 +38,18 @@ Peter Baker &#38; Julie Hirschfeld Davis, <i>Obama, Down But Not Out, Presses Ah
   {
     "id": "KCAXWZZ8",
     "type": "article-newspaper",
-    "title": "Peter Baker & Julie Hirschfeld Davis, Obama, Down But Not Out, Presses Ahead, N.Y. Times,  , at A1",
+    "title": "Obama, Down But Not Out, Presses Ahead",
+    "author": [
+      {
+        "given": "Peter",
+        "family": "Baker"
+      },
+      {
+        "given": "Julie Hirschfeld",
+        "family": "Davis"
+      }
+    ],
+    "container-title": "N.Y. Times",
     "issued": {
       "date-parts": [
         [
@@ -48,6 +59,7 @@ Peter Baker &#38; Julie Hirschfeld Davis, <i>Obama, Down But Not Out, Presses Ah
         ]
       ]
     },
+    "page": "A1",
     "jurisdiction": "us"
   }
 ]
