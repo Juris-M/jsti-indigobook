@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Apple Inc., <a href="http://files.shareholder.com/downloads/AAPL/1697045917x0xS1193125-15-356351/320193/filing.pdf">Annual Report (Form 10-K)</a>, (Oct. 28, 2015)
+Apple Inc., Annual Report (Form 10-K) (Oct. 28, 2015)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
@@ -38,7 +38,7 @@ Apple Inc., <a href="http://files.shareholder.com/downloads/AAPL/1697045917x0xS1
   {
     "id": "9SXVEJFT",
     "type": "report",
-    "title": "Apple Inc., Annual Report (Form 10-K),",
+    "title": "Apple Inc., Annual Report (Form 10-K)",
     "issued": {
       "date-parts": [
         [

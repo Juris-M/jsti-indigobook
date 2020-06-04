@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Midas Securities, LLC., <a href="https://www.sec.gov/litigation/opinions/2012/34-66200.pdf">Exchange Act Release No. 66200</a>, 102 SEC Docket 3123, 102 SEC Docket 3137 (Jan. 20, 2012)
+Midas Securities, LLC., Exchange Act Release No. 66200, 102 SEC Docket 3123, 102 SEC Docket 3137 (Jan. 20, 2012)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

@@ -38,7 +38,9 @@ Initial test checkin
   {
     "id": "QMZTIDBW",
     "type": "legal_case",
-    "title": "Smith v. Jones,   CO 22",
+    "title": "Smith v. Jones",
+    "authority": "supreme.court",
+    "page": "22",
     "issued": {
       "date-parts": [
         [
@@ -46,7 +48,8 @@ Initial test checkin
         ]
       ]
     },
-    "jurisdiction": "us"
+    "jurisdiction": "us:co",
+    "collection-number": "2012"
   }
 ]
 <<===== INPUT =====<<

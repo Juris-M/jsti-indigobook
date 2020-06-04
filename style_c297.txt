@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Miller Construction Co., 24 BNA OSHC 1817 (<a href="http://www.oshrc.gov/decisions/html_2013/13-0323.htm">No. 13-0323</a>, 2013) (ALJ)
+Miller Construction Co., 24 BNA OSHC 1817 (No. 13-0323, 2013) (ALJ)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
@@ -38,15 +38,21 @@ Miller Construction Co., 24 BNA OSHC 1817 (<a href="http://www.oshrc.gov/decisio
   {
     "id": "CCCFN83E",
     "type": "legal_case",
-    "title": "X Miller Construction Co., 24 BNA OSHC   (No. 13-0323, 2013) (ALJ)",
+    "title": "Miller Construction Co.",
+    "container-title": "OSHC",
+    "volume": "24",
+    "number": "13\\-0323",
+    "page": "1817",
     "issued": {
       "date-parts": [
         [
-          1817
+          2013
         ]
       ]
     },
+    "publisher": "BNA",
     "jurisdiction": "us",
+    "genre": "ALJ",
     "admin-flag": "1"
   }
 ]

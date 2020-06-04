@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Envirosolve, LLC, <a href="https://www.faa.gov/about/office_org/headquarters_offices/agc/pol_adjudication/agc400/civil_penalty/CaseFile/view/2006/2006-2.pdf">FAA Order No. 2006-2</a>, 2006 WL 465371 (Feb. 7, 2006)
+Envirosolve, LLC, FAA Order No. 2006-2, 2006 WL 465371 (Feb. 7, 2006)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
@@ -38,15 +38,23 @@ Envirosolve, LLC, <a href="https://www.faa.gov/about/office_org/headquarters_off
   {
     "id": "SGAYP5Q7",
     "type": "legal_case",
-    "title": "Envirosolve, LLC, FAA Order No.  -2, 2006 WL 465371 (Feb. 7, 2006)",
+    "title": "Envirosolve, LLC",
+    "container-title": "WL",
+    "authority": "F.A.A.",
+    "number": "2006\\-2",
+    "page": "465371",
     "issued": {
       "date-parts": [
         [
-          2006
+          2006,
+          2,
+          7
         ]
       ]
     },
     "jurisdiction": "us",
+    "collection-number": "2006",
+    "genre": "FAA Order",
     "admin-flag": "1"
   }
 ]

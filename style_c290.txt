@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-IAP-Hill, LLC, <a href="http://www.gao.gov/assets/600/591147.pdf">B-406289 et al</a>, 2012 CPD ¶ 151 (Comp. Gen. Apr. 4, 2012)
+IAP-Hill, LLC, B-406289 et al, 2012 CPD ¶ 151 (Comp. Gen. Apr. 4, 2012)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
@@ -38,15 +38,22 @@ IAP-Hill, LLC, <a href="http://www.gao.gov/assets/600/591147.pdf">B-406289 et al
   {
     "id": "FHGWZSGZ",
     "type": "legal_case",
-    "title": "IAP-Hill, LLC, B-406289 et al,   CPD ¶ 151 (Comp. Gen. Apr. 4, 2012)",
+    "title": "IAP-Hill, LLC",
+    "container-title": "CPD",
+    "authority": "Comp. Gen.",
+    "number": "B-406289 et al",
+    "page": "para. 151",
     "issued": {
       "date-parts": [
         [
-          2012
+          2012,
+          4,
+          4
         ]
       ]
     },
     "jurisdiction": "us",
+    "collection-number": "2012",
     "admin-flag": "1"
   }
 ]

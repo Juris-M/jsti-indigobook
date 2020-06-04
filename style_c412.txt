@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-2006 IL App (3d) 123-456
+2006 IL App (3d) 456123
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
@@ -39,7 +39,14 @@ Initial test checkin
     "id": "TVX588G3",
     "type": "legal_case",
     "authority": "appellate.court",
-    "number": "123\\-456",
+    "page": "456123",
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
     "jurisdiction": "us:il:d3",
     "collection-number": "2006"
   }

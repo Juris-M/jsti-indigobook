@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-SEC Whistleblower Rules,  Exchange Act Release No. 75592, <a href="https://www.gpo.gov/fdsys/pkg/FR-2015-08-10/pdf/2015-19508.pdf">80 Fed. Reg 47829</a> (Aug. 10, 2015)
+SEC Whistleblower Rules, Exchange Act Release No. 75592, 80 Fed. Reg. 47829 (Aug. 10, 2015)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
@@ -37,8 +37,11 @@ SEC Whistleblower Rules,  Exchange Act Release No. 75592, <a href="https://www.g
 [
   {
     "id": "ASCFVBXG",
-    "type": "report",
-    "title": "SEC Whistleblower Rules,  Exchange Act Release No. 75592, 80 Fed. Reg 47829",
+    "type": "regulation",
+    "title": "SEC Whistleblower Rules",
+    "container-title": "Fed. Reg.",
+    "volume": "80",
+    "number": "75592",
     "issued": {
       "date-parts": [
         [
@@ -48,7 +51,10 @@ SEC Whistleblower Rules,  Exchange Act Release No. 75592, <a href="https://www.g
         ]
       ]
     },
-    "jurisdiction": "us"
+    "page": "47829",
+    "jurisdiction": "us",
+    "genre": "Exchange Act Release",
+    "authority": "SEC"
   }
 ]
 <<===== INPUT =====<<

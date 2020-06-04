@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-G2G, LLC v. Dept. of Commerce, CBCA 4845-R, 15-1 BCA ¶ 36,163
+G2G, LLC v. Dept. of Commerce, CBCA No. 4845-R, 15-1 BCA ¶ 36,163
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
@@ -38,7 +38,12 @@ G2G, LLC v. Dept. of Commerce, CBCA 4845-R, 15-1 BCA ¶ 36,163
   {
     "id": "EAPT3NY9",
     "type": "legal_case",
-    "title": "X G2G, LLC v. Dept. of Commerce, CBCA 4845-R, 15-1 BCA ¶ 36,163",
+    "title": "G2G, LLC v. Dept. of Commerce",
+    "volume": "15\\-1",
+    "authority": "CBCA",
+    "number": "4845\\-R",
+    "page": "para. 36,163",
+    "archive": "BCA",
     "jurisdiction": "us",
     "admin-flag": "1"
   }

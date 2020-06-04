@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Protecting and Promoting the Open Internet, GN Docket No. 14-28, Notice of Proposed Rulemaking, <a href="https://apps.fcc.gov/edocs_public/attachmatch/FCC-14-61A1.pdf">29 FCC Rcd 5561</a> (2014)
+Protecting and Promoting the Open Internet, GN Docket No. 14-28, Notice of Proposed Rulemaking, 29 FCC Rcd 5561 (2014)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
@@ -38,7 +38,12 @@ Protecting and Promoting the Open Internet, GN Docket No. 14-28, Notice of Propo
   {
     "id": "J2X5BRN3",
     "type": "legal_case",
-    "title": "Protecting and Promoting the Open Internet, GN Docket No. 14-28, Notice of Proposed Rulemaking, 29 FCC Rcd 5561",
+    "title": "Protecting and Promoting the Open Internet",
+    "container-title": "FCC Rcd",
+    "volume": "29",
+    "number": "14\\-28",
+    "page": "5561",
+    "references": "Notice of Proposed Rulemaking",
     "issued": {
       "date-parts": [
         [
@@ -47,6 +52,7 @@ Protecting and Promoting the Open Internet, GN Docket No. 14-28, Notice of Propo
       ]
     },
     "jurisdiction": "us",
+    "genre": "GN Docket",
     "admin-flag": "1"
   }
 ]

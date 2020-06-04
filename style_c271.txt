@@ -38,7 +38,7 @@ Treas. Reg. § 1.72-16(a), Q&#38;A (3)(a) (1963)
   {
     "id": "ZSFUBDT2",
     "type": "regulation",
-    "title": "X Treas. Reg. § 1.72-16(a), Q&A (3)(a)",
+    "container-title": "Treas. Reg.",
     "issued": {
       "date-parts": [
         [
@@ -46,6 +46,7 @@ Treas. Reg. § 1.72-16(a), Q&#38;A (3)(a) (1963)
         ]
       ]
     },
+    "section": "sec. 1.72-16(a), Q&A (3)(a)",
     "jurisdiction": "us"
   }
 ]

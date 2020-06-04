@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Exec. Order 12,900, <a href="http://www.archives.gov/federal-register/executive-orders/pdf/12900.pdf">59 FR 9061</a> (Feb. 22, 1994)
+Exec. Order 12,900, 59 FR 9061 (Feb. 22, 1994)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
@@ -38,7 +38,9 @@ Exec. Order 12,900, <a href="http://www.archives.gov/federal-register/executive-
   {
     "id": "REENEHCG",
     "type": "regulation",
-    "title": "Exec. Order 12,900, 59 FR 9061",
+    "container-title": "FR",
+    "volume": "59",
+    "number": "12,900",
     "issued": {
       "date-parts": [
         [
@@ -48,7 +50,10 @@ Exec. Order 12,900, <a href="http://www.archives.gov/federal-register/executive-
         ]
       ]
     },
-    "jurisdiction": "us"
+    "page": "9061",
+    "jurisdiction": "us",
+    "genre": "Exec. Order",
+    "gazette-flag": "1"
   }
 ]
 <<===== INPUT =====<<

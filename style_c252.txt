@@ -10,7 +10,7 @@ citation
 
 >>===== KEYS =====>>
 [
-  "889JWBVE"
+  "GYEHKKI7"
 ]
 <<===== KEYS =====<<
 
@@ -26,8 +26,9 @@ Initial test checkin
 [
   [
     {
-      "id": "889JWBVE",
-      "position": 0
+      "id": "GYEHKKI7",
+      "position": 1,
+      "near-note": 1
     }
   ]
 ]
@@ -36,9 +37,19 @@ Initial test checkin
 >>===== INPUT =====>>
 [
   {
-    "id": "889JWBVE",
+    "id": "GYEHKKI7",
     "type": "patent",
-    "title": "X ’504 Patent",
+    "number": "8,112,504",
+    "submitted": {
+      "date-parts": [
+        [
+          2009,
+          3,
+          4
+        ]
+      ]
+    },
+    "status": "B2",
     "jurisdiction": "us"
   }
 ]

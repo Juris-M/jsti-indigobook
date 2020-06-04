@@ -38,7 +38,10 @@ Authority of Sec’y of Treasury to Compromise Final Judgments, 36 U.S. Op. Att�
   {
     "id": "9X7FQDVI",
     "type": "legal_case",
-    "title": "Authority of Sec’y of Treasury to Compromise Final Judgments, 36 U.S. Op. Att’ Gen. 40",
+    "title": "Authority of Sec’y of Treasury to Compromise Final Judgments",
+    "container-title": "U.S. Op. Att’ Gen.",
+    "volume": "36",
+    "page": "40",
     "issued": {
       "date-parts": [
         [
@@ -46,7 +49,8 @@ Authority of Sec’y of Treasury to Compromise Final Judgments, 36 U.S. Op. Att�
         ]
       ]
     },
-    "jurisdiction": "us"
+    "jurisdiction": "us",
+    "admin-flag": "1"
   }
 ]
 <<===== INPUT =====<<

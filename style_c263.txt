@@ -41,6 +41,7 @@ Smith v. Jones, 1234-567-89, Description of content (Dep’t of Labor Apr. 1, 20
     "title": "Smith v. Jones",
     "authority": "Dep't of Labor",
     "number": "1234\\-567\\-89",
+    "references": "Description of content",
     "issued": {
       "date-parts": [
         [
@@ -51,7 +52,6 @@ Smith v. Jones, 1234-567-89, Description of content (Dep’t of Labor Apr. 1, 20
       ]
     },
     "jurisdiction": "us",
-    "genre": "Description of content",
     "admin-flag": "1"
   }
 ]

@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Diversion of Water From Niagara River, 30 Op. Att'y Gen. 217 (1913)
+Diversion of Water From Niagara River, 30 Op. Att’y Gen. 217 (1913)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
@@ -38,7 +38,10 @@ Diversion of Water From Niagara River, 30 Op. Att'y Gen. 217 (1913)
   {
     "id": "HXID7EFZ",
     "type": "legal_case",
-    "title": "Diversion of Water From Niagara River, 30 Op. Att'y Gen. 217",
+    "title": "Diversion of Water From Niagara River",
+    "container-title": "Op. Att'y Gen.",
+    "volume": "30",
+    "page": "217",
     "issued": {
       "date-parts": [
         [

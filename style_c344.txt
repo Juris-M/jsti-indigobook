@@ -38,7 +38,9 @@ Initial test checkin
   {
     "id": "R8TPR6ZW",
     "type": "legal_case",
-    "title": "Jones v. Smith,   COA 35",
+    "title": "Jones v. Smith",
+    "authority": "court.appeals",
+    "page": "35",
     "issued": {
       "date-parts": [
         [
@@ -46,7 +48,8 @@ Initial test checkin
         ]
       ]
     },
-    "jurisdiction": "us"
+    "jurisdiction": "us:co",
+    "collection-number": "2012"
   }
 ]
 <<===== INPUT =====<<

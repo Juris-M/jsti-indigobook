@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Trade and Investment Polices in India, 2014–2015, Inv. No. 332-550, <a href="https://www.usitc.gov/publications/332/pub4566.pdf">USITC Pub. 4566</a> (Sep. 2015)
+Trade and Investment Polices in India, 2014–2015, Inv. No. 332-550, USITC Pub. 4566 (Sep. 2015)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
@@ -38,14 +38,19 @@ Trade and Investment Polices in India, 2014–2015, Inv. No. 332-550, <a href="h
   {
     "id": "9TTM5LPV",
     "type": "report",
-    "title": "Trade and Investment Polices in India,  –2015, Inv. No. 332-550, USITC Pub. 4566 (Sep. 2015)",
+    "title": "Trade and Investment Polices in India, 2014–2015",
+    "number": "332\\-550",
+    "genre": "Inv.",
+    "authority": "USITC",
     "issued": {
       "date-parts": [
         [
-          2014
+          2015,
+          9
         ]
       ]
     },
+    "call-number": "4566",
     "jurisdiction": "us"
   }
 ]

@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Polyvinyl Alcohol from China, Japan, and Taiwan, Inv. Nos. 701-TA-309, 731-TA-528, 731-TA-529, <a href="https://www.usitc.gov/publications/701_731/pub4067.pdf">USITC Pub. 4067</a> (Mar. 27, 2009)
+Polyvinyl Alcohol from China, Japan, and Taiwan, Inv. Nos. 701-TA-309, 731-TA-528, 731-TA-529, USITC Pub. 4067 (Mar. 27, 2009)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
@@ -38,7 +38,10 @@ Polyvinyl Alcohol from China, Japan, and Taiwan, Inv. Nos. 701-TA-309, 731-TA-52
   {
     "id": "GQAY9ENB",
     "type": "report",
-    "title": "Polyvinyl Alcohol from China, Japan, and Taiwan, Inv. Nos. 701-TA-309, 731-TA-528, 731-TA-529, USITC Pub. 4067",
+    "title": "Polyvinyl Alcohol from China, Japan, and Taiwan",
+    "number": "701\\-TA\\-309|731\\-TA\\-528|731\\-TA\\-529",
+    "genre": "Inv.",
+    "authority": "USITC",
     "issued": {
       "date-parts": [
         [
@@ -48,6 +51,7 @@ Polyvinyl Alcohol from China, Japan, and Taiwan, Inv. Nos. 701-TA-309, 731-TA-52
         ]
       ]
     },
+    "call-number": "4067",
     "jurisdiction": "us"
   }
 ]

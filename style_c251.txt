@@ -27,7 +27,8 @@ U.S. Patent No. 8,112,504 B2, fig. 1, item 141 (filed Mar. 4, 2009)
   [
     {
       "id": "JNLCWCGM",
-      "position": 0
+      "position": 0,
+      "locator": "fig. 1, item 141"
     }
   ]
 ]
@@ -38,8 +39,8 @@ U.S. Patent No. 8,112,504 B2, fig. 1, item 141 (filed Mar. 4, 2009)
   {
     "id": "JNLCWCGM",
     "type": "patent",
-    "title": "U.S. Patent No. 8,112,504 B2, fig. 1, item 141 (filed",
-    "issued": {
+    "number": "8,112,504 B2",
+    "submitted": {
       "date-parts": [
         [
           2009,

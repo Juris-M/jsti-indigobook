@@ -38,8 +38,8 @@ U.S. Patent No. 8,112,504 B2 (filed Mar. 4, 2009)
   {
     "id": "GYEHKKI7",
     "type": "patent",
-    "title": "U.S. Patent No. 8,112,504 B2 (filed",
-    "issued": {
+    "number": "8,112,504 B2",
+    "submitted": {
       "date-parts": [
         [
           2009,

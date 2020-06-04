@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Phoenix Environmental Design, Inc., <a href="http://www.gao.gov/assets/680/675666.pdf">B-412503</a>, 2016 WL 873296 (Comp. Gen. Mar. 7, 2016)
+Phoenix Environmental Design, Inc., B-412503, 2016 WL 873296 (Comp. Gen. Mar. 7, 2016)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
@@ -38,15 +38,22 @@ Phoenix Environmental Design, Inc., <a href="http://www.gao.gov/assets/680/67566
   {
     "id": "JH6M97Z6",
     "type": "legal_case",
-    "title": "X Phoenix Environmental Design, Inc., B-4 3, 2016 WL 873296 (Comp. Gen. Mar. 7, 2016)",
+    "title": "Phoenix Environmental Design, Inc.",
+    "container-title": "WL",
+    "authority": "Comp. Gen.",
+    "number": "B\\-412503",
+    "page": "873296",
     "issued": {
       "date-parts": [
         [
-          1250
+          2016,
+          3,
+          7
         ]
       ]
     },
     "jurisdiction": "us",
+    "collection-number": "2016",
     "admin-flag": "1"
   }
 ]

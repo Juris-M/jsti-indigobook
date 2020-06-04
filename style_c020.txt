@@ -2,6 +2,12 @@
 citation
 <<===== MODE =====<<
 
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
 >>===== KEYS =====>>
 [
   "4RCVP9HI"
@@ -22,7 +28,8 @@ Initial test checkin
     {
       "prefix": "<i>See, e.g.</i>,",
       "id": "4RCVP9HI",
-      "position": 0
+      "position": 0,
+      "locator": "sec. 18\\-8\\-115"
     }
   ]
 ]
@@ -34,7 +41,6 @@ Initial test checkin
     "id": "4RCVP9HI",
     "type": "legislation",
     "container-title": "Colo. Rev. Stat. Ann.",
-    "section": "sec. 18\\-8\\-115",
     "publisher": "West",
     "jurisdiction": "us:co",
     "publication-date": {

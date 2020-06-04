@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Federal Express Corporation, <a href="https://www.faa.gov/about/office_org/headquarters_offices/agc/pol_adjudication/agc400/civil_penalty/CaseFile/view/2002/2002-20.pdf ">FAA Order No. 2002-20</a>, 2002 WL 31777976 (F.A.A.)
+Federal Express Corporation, FAA Order No. 2002-20, 2002 WL 31777976 (Jan. 1, 2002)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
@@ -38,15 +38,23 @@ Federal Express Corporation, <a href="https://www.faa.gov/about/office_org/headq
   {
     "id": "88PJ7TLI",
     "type": "legal_case",
-    "title": "Federal Express Corporation, FAA Order No.  -20, 2002 WL 31777976 (F.A.A.)",
+    "title": "Federal Express Corporation",
+    "container-title": "WL",
+    "authority": "F.A.A.",
+    "number": "2002\\-20",
+    "page": "31777976",
     "issued": {
       "date-parts": [
         [
-          2002
+          2002,
+          1,
+          1
         ]
       ]
     },
     "jurisdiction": "us",
+    "collection-number": "2002",
+    "genre": "FAA Order",
     "admin-flag": "1"
   }
 ]

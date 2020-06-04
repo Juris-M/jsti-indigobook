@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Prime Roofing Corp., <a href="http://www.oshrc.gov/decisions/html_2009/07-1409.htm">No. 07-1409</a> (OSHRC Feb. 5, 2008)
+Prime Roofing Corp., Docket No. 07-1409 (OSHRC Feb. 5, 2008)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
@@ -38,11 +38,15 @@ Prime Roofing Corp., <a href="http://www.oshrc.gov/decisions/html_2009/07-1409.h
   {
     "id": "BW4QEGDT",
     "type": "legal_case",
-    "title": "X Prime Roofing Corp., No. 07-  (OSHRC Feb. 5, 2008)",
+    "title": "Prime Roofing Corp.",
+    "authority": "OSHRC",
+    "number": "07\\-1409",
     "issued": {
       "date-parts": [
         [
-          1409
+          2008,
+          2,
+          5
         ]
       ]
     },

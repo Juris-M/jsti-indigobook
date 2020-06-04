@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Facebook, Inc., <a href="https://materials.proxyvote.com/Approved/30303M/20150413/AR_245461/#/1/">2014 Annual Report</a> (2014)
+Facebook, Inc., 2014 Annual Report (2014)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
@@ -38,7 +38,7 @@ Facebook, Inc., <a href="https://materials.proxyvote.com/Approved/30303M/2015041
   {
     "id": "M8TSHK2B",
     "type": "report",
-    "title": "Facebook, Inc.,   Annual Report (2014)",
+    "title": "Facebook, Inc., 2014 Annual Report",
     "issued": {
       "date-parts": [
         [

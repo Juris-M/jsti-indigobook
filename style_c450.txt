@@ -10,7 +10,8 @@ citation
 
 >>===== KEYS =====>>
 [
-  "2PUBC97D"
+  "2PUBC97D",
+  "SAC2FCQD"
 ]
 <<===== KEYS =====<<
 
@@ -28,6 +29,11 @@ Initial test checkin
     {
       "id": "2PUBC97D",
       "position": 0
+    },
+    {
+      "prefix": "; ",
+      "id": "SAC2FCQD",
+      "position": 0
     }
   ]
 ]
@@ -38,15 +44,42 @@ Initial test checkin
   {
     "id": "2PUBC97D",
     "type": "legal_case",
-    "title": "Smith v. Jones, 93-  (La. App. 1 Cir. 7/15/94); 660 So.2d 400",
+    "title": "Smith v. Jones",
+    "authority": "court.appeal",
+    "number": "93\\-2345",
     "issued": {
       "date-parts": [
         [
-          2345
+          1994,
+          7,
+          15
         ]
       ]
     },
-    "jurisdiction": "us"
+    "jurisdiction": "us:la:c1",
+    "seeAlso": [
+      "SAC2FCQD"
+    ]
+  },
+  {
+    "id": "SAC2FCQD",
+    "type": "legal_case",
+    "title": "Smith v. Jones",
+    "container-title": "So.2d",
+    "volume": "660",
+    "authority": "court.appeal",
+    "page": "400",
+    "issued": {
+      "date-parts": [
+        [
+          1994
+        ]
+      ]
+    },
+    "jurisdiction": "us:la:c1",
+    "seeAlso": [
+      "2PUBC97D"
+    ]
   }
 ]
 <<===== INPUT =====<<

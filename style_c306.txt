@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-OxyHeal Medical Systems, Inc., <a href="http://law.pubkgroup.com/wp-content/uploads/sites/6/2016/02/SBA-OxyHealth-SIZ-5707.pdf">SBA No. SIZ-5707</a> (Jan. 19 2016)
+OxyHeal Medical Systems, Inc., SBA SIZ-5707 (Jan. 19, 2016)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
@@ -38,15 +38,20 @@ OxyHeal Medical Systems, Inc., <a href="http://law.pubkgroup.com/wp-content/uplo
   {
     "id": "RXQ5CMV7",
     "type": "legal_case",
-    "title": "OxyHeal Medical Systems, Inc., SBA No. SIZ-5707 (Jan. 19",
+    "title": "OxyHeal Medical Systems, Inc.",
+    "authority": "SBA",
+    "number": "SIZ-5707",
     "issued": {
       "date-parts": [
         [
-          2016
+          2016,
+          1,
+          19
         ]
       ]
     },
     "jurisdiction": "us",
+    "collection-number": "2016",
     "admin-flag": "1"
   }
 ]

@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-SEC Staff Accounting Bulletin No. 99, <a href="https://www.gpo.gov/fdsys/pkg/FR-1999-08-19/pdf/99-21484.pdf">64 Fed. Reg. 45150</a> (Aug. 19, 1999)
+SEC Staff Accounting Bulletin No. 99, 64 Fed. Reg. 45150 (Aug. 19, 1999)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
@@ -37,8 +37,11 @@ SEC Staff Accounting Bulletin No. 99, <a href="https://www.gpo.gov/fdsys/pkg/FR-
 [
   {
     "id": "JGLQGZ3W",
-    "type": "report",
-    "title": "SEC Staff Accounting Bulletin No. 99, 64 Fed. Reg. 45150",
+    "type": "regulation",
+    "title": "SEC Staff Accounting Bulletin",
+    "container-title": "Fed. Reg.",
+    "volume": "64",
+    "number": "99",
     "issued": {
       "date-parts": [
         [
@@ -48,6 +51,7 @@ SEC Staff Accounting Bulletin No. 99, <a href="https://www.gpo.gov/fdsys/pkg/FR-
         ]
       ]
     },
+    "page": "45150",
     "jurisdiction": "us"
   }
 ]

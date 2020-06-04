@@ -10,7 +10,7 @@ citation
 
 >>===== KEYS =====>>
 [
-  "GXQP8WSS"
+  "GYEHKKI7"
 ]
 <<===== KEYS =====<<
 
@@ -26,8 +26,9 @@ U.S. Patent No. 8,112,504 B2, at [75] (filed Mar. 4, 2009)
 [
   [
     {
-      "id": "GXQP8WSS",
-      "position": 0
+      "id": "GYEHKKI7",
+      "position": 0,
+      "locator": "fld. 75"
     }
   ]
 ]
@@ -36,10 +37,10 @@ U.S. Patent No. 8,112,504 B2, at [75] (filed Mar. 4, 2009)
 >>===== INPUT =====>>
 [
   {
-    "id": "GXQP8WSS",
+    "id": "GYEHKKI7",
     "type": "patent",
-    "title": "U.S. Patent No. 8,112,504 B2, at [75] (filed",
-    "issued": {
+    "number": "8,112,504 B2",
+    "submitted": {
       "date-parts": [
         [
           2009,

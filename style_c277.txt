@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Exec. Order 13,136, <a href="https://www.gpo.gov/fdsys/pkg/CFR-2000-title3-vol1/pdf/CFR-2000-title3-vol1-eo13135.pdf">3 C.F.R. 216</a> (Sep. 3, 1999)
+Exec. Order 13,136, 3 C.F.R. 216 (Sep. 3, 1999)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
@@ -38,7 +38,9 @@ Exec. Order 13,136, <a href="https://www.gpo.gov/fdsys/pkg/CFR-2000-title3-vol1/
   {
     "id": "PZNXP2Y4",
     "type": "regulation",
-    "title": "Exec. Order 13,136, 3 C.F.R. 216",
+    "container-title": "C.F.R.",
+    "volume": "3",
+    "number": "13,136",
     "issued": {
       "date-parts": [
         [
@@ -48,7 +50,10 @@ Exec. Order 13,136, <a href="https://www.gpo.gov/fdsys/pkg/CFR-2000-title3-vol1/
         ]
       ]
     },
-    "jurisdiction": "us"
+    "page": "216",
+    "jurisdiction": "us",
+    "genre": "Exec. Order",
+    "gazette-flag": "1"
   }
 ]
 <<===== INPUT =====<<

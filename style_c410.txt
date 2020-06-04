@@ -38,7 +38,9 @@ Initial test checkin
   {
     "id": "2VPQJ57G",
     "type": "legal_case",
-    "title": "People v. Doe,   IL App (1st) 101234",
+    "title": "People v. Doe",
+    "authority": "appellate.court",
+    "page": "101234",
     "issued": {
       "date-parts": [
         [
@@ -46,7 +48,8 @@ Initial test checkin
         ]
       ]
     },
-    "jurisdiction": "us"
+    "jurisdiction": "us:il:d1",
+    "collection-number": "2011"
   }
 ]
 <<===== INPUT =====<<
