@@ -27,7 +27,8 @@ Initial test checkin
   [
     {
       "id": "3RCX9URX",
-      "position": 0
+      "position": 0,
+      "locator": "para. 21"
     }
   ]
 ]
@@ -38,7 +39,9 @@ Initial test checkin
   {
     "id": "3RCX9URX",
     "type": "legal_case",
-    "title": "Smith v. Jones,   ND 15, ¶ 21",
+    "title": "Smith v. Jones",
+    "authority": "supreme.court",
+    "page": "15",
     "issued": {
       "date-parts": [
         [
@@ -46,7 +49,11 @@ Initial test checkin
         ]
       ]
     },
-    "jurisdiction": "us"
+    "jurisdiction": "us:nd",
+    "collection-number": "1997",
+    "seeAlso": [
+      "32236N2B"
+    ]
   }
 ]
 <<===== INPUT =====<<

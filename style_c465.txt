@@ -10,7 +10,8 @@ citation
 
 >>===== KEYS =====>>
 [
-  "5ZR67Y8L"
+  "5ZR67Y8L",
+  "58RBQLAM"
 ]
 <<===== KEYS =====<<
 
@@ -28,6 +29,10 @@ Initial test checkin
     {
       "id": "5ZR67Y8L",
       "position": 0
+    },
+    {
+      "id": "58RBQLAM",
+      "position": 0
     }
   ]
 ]
@@ -38,7 +43,9 @@ Initial test checkin
   {
     "id": "5ZR67Y8L",
     "type": "legal_case",
-    "title": "Saucier v. State Tax Assessor,   ME 61, 708 A.2d 28",
+    "title": "Saucier v. State Tax Assessor",
+    "authority": "supreme.judicial.court",
+    "page": "61",
     "issued": {
       "date-parts": [
         [
@@ -46,7 +53,31 @@ Initial test checkin
         ]
       ]
     },
-    "jurisdiction": "us"
+    "jurisdiction": "us:me",
+    "collection-number": "1998",
+    "seeAlso": [
+      "58RBQLAM"
+    ]
+  },
+  {
+    "id": "58RBQLAM",
+    "type": "legal_case",
+    "title": "Saucier v. State Tax Assessor",
+    "container-title": "A.2d",
+    "volume": "708",
+    "authority": "supreme.judicial.court",
+    "page": "28",
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "jurisdiction": "us:me",
+    "seeAlso": [
+      "5ZR67Y8L"
+    ]
   }
 ]
 <<===== INPUT =====<<

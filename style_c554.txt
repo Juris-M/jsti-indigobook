@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>State v. Dickert</i>, 2012-NMCA-004, ¶ 28.
+<i>State v. Dickert</i>, 2012-NMCA-004, ¶ 28
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
@@ -27,7 +27,8 @@ Initial test checkin
   [
     {
       "id": "3TSJWLUR",
-      "position": 0
+      "position": 0,
+      "locator": "para. 28"
     }
   ]
 ]
@@ -38,7 +39,9 @@ Initial test checkin
   {
     "id": "3TSJWLUR",
     "type": "legal_case",
-    "title": "State v. Dickert,  -NMCA-004, ¶ 28.",
+    "title": "State v. Dickert",
+    "authority": "court.appeals",
+    "page": "004",
     "issued": {
       "date-parts": [
         [
@@ -46,7 +49,8 @@ Initial test checkin
         ]
       ]
     },
-    "jurisdiction": "us"
+    "jurisdiction": "us:nm",
+    "collection-number": "2012"
   }
 ]
 <<===== INPUT =====<<

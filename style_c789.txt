@@ -38,8 +38,9 @@ Y.B. Eur. Conv. on H.R.
   {
     "id": "NVD9YVJP",
     "type": "legal_case",
-    "title": "X Y.B. Eur. Conv. on H.R.",
-    "jurisdiction": "us"
+    "container-title": "Y.B. Eur. Conv. on H.R.",
+    "authority": "echr",
+    "jurisdiction": "coe.int"
   }
 ]
 <<===== INPUT =====<<

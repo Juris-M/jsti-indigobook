@@ -10,6 +10,7 @@ citation
 
 >>===== KEYS =====>>
 [
+  "3RCX9URX",
   "32236N2B"
 ]
 <<===== KEYS =====<<
@@ -26,6 +27,10 @@ Initial test checkin
 [
   [
     {
+      "id": "3RCX9URX",
+      "position": 0
+    },
+    {
       "id": "32236N2B",
       "position": 0
     }
@@ -36,9 +41,11 @@ Initial test checkin
 >>===== INPUT =====>>
 [
   {
-    "id": "32236N2B",
+    "id": "3RCX9URX",
     "type": "legal_case",
-    "title": "Smith v. Jones,   ND 15, 600 N.W.2d 900",
+    "title": "Smith v. Jones",
+    "authority": "supreme.court",
+    "page": "15",
     "issued": {
       "date-parts": [
         [
@@ -46,7 +53,31 @@ Initial test checkin
         ]
       ]
     },
-    "jurisdiction": "us"
+    "jurisdiction": "us:nd",
+    "collection-number": "1997",
+    "seeAlso": [
+      "32236N2B"
+    ]
+  },
+  {
+    "id": "32236N2B",
+    "type": "legal_case",
+    "title": "Smith v. Jones",
+    "container-title": "N.W.2d",
+    "volume": "600",
+    "authority": "supreme.court",
+    "page": "900",
+    "issued": {
+      "date-parts": [
+        [
+          1997
+        ]
+      ]
+    },
+    "jurisdiction": "us:nd",
+    "seeAlso": [
+      "3RCX9URX"
+    ]
   }
 ]
 <<===== INPUT =====<<

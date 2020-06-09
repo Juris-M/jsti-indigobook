@@ -38,7 +38,9 @@ Initial test checkin
   {
     "id": "AW85KJWB",
     "type": "legal_case",
-    "title": "Jones v. Smith,   PA Super 1",
+    "title": "Jones v. Smith",
+    "authority": "superior.court",
+    "page": "1",
     "issued": {
       "date-parts": [
         [
@@ -46,7 +48,8 @@ Initial test checkin
         ]
       ]
     },
-    "jurisdiction": "us"
+    "jurisdiction": "us:pa",
+    "collection-number": "1999"
   }
 ]
 <<===== INPUT =====<<

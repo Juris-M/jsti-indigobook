@@ -10,7 +10,8 @@ citation
 
 >>===== KEYS =====>>
 [
-  "XWI8N8SW"
+  "XWI8N8SW",
+  "TXAB757I"
 ]
 <<===== KEYS =====<<
 
@@ -28,6 +29,10 @@ Initial test checkin
     {
       "id": "XWI8N8SW",
       "position": 0
+    },
+    {
+      "id": "TXAB757I",
+      "position": 0
     }
   ]
 ]
@@ -38,7 +43,9 @@ Initial test checkin
   {
     "id": "XWI8N8SW",
     "type": "legal_case",
-    "title": "Estate of Hoch v. Stifel,   ME 24, 16 A.3d 137",
+    "title": "Estate of Hoch v. Stifel",
+    "authority": "supreme.judicial.court",
+    "page": "24",
     "issued": {
       "date-parts": [
         [
@@ -46,7 +53,31 @@ Initial test checkin
         ]
       ]
     },
-    "jurisdiction": "us"
+    "jurisdiction": "us:me",
+    "collection-number": "2011",
+    "seeAlso": [
+      "TXAB757I"
+    ]
+  },
+  {
+    "id": "TXAB757I",
+    "type": "legal_case",
+    "title": "Estate of Hoch v. Stifel",
+    "container-title": "A.3d",
+    "volume": "16",
+    "authority": "supreme.judicial.court",
+    "page": "137",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "jurisdiction": "us:me",
+    "seeAlso": [
+      "XWI8N8SW"
+    ]
   }
 ]
 <<===== INPUT =====<<

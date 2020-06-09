@@ -10,7 +10,8 @@ citation
 
 >>===== KEYS =====>>
 [
-  "BQDHKEFK"
+  "BQDHKEFK",
+  "9NZCUJ9E"
 ]
 <<===== KEYS =====<<
 
@@ -19,7 +20,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Bianco v. Horror One Prods.</i>, 2009-NMSC-006, ¶ 10, 145 N.M. 551.
+<i>Bianco v. Horror One Prods.</i>, 2009-NMSC-006, ¶ 10, 145 N.M. 551
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
@@ -27,6 +28,11 @@ Initial test checkin
   [
     {
       "id": "BQDHKEFK",
+      "position": 0,
+      "locator": "para. 10"
+    },
+    {
+      "id": "9NZCUJ9E",
       "position": 0
     }
   ]
@@ -38,7 +44,9 @@ Initial test checkin
   {
     "id": "BQDHKEFK",
     "type": "legal_case",
-    "title": "Bianco v. Horror One Prods.,  -NMSC-006, ¶ 10, 145 N.M. 551.",
+    "title": "Bianco v. Horror One Prods.",
+    "authority": "supreme.court",
+    "page": "006",
     "issued": {
       "date-parts": [
         [
@@ -46,7 +54,31 @@ Initial test checkin
         ]
       ]
     },
-    "jurisdiction": "us"
+    "jurisdiction": "us:nm",
+    "collection-number": "2009",
+    "seeAlso": [
+      "9NZCUJ9E"
+    ]
+  },
+  {
+    "id": "9NZCUJ9E",
+    "type": "legal_case",
+    "title": "Bianco v. Horror One Prods.",
+    "container-title": "N.M.",
+    "volume": "145",
+    "authority": "supreme.court",
+    "page": "551",
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "jurisdiction": "us:nm",
+    "seeAlso": [
+      "BQDHKEFK"
+    ]
   }
 ]
 <<===== INPUT =====<<

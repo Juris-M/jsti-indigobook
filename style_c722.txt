@@ -38,7 +38,9 @@ Initial test checkin
   {
     "id": "MCND23NF",
     "type": "legal_case",
-    "title": "Doe v. Roe,   WY 12",
+    "title": "Doe v. Roe",
+    "authority": "supreme.court",
+    "page": "12",
     "issued": {
       "date-parts": [
         [
@@ -46,7 +48,8 @@ Initial test checkin
         ]
       ]
     },
-    "jurisdiction": "us"
+    "jurisdiction": "us:wy",
+    "collection-number": "2001"
   }
 ]
 <<===== INPUT =====<<

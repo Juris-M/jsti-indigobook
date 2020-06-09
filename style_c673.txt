@@ -10,7 +10,8 @@ citation
 
 >>===== KEYS =====>>
 [
-  "H3S7I3QN"
+  "YLL5N6B3",
+  "WCPICWKH"
 ]
 <<===== KEYS =====<<
 
@@ -26,7 +27,11 @@ Initial test checkin
 [
   [
     {
-      "id": "H3S7I3QN",
+      "id": "YLL5N6B3",
+      "position": 0
+    },
+    {
+      "id": "WCPICWKH",
       "position": 0
     }
   ]
@@ -36,9 +41,11 @@ Initial test checkin
 >>===== INPUT =====>>
 [
   {
-    "id": "H3S7I3QN",
+    "id": "YLL5N6B3",
     "type": "legal_case",
-    "title": "Smith v. Jones,   UT 16, 998 P.2d 250",
+    "title": "Smith v. Jones",
+    "authority": "supreme.court",
+    "page": "16",
     "issued": {
       "date-parts": [
         [
@@ -46,7 +53,32 @@ Initial test checkin
         ]
       ]
     },
-    "jurisdiction": "us"
+    "jurisdiction": "us:ut",
+    "collection-number": "1999",
+    "seeAlso": [
+      "3HYRNHLB",
+      "WCPICWKH"
+    ]
+  },
+  {
+    "id": "WCPICWKH",
+    "type": "legal_case",
+    "title": "Smith v. Jones",
+    "container-title": "P.2d",
+    "volume": "998",
+    "authority": "supreme.court",
+    "page": "250",
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "jurisdiction": "us:ut",
+    "seeAlso": [
+      "YLL5N6B3"
+    ]
   }
 ]
 <<===== INPUT =====<<

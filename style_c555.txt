@@ -10,7 +10,8 @@ citation
 
 >>===== KEYS =====>>
 [
-  "24N754JZ"
+  "3TSJWLUR",
+  "DLZS6HBM"
 ]
 <<===== KEYS =====<<
 
@@ -19,14 +20,19 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>State v. Dickert</i>, 2012-NMCA-004, ¶ 28, 268 P.3d 515.
+<i>State v. Dickert</i>, 2012-NMCA-004, ¶ 28, 268 P.3d 515
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
 [
   [
     {
-      "id": "24N754JZ",
+      "id": "3TSJWLUR",
+      "position": 0,
+      "locator": "para. 28"
+    },
+    {
+      "id": "DLZS6HBM",
       "position": 0
     }
   ]
@@ -36,9 +42,11 @@ Initial test checkin
 >>===== INPUT =====>>
 [
   {
-    "id": "24N754JZ",
+    "id": "3TSJWLUR",
     "type": "legal_case",
-    "title": "State v. Dickert,  -NMCA-004, ¶ 28, 268 P.3d 515.",
+    "title": "State v. Dickert",
+    "authority": "court.appeals",
+    "page": "004",
     "issued": {
       "date-parts": [
         [
@@ -46,7 +54,25 @@ Initial test checkin
         ]
       ]
     },
-    "jurisdiction": "us"
+    "jurisdiction": "us:nm",
+    "collection-number": "2012",
+    "seeAlso": [
+      "DLZS6HBM"
+    ]
+  },
+  {
+    "id": "DLZS6HBM",
+    "type": "legal_case",
+    "title": "State v. Dickert",
+    "container-title": "P.3d",
+    "volume": "268",
+    "authority": "court.appeals",
+    "page": "515",
+    "jurisdiction": "us:nm",
+    "seeAlso": [
+      "24N754JZ",
+      "3TSJWLUR"
+    ]
   }
 ]
 <<===== INPUT =====<<

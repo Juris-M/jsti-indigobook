@@ -10,7 +10,7 @@ citation
 
 >>===== KEYS =====>>
 [
-  "BTBCVRNU"
+  "SRMBMJMQ"
 ]
 <<===== KEYS =====<<
 
@@ -19,15 +19,16 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Smith v. Jones</i>, 95-KA-01234-SCT  (¶1) (Miss. 1997)
+<i>Smith v. Jones</i>, 95-KA-01234-SCT (¶1) (Miss. 1997)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
 [
   [
     {
-      "id": "BTBCVRNU",
-      "position": 0
+      "id": "SRMBMJMQ",
+      "position": 0,
+      "locator": "para. 1"
     }
   ]
 ]
@@ -36,17 +37,19 @@ Initial test checkin
 >>===== INPUT =====>>
 [
   {
-    "id": "BTBCVRNU",
+    "id": "SRMBMJMQ",
     "type": "legal_case",
-    "title": "X Smith v. Jones, 95-KA-0 -SCT  (¶1) (Miss. 1997)",
+    "title": "Smith v. Jones",
+    "authority": "supreme.court",
+    "number": "95-KA-01234-SCT",
     "issued": {
       "date-parts": [
         [
-          1234
+          1997
         ]
       ]
     },
-    "jurisdiction": "us"
+    "jurisdiction": "us:ms"
   }
 ]
 <<===== INPUT =====<<

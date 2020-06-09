@@ -38,7 +38,9 @@ Initial test checkin
   {
     "id": "XGBZ7XB4",
     "type": "legal_case",
-    "title": "Smith v. Jones,   ND 15",
+    "title": "Smith v. Jones",
+    "authority": "supreme.court",
+    "page": "15",
     "issued": {
       "date-parts": [
         [
@@ -46,7 +48,8 @@ Initial test checkin
         ]
       ]
     },
-    "jurisdiction": "us"
+    "jurisdiction": "us:nd",
+    "collection-number": "1997"
   }
 ]
 <<===== INPUT =====<<

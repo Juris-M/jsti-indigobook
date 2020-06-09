@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Doe v. Roe</i>, 2001 WI App 9, ¶17
+<i>Doe v. Roe</i>, 2001 WI App 9, ¶ 17
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
@@ -27,7 +27,8 @@ Initial test checkin
   [
     {
       "id": "M85Y4AWE",
-      "position": 0
+      "position": 0,
+      "locator": "para. 17"
     }
   ]
 ]
@@ -38,7 +39,9 @@ Initial test checkin
   {
     "id": "M85Y4AWE",
     "type": "legal_case",
-    "title": "Doe v. Roe,   WI App 9, ¶17",
+    "title": "Doe v. Roe",
+    "authority": "court.appeals",
+    "page": "9",
     "issued": {
       "date-parts": [
         [
@@ -46,7 +49,8 @@ Initial test checkin
         ]
       ]
     },
-    "jurisdiction": "us"
+    "jurisdiction": "us:wi",
+    "collection-number": "2001"
   }
 ]
 <<===== INPUT =====<<

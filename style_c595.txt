@@ -10,7 +10,9 @@ citation
 
 >>===== KEYS =====>>
 [
-  "PS3GAYLY"
+  "S9TTP3HN",
+  "PS3GAYLY",
+  "98JJPCZ6"
 ]
 <<===== KEYS =====<<
 
@@ -26,8 +28,17 @@ Initial test checkin
 [
   [
     {
+      "id": "S9TTP3HN",
+      "position": 0
+    },
+    {
       "id": "PS3GAYLY",
       "position": 0
+    },
+    {
+      "id": "98JJPCZ6",
+      "position": 0,
+      "locator": "para. 15"
     }
   ]
 ]
@@ -36,9 +47,13 @@ Initial test checkin
 >>===== INPUT =====>>
 [
   {
-    "id": "PS3GAYLY",
+    "id": "S9TTP3HN",
     "type": "legal_case",
-    "title": "Bonacorsi v. Wheeling & Lake Erie Ry. Co., 95 Ohio St.3d 314,  -Ohio-2220, 767 N.E.2d 707, ¶ 15",
+    "title": "Bonacorsi v. Wheeling & Lake Erie Ry. Co.",
+    "container-title": "Ohio St.3d",
+    "volume": "95",
+    "authority": "supreme.court",
+    "page": "314",
     "issued": {
       "date-parts": [
         [
@@ -46,7 +61,52 @@ Initial test checkin
         ]
       ]
     },
-    "jurisdiction": "us"
+    "jurisdiction": "us:oh",
+    "seeAlso": [
+      "98JJPCZ6",
+      "PS3GAYLY"
+    ]
+  },
+  {
+    "id": "PS3GAYLY",
+    "type": "legal_case",
+    "title": "Bonacorsi v. Wheeling & Lake Erie Ry. Co.",
+    "authority": "supreme.court",
+    "page": "2220",
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "jurisdiction": "us:oh",
+    "collection-number": "2002",
+    "seeAlso": [
+      "98JJPCZ6",
+      "S9TTP3HN"
+    ]
+  },
+  {
+    "id": "98JJPCZ6",
+    "type": "legal_case",
+    "title": "Bonacorsi v. Wheeling & Lake Erie Ry. Co.",
+    "container-title": "N.E.2d",
+    "volume": "767",
+    "authority": "supreme.court",
+    "page": "707",
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "jurisdiction": "us:oh",
+    "seeAlso": [
+      "PS3GAYLY",
+      "S9TTP3HN"
+    ]
   }
 ]
 <<===== INPUT =====<<

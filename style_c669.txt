@@ -38,7 +38,9 @@ Initial test checkin
   {
     "id": "YLL5N6B3",
     "type": "legal_case",
-    "title": "Smith v. Jones,   UT 16",
+    "title": "Smith v. Jones",
+    "authority": "supreme.court",
+    "page": "16",
     "issued": {
       "date-parts": [
         [
@@ -46,7 +48,8 @@ Initial test checkin
         ]
       ]
     },
-    "jurisdiction": "us"
+    "jurisdiction": "us:ut",
+    "collection-number": "1999"
   }
 ]
 <<===== INPUT =====<<

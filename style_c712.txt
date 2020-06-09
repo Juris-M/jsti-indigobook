@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Smith v. Jones</i>, 2000 WI 14, ¶6
+<i>Smith v. Jones</i>, 2000 WI 14, ¶ 6
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
@@ -27,7 +27,8 @@ Initial test checkin
   [
     {
       "id": "ENKSZTTA",
-      "position": 0
+      "position": 0,
+      "locator": "para. 6"
     }
   ]
 ]
@@ -38,7 +39,9 @@ Initial test checkin
   {
     "id": "ENKSZTTA",
     "type": "legal_case",
-    "title": "Smith v. Jones,   WI 14, ¶6",
+    "title": "Smith v. Jones",
+    "authority": "supreme.court",
+    "page": "14",
     "issued": {
       "date-parts": [
         [
@@ -46,7 +49,8 @@ Initial test checkin
         ]
       ]
     },
-    "jurisdiction": "us"
+    "jurisdiction": "us:wi",
+    "collection-number": "2000"
   }
 ]
 <<===== INPUT =====<<

@@ -10,7 +10,9 @@ citation
 
 >>===== KEYS =====>>
 [
-  "CN33JYZH"
+  "CN33JYZH",
+  "RCPKPDHU",
+  "F5KDLGSU"
 ]
 <<===== KEYS =====<<
 
@@ -19,7 +21,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Doe v. Roe</i>, 1998 MT 12, ¶¶ 44-45, 286 Mont. 175, 989 P.2d 1312
+<i>Doe v. Roe</i>, 1998 MT 12, ¶¶ 44–45, 286 Mont. 175, 989 P.2d 1312
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
@@ -27,6 +29,15 @@ Initial test checkin
   [
     {
       "id": "CN33JYZH",
+      "position": 0,
+      "locator": "para. 44-45"
+    },
+    {
+      "id": "RCPKPDHU",
+      "position": 0
+    },
+    {
+      "id": "F5KDLGSU",
       "position": 0
     }
   ]
@@ -38,7 +49,9 @@ Initial test checkin
   {
     "id": "CN33JYZH",
     "type": "legal_case",
-    "title": "Doe v. Roe,   MT 12, ¶¶ 44-45, 286 Mont. 175, 989 P.2d 1312",
+    "title": "Doe v. Roe",
+    "authority": "supreme.court",
+    "page": "12",
     "issued": {
       "date-parts": [
         [
@@ -46,7 +59,54 @@ Initial test checkin
         ]
       ]
     },
-    "jurisdiction": "us"
+    "jurisdiction": "us:mt",
+    "collection-number": "1998",
+    "seeAlso": [
+      "F5KDLGSU",
+      "RCPKPDHU"
+    ]
+  },
+  {
+    "id": "RCPKPDHU",
+    "type": "legal_case",
+    "title": "Doe v. Roe",
+    "container-title": "Mont.",
+    "volume": "286",
+    "authority": "supreme.court",
+    "page": "175",
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "jurisdiction": "us:mt",
+    "seeAlso": [
+      "CN33JYZH",
+      "F5KDLGSU"
+    ]
+  },
+  {
+    "id": "F5KDLGSU",
+    "type": "legal_case",
+    "title": "Doe v. Roe",
+    "container-title": "P.2d",
+    "volume": "989",
+    "authority": "supreme.court",
+    "page": "1312",
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "jurisdiction": "us:mt",
+    "seeAlso": [
+      "CN33JYZH",
+      "RCPKPDHU"
+    ]
   }
 ]
 <<===== INPUT =====<<

@@ -38,7 +38,9 @@ Initial test checkin
   {
     "id": "M8XMWR39",
     "type": "legal_case",
-    "title": "Yumac Home Furniture v. Caguas Lumber Yard,   TSPR 148",
+    "title": "Yumac Home Furniture v. Caguas Lumber Yard",
+    "authority": "tribunal.supremo",
+    "page": "148",
     "issued": {
       "date-parts": [
         [
@@ -46,7 +48,8 @@ Initial test checkin
         ]
       ]
     },
-    "jurisdiction": "us"
+    "jurisdiction": "us:pr",
+    "collection-number": "2015"
   }
 ]
 <<===== INPUT =====<<

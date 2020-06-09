@@ -38,7 +38,7 @@ U.S. Patent No. 8,112,504 B2 (filed Mar. 4, 2009)
   {
     "id": "GYEHKKI7",
     "type": "patent",
-    "number": "8,112,504 B2",
+    "number": "8,112,504",
     "submitted": {
       "date-parts": [
         [
@@ -48,6 +48,7 @@ U.S. Patent No. 8,112,504 B2 (filed Mar. 4, 2009)
         ]
       ]
     },
+    "status": "B2",
     "jurisdiction": "us"
   }
 ]

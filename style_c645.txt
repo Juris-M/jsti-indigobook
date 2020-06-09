@@ -10,7 +10,8 @@ citation
 
 >>===== KEYS =====>>
 [
-  "DZ2VJABD"
+  "UU24MAXN",
+  "C67RYA7P"
 ]
 <<===== KEYS =====<<
 
@@ -19,15 +20,21 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Smith v. Jones</i>, 1996 S.D. 15, ¶ 21, 500 N.W.2d 900, 901
+<i>Smith v. Jones</i>, 1996 S.D. 15, ¶ 21, 600 N.W.2d 900, 901
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
 [
   [
     {
-      "id": "DZ2VJABD",
-      "position": 0
+      "id": "UU24MAXN",
+      "position": 0,
+      "locator": "para. 21"
+    },
+    {
+      "id": "C67RYA7P",
+      "position": 0,
+      "locator": "p. 901"
     }
   ]
 ]
@@ -36,9 +43,11 @@ Initial test checkin
 >>===== INPUT =====>>
 [
   {
-    "id": "DZ2VJABD",
+    "id": "UU24MAXN",
     "type": "legal_case",
-    "title": "Smith v. Jones,   S.D. 15, ¶ 21, 500 N.W.2d 900, 901",
+    "title": "Smith v. Jones",
+    "authority": "supreme.court",
+    "page": "15",
     "issued": {
       "date-parts": [
         [
@@ -46,7 +55,31 @@ Initial test checkin
         ]
       ]
     },
-    "jurisdiction": "us"
+    "jurisdiction": "us:sd",
+    "collection-number": "1996",
+    "seeAlso": [
+      "C67RYA7P"
+    ]
+  },
+  {
+    "id": "C67RYA7P",
+    "type": "legal_case",
+    "title": "Smith v. Jones",
+    "container-title": "N.W.2d",
+    "volume": "600",
+    "authority": "supreme.court",
+    "page": "900",
+    "issued": {
+      "date-parts": [
+        [
+          1996
+        ]
+      ]
+    },
+    "jurisdiction": "us:sd",
+    "seeAlso": [
+      "UU24MAXN"
+    ]
   }
 ]
 <<===== INPUT =====<<
