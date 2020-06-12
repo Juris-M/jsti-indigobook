@@ -1,0 +1,31 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Hope springs eternal.
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<div>Hello AGAIN&gt;<br></div>
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  {}
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[]
+<<===== INPUT =====<<
