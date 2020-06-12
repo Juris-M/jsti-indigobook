@@ -15,11 +15,11 @@ citation
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+Wow
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Family Sponsor Immigration Act of 2002, Pub. L. No. 107-150, 116 Stat. 74
+<div>Family Sponsor Immigration Act of 2002, Pub. L. No. 107-150, 116 Stat. 74XXX</div>
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
@@ -50,7 +50,7 @@ Family Sponsor Immigration Act of 2002, Pub. L. No. 107-150, 116 Stat. 74
       ]
     },
     "page": "74",
-    "jurisdiction": "us",
+    "jurisdiction": "002usUnited States|US",
     "collection-number": "2002",
     "gazette-flag": "1"
   }
