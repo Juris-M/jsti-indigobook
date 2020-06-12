@@ -15,11 +15,11 @@ citation
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+wowow
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Mineral Leasing Act of 1920, 30 U.S.C.S. §§ 181–287 (LexisNexis 2015)
+<div>Mineral Leasing Act of 1920, 30 U.S.C.S. §§ 181–287 (LexisNexis 2015)XXX</div>
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
@@ -50,7 +50,7 @@ Mineral Leasing Act of 1920, 30 U.S.C.S. §§ 181–287 (LexisNexis 2015)
       ]
     },
     "publisher": "LexisNexis",
-    "jurisdiction": "us"
+    "jurisdiction": "002usUnited States|US"
   }
 ]
 <<===== INPUT =====<<
