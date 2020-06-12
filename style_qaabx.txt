@@ -1,0 +1,57 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "QSY4B3NF"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Peas
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<div>Goober</div>
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "QSY4B3NF",
+      "position": 0,
+      "locator": "p. 356"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "QSY4B3NF",
+    "type": "legal_case",
+    "title": "Brown v. State",
+    "container-title": "S.E.2d",
+    "volume": "216",
+    "authority": "Court of Appeals",
+    "page": "356",
+    "issued": {
+      "date-parts": [
+        [
+          1975
+        ]
+      ]
+    },
+    "jurisdiction": "US|Georgia"
+  }
+]
+<<===== INPUT =====<<
