@@ -44,7 +44,7 @@ Initial test checkin
     "container-title": "F.3d",
     "volume": "210",
     "authority": "court.appeals",
-    "number": "99-9032",
+    "number": "99\\-9032",
     "page": "88",
     "issued": {
       "date-parts": [

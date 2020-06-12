@@ -2,6 +2,12 @@
 citation
 <<===== MODE =====<<
 
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
 >>===== KEYS =====>>
 [
   "BFJ5RIJ3"
@@ -18,13 +24,13 @@ Initial test checkin
 
 >>===== CITATION-ITEMS =====>>
 [
-[
-  {
-    "id": "BFJ5RIJ3",
-    "position": 1,
-    "suppress-author": true
-  }
-]
+  [
+    {
+      "id": "BFJ5RIJ3",
+      "position": 0,
+      "suppress-author": true
+    }
+  ]
 ]
 <<===== CITATION-ITEMS =====<<
 
@@ -37,7 +43,7 @@ Initial test checkin
     "container-title": "U.S.",
     "volume": "411",
     "authority": "supreme.court",
-    "number": "72-490",
+    "number": "72\\-490",
     "page": "792",
     "issued": {
       "date-parts": [

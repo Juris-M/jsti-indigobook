@@ -2,6 +2,12 @@
 citation
 <<===== MODE =====<<
 
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
 >>===== KEYS =====>>
 [
   "4IR28Y24"
@@ -18,14 +24,14 @@ Initial test checkin
 
 >>===== CITATION-ITEMS =====>>
 [
-[
-  {
-    "id": "4IR28Y24",
-    "position": 1,
-    "suppress-author": true,
-    "locator": "p. 254"
-  }
-]
+  [
+    {
+      "id": "4IR28Y24",
+      "position": 0,
+      "suppress-author": true,
+      "locator": "p. 254"
+    }
+  ]
 ]
 <<===== CITATION-ITEMS =====<<
 
@@ -38,7 +44,7 @@ Initial test checkin
     "container-title": "U.S.",
     "volume": "450",
     "authority": "supreme.court",
-    "number": "79-1764",
+    "number": "79\\-1764",
     "page": "248",
     "issued": {
       "date-parts": [

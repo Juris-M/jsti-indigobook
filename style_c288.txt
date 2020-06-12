@@ -42,7 +42,7 @@ HP Enterprise Services, LLC, B-405692, 2012 CPD ¶ 13 (Comp. Gen. Dec. 14, 2011)
     "title": "HP Enterprise Services, LLC",
     "container-title": "CPD",
     "authority": "Comp. Gen.",
-    "number": "B-405692",
+    "number": "B\\-405692",
     "issued": {
       "date-parts": [
         [
