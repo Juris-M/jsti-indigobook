@@ -2,6 +2,12 @@
 citation
 <<===== MODE =====<<
 
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
 >>===== KEYS =====>>
 [
   "LC7J76NW"
@@ -9,11 +15,11 @@ citation
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+xxx
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Riley v. California</i>, 134 S. Ct. 2473 (2014)
+<i>Riley v. California</i>, 134 S. Ct. 2473 (2014) XXX<br>
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
@@ -44,7 +50,7 @@ Initial test checkin
         ]
       ]
     },
-    "jurisdiction": "us"
+    "jurisdiction": "002usUnited States|US"
   }
 ]
 <<===== INPUT =====<<
