@@ -15,11 +15,11 @@ citation
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+sdfasdfsdf
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Rev. Proc. 97-27, 1997-21 I.R.B. 11
+<div>Rev. Proc. 97-27, 1997-21 I.R.B. 11XXXX</div>
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
@@ -49,7 +49,7 @@ Rev. Proc. 97-27, 1997-21 I.R.B. 11
         ]
       ]
     },
-    "jurisdiction": "us",
+    "jurisdiction": "002usUnited States|US",
     "collection-number": "1997",
     "genre": "Rev. Proc.",
     "admin-flag": "1"
