@@ -2,6 +2,12 @@
 citation
 <<===== MODE =====<<
 
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
 >>===== KEYS =====>>
 [
   "NEB2B4SF"
@@ -9,21 +15,21 @@ citation
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+Doodles.
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Ward v. Rock Against Racism</i>, 491 U.S. 781 (1989)
+<i>Ward v. Rock Against Racism</i>, 491 U.S. 781 (1989) XXX<br>
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
 [
-[
-  {
-    "id": "NEB2B4SF",
-    "position": 0
-  }
-]
+  [
+    {
+      "id": "NEB2B4SF",
+      "position": 0
+    }
+  ]
 ]
 <<===== CITATION-ITEMS =====<<
 
@@ -44,7 +50,7 @@ Initial test checkin
         ]
       ]
     },
-    "jurisdiction": "us"
+    "jurisdiction": "002usUnited States|US"
   }
 ]
 <<===== INPUT =====<<
