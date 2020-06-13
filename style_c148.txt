@@ -15,11 +15,11 @@ citation
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+zXdvzzzzcccccccccccccccccccccc
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Temp. Treas. Reg. § 1.274-5T(6) (1985)
+<div>Temp. Treas. Reg. § 1.274-5T(6) (1985)XJXKSKL</div>
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
@@ -27,7 +27,8 @@ Temp. Treas. Reg. § 1.274-5T(6) (1985)
   [
     {
       "id": "8PATC5EY",
-      "position": 0
+      "position": 0,
+      "locator": "sec. 1.274\\-5T(6)"
     }
   ]
 ]
@@ -37,7 +38,7 @@ Temp. Treas. Reg. § 1.274-5T(6) (1985)
 [
   {
     "id": "8PATC5EY",
-    "type": "legislation",
+    "type": "regulation",
     "container-title": "Temp. Treas. Reg.",
     "issued": {
       "date-parts": [
@@ -46,8 +47,7 @@ Temp. Treas. Reg. § 1.274-5T(6) (1985)
         ]
       ]
     },
-    "section": "sec. 1.274\\-5T(6)",
-    "jurisdiction": "us"
+    "jurisdiction": "002usUnited States|US"
   }
 ]
 <<===== INPUT =====<<
