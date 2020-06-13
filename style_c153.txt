@@ -15,11 +15,11 @@ citation
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+Hello.
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-S. 812, 108th Cong. (2003)
+<div>S. 812, 108th Cong. (2003) XXX<br></div>
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
@@ -47,7 +47,7 @@ S. 812, 108th Cong. (2003)
         ]
       ]
     },
-    "jurisdiction": "us",
+    "jurisdiction": "002usUnited States|US",
     "collection-number": "108"
   }
 ]
