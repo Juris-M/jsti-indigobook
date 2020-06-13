@@ -2,6 +2,12 @@
 citation
 <<===== MODE =====<<
 
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
 >>===== KEYS =====>>
 [
   "KW7KHLKG"
@@ -9,22 +15,22 @@ citation
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Nance v. United States</i>, 299 F.2d 122, 124 (D.C. Cir. 1962)
+<div><i>Nance v. United States</i>, 299 F.2d 122, 124 (D.C. Cir. 1962) XXX</div>
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
 [
-[
-  {
-    "id": "KW7KHLKG",
-    "position": 0,
-    "locator": "p. 124"
-  }
-]
+  [
+    {
+      "id": "KW7KHLKG",
+      "position": 0,
+      "locator": "p. 124"
+    }
+  ]
 ]
 <<===== CITATION-ITEMS =====<<
 
@@ -45,7 +51,7 @@ Initial test checkin
         ]
       ]
     },
-    "jurisdiction": "us:c0"
+    "jurisdiction": "005us:c0United States|US|D.C. Circuit"
   }
 ]
 <<===== INPUT =====<<
