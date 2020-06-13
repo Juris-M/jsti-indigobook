@@ -15,11 +15,11 @@ citation
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+sdfasdfsdf
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Rev. Rul. 81-225, 1981-2 C.B. 12
+<div>Rev. Rul. 81-225, 1981-2 C.B. 12XXXX</div>
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
@@ -51,7 +51,7 @@ Rev. Rul. 81-225, 1981-2 C.B. 12
         ]
       ]
     },
-    "jurisdiction": "us",
+    "jurisdiction": "002usUnited States|US",
     "collection-number": "1981",
     "genre": "Rev. Rul.",
     "admin-flag": "1"
