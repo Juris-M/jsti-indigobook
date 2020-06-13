@@ -15,11 +15,11 @@ citation
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+asdfjklasdfjklzsdvnk; as; dvzc
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Fed. R. App. P. 1
+<div>Fed. R. App. P. 1XXX</div>
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
@@ -38,9 +38,9 @@ Fed. R. App. P. 1
 [
   {
     "id": "PTQX389I",
-    "type": "legislation",
+    "type": "regulation",
     "title": "Fed. R. App. P.",
-    "jurisdiction": "us"
+    "jurisdiction": "002usUnited States|US"
   }
 ]
 <<===== INPUT =====<<
