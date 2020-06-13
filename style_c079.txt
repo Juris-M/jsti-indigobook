@@ -15,11 +15,11 @@ citation
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+Try me.
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>State v. Green</i>, No. 2012AP1475-CR, 2013 WL 5811261, at *7 (Wis. Ct. App. Oct. 30, 2013)
+<i>State v. Green</i>, No. 2012AP1475-CR, 2013 WL 5811261, at *7 (Wis. Ct. App. Oct. 30, 2013) XXXXX<br>
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
@@ -53,7 +53,7 @@ Initial test checkin
       ]
     },
     "archive_location": "5811261",
-    "jurisdiction": "us:wi",
+    "jurisdiction": "005us:wiUnited States|US|Wisconsin",
     "collection-number": "2013"
   }
 ]
