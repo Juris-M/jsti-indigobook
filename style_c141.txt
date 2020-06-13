@@ -15,11 +15,11 @@ citation
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+XXXXXXXXXXXXXXXXXXXXXXXXX
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Unif. Rules of Evidence (1974) § 702 note 24, 13E U.L.A. 114 (2011)
+<div>Unif. Rules of Evidence (1974) § 702 note 24, 13E U.L.A. 114 (2011)XXXXXXXXXXXXXXXXXXXXXXX</div>
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
@@ -43,7 +43,7 @@ Unif. Rules of Evidence (1974) § 702 note 24, 13E U.L.A. 114 (2011)
     "container-title": "U.L.A.",
     "volume": "13E",
     "page": "114",
-    "jurisdiction": "us",
+    "jurisdiction": "002usUnited States|US",
     "gazette-flag": "1",
     "publication-date": {
       "date-parts": [
