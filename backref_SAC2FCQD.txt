@@ -1,0 +1,60 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "SAC2FCQD"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of SAC2FCQD z0049 z0015 71 z1331 z0016 82 z1349 267 101 z1401 z1412 104 109 118 121 z1450 z1451 z1459 z1476 z1482
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Smith v. Jones</i>, 93-2345 (La. App. 1 Cir. 7/15/94); 660 So.2d 400
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "SAC2FCQD",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "SAC2FCQD",
+    "type": "legal_case",
+    "title": "Smith v. Jones",
+    "container-title": "So.2d",
+    "volume": "660",
+    "authority": "court.appeal",
+    "page": "400",
+    "issued": {
+      "date-parts": [
+        [
+          1994
+        ]
+      ]
+    },
+    "jurisdiction": "us:la:c1",
+    "seeAlso": [
+      "2PUBC97D"
+    ]
+  }
+]
+<<===== INPUT =====<<
