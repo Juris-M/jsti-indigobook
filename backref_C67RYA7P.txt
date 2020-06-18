@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "C67RYA7P"
@@ -19,20 +13,8 @@ Short form of C67RYA7P z0049 z0015 71 z3376 z0016 82 z3394 267 101 z3446 z3457 1
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Smith v. Jones</i>, 1996 S.D. 15, ¶ 21, 600 N.W.2d 900, 901
+<i>Smith v. Jones</i>, 600 N.W.2d 900
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "C67RYA7P",
-      "position": 1,
-      "near-note": 1
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -58,3 +40,23 @@ Short form of C67RYA7P z0049 z0015 71 z3376 z0016 82 z3394 267 101 z3446 z3457 1
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "C67RYA7P",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

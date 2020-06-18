@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "UEKHI79P"
@@ -19,20 +13,8 @@ Short form of UEKHI79P z0049 z0015 71 z2923 z0016 82 z2941 267 101 z2993 z2994 1
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Robinson v. State</i>, 1997 OK CR 24, ¶ 3, 68 OBJ 1379, 1381
+<i>Robinson v. State</i>, 1997 OK CR 24
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "UEKHI79P",
-      "position": 1,
-      "near-note": 1
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -57,3 +39,23 @@ Short form of UEKHI79P z0049 z0015 71 z2923 z0016 82 z2941 267 101 z2993 z2994 1
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "UEKHI79P",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "QSY4B3NF"
@@ -19,20 +13,8 @@ Short form of QSY4B3NF z0049 z0015 71 z4283 z0016 82 z4301 275 101 z4353 z4363 1
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Brown v. State</i>, 216 S.E.2d 356, 356 (Ga. Ct. App. 1975)
+<i>Brown v. State</i>, 216 S.E.2d 356
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "QSY4B3NF",
-      "position": 1,
-      "near-note": 1
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -55,3 +37,23 @@ Short form of QSY4B3NF z0049 z0015 71 z4283 z0016 82 z4301 275 101 z4353 z4363 1
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "QSY4B3NF",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

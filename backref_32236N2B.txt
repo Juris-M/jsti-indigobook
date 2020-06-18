@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "32236N2B"
@@ -19,20 +13,8 @@ Short form of 32236N2B z0049 z0015 71 z2243 z0016 82 z2261 267 101 z2313 z2324 1
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Smith v. Jones</i>, 1997 ND 15, ¶ 21, 600 N.W.2d 900
+<i>Smith v. Jones</i>, 600 N.W.2d 900
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "32236N2B",
-      "position": 1,
-      "near-note": 1
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -58,3 +40,23 @@ Short form of 32236N2B z0049 z0015 71 z2243 z0016 82 z2261 267 101 z2313 z2324 1
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "32236N2B",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

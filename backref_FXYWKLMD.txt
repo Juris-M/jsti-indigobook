@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "FXYWKLMD"
@@ -19,20 +13,8 @@ Short form of FXYWKLMD z0049 87 z4288 241 101 z4317 300 z4331 z4332 104 z0023 z0
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-16 Wyo. Gov’t Reg. 45 (LexisNexis Apr. 2000)
+16 Wyo. Gov’t Reg. 45
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "FXYWKLMD",
-      "position": 1,
-      "near-note": 1
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -55,3 +37,23 @@ Short form of FXYWKLMD z0049 87 z4288 241 101 z4317 300 z4331 z4332 104 z0023 z0
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "FXYWKLMD",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

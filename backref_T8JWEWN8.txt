@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "T8JWEWN8"
@@ -19,20 +13,8 @@ Short form of T8JWEWN8 z0049 z0015 71 z1081 z0016 82 z1099 267 101 z1151 z1162 z
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Santos v. Carney et al.</i>, 1997 Guam 4; 1997 WL 460435 (Sup. Ct. Guam 1997)
+<i>Santos v. Carney et al.</i>, 1997 WL 460435
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "T8JWEWN8",
-      "position": 1,
-      "near-note": 1
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -58,3 +40,23 @@ Short form of T8JWEWN8 z0049 z0015 71 z1081 z0016 82 z1099 267 101 z1151 z1162 z
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "T8JWEWN8",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

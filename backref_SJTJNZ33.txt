@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "SJTJNZ33"
@@ -19,20 +13,8 @@ Short form of SJTJNZ33 z0049 87 z4295 z4297 720 101 z4335 811 z4338 z4343 z4346 
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-2006 S.D. Sess. Laws ch. 465
+2006 S.D. Sess. Laws
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "SJTJNZ33",
-      "position": 1,
-      "near-note": 1
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -46,3 +28,23 @@ Short form of SJTJNZ33 z0049 87 z4295 z4297 720 101 z4335 811 z4338 z4343 z4346 
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "SJTJNZ33",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

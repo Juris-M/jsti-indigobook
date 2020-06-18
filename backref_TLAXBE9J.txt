@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "TLAXBE9J"
@@ -19,20 +13,8 @@ Short form of TLAXBE9J z0049 87 z4288 249 101 z4317 308 z4331 z4332 104 z1558 z0
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-50 Mass. Code Regs. 10 (LexisNexis 2000)
+50 Mass. Code Regs.
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "TLAXBE9J",
-      "position": 1,
-      "near-note": 1
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -53,3 +35,23 @@ Short form of TLAXBE9J z0049 87 z4288 249 101 z4317 308 z4331 z4332 104 z1558 z0
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "TLAXBE9J",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

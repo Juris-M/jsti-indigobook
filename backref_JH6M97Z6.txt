@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "JH6M97Z6"
@@ -19,20 +13,8 @@ Short form of JH6M97Z6 z0049 z0015 71 z4283 z0016 z0017 77 z4301 267 101 z4353 z
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Phoenix Environmental Design, Inc., B-412503, 2016 WL 873296 (Comp. Gen. Mar. 7, 2016)
+Phoenix Environmental Design, Inc., B-412503, 2016 WL 873296
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "JH6M97Z6",
-      "position": 1,
-      "near-note": 1
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -59,3 +41,23 @@ Phoenix Environmental Design, Inc., B-412503, 2016 WL 873296 (Comp. Gen. Mar. 7,
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "JH6M97Z6",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "VBLUIJXH"
@@ -19,20 +13,8 @@ Short form of VBLUIJXH z0049 87 z4295 z4300 262 101 z4335 343 z4338 z4342 z4343 
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Patient Protection and Affordable Care Act, Pub. L. No. 111-148, § 1101, 124 Stat. 119, 141–43 (2010)
+Patient Protection and Affordable Care Act
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "VBLUIJXH",
-      "position": 1,
-      "near-note": 1
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -56,3 +38,23 @@ Patient Protection and Affordable Care Act, Pub. L. No. 111-148, § 1101, 124 St
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "VBLUIJXH",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "R4CFXVKQ"
@@ -19,20 +13,8 @@ Short form of R4CFXVKQ z0049 87 z4302 z4304 101 z4382 451 z4477 104 109 118 121 
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-ABLE Act of 2014, H.R. 647, 113th Cong. (<i>as passed by</i> House, Dec. 3, 2014)
+H.R. 647
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "R4CFXVKQ",
-      "position": 1,
-      "near-note": 1
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -57,3 +39,23 @@ ABLE Act of 2014, H.R. 647, 113th Cong. (<i>as passed by</i> House, Dec. 3, 2014
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "R4CFXVKQ",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

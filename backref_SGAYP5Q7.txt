@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "SGAYP5Q7"
@@ -19,20 +13,8 @@ Short form of SGAYP5Q7 z0049 z0015 71 z4283 z0016 z0017 77 z4301 267 101 z4353 z
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Envirosolve, LLC, FAA Order No. 2006-2, 2006 WL 465371 (Feb. 7, 2006)
+Envirosolve, LLC, FAA Order No. 2006-2, 2006 WL 465371
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "SGAYP5Q7",
-      "position": 1,
-      "near-note": 1
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -60,3 +42,23 @@ Envirosolve, LLC, FAA Order No. 2006-2, 2006 WL 465371 (Feb. 7, 2006)
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "SGAYP5Q7",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

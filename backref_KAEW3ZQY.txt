@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "KAEW3ZQY"
@@ -19,20 +13,8 @@ Short form of KAEW3ZQY z0049 z0015 71 z4283 z0016 82 z4301 267 101 z4353 z4363 1
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-2006 Rep. Inter-Am. Ct. H.R. 45, ¶ 19
+2006 Rep. Inter-Am. Ct. H.R. 45
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "KAEW3ZQY",
-      "position": 1,
-      "near-note": 1
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -46,3 +28,23 @@ Short form of KAEW3ZQY z0049 z0015 71 z4283 z0016 82 z4301 267 101 z4353 z4363 1
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "KAEW3ZQY",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

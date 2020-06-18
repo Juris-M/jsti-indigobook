@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "3TSJWLUR"
@@ -19,20 +13,8 @@ Short form of 3TSJWLUR z0049 z0015 71 z2469 z0016 82 z2487 267 101 z2539 z2540 1
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>State v. Dickert</i>, 2012-NMCA-004, ¶ 28, 268 P.3d 515
+<i>State v. Dickert</i>, 2012-NMCA-004
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "3TSJWLUR",
-      "position": 1,
-      "near-note": 1
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -57,3 +39,23 @@ Short form of 3TSJWLUR z0049 z0015 71 z2469 z0016 82 z2487 267 101 z2539 z2540 1
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "3TSJWLUR",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

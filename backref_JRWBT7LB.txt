@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "JRWBT7LB"
@@ -19,20 +13,8 @@ Short form of JRWBT7LB z0049 87 z4288 z4290 234 101 z4317 300 z4331 z4333 104 z0
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-FSA 101, Avoidance of Error (U.S.D.A. 2000)
+FSA 101
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "JRWBT7LB",
-      "position": 1,
-      "near-note": 1
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -53,3 +35,23 @@ FSA 101, Avoidance of Error (U.S.D.A. 2000)
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "JRWBT7LB",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

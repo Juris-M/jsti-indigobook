@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "UKY8AR64"
@@ -19,8 +13,27 @@ Short form of UKY8AR64 z0049 87 z4295 101 z4335 343 z4349 z4352 104 z0023 z0025 
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Treas. Reg. § 1.41-2
+Treas. Reg.
 <<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "UKY8AR64",
+    "type": "regulation",
+    "title": "Treas. Reg.",
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
 
 >>===== CITATION-ITEMS =====>>
 [
@@ -33,14 +46,3 @@ Treas. Reg. § 1.41-2
   ]
 ]
 <<===== CITATION-ITEMS =====<<
-
->>===== INPUT =====>>
-[
-  {
-    "id": "UKY8AR64",
-    "type": "regulation",
-    "title": "Treas. Reg.",
-    "jurisdiction": "us"
-  }
-]
-<<===== INPUT =====<<

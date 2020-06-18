@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "SC2WBGB3"
@@ -19,20 +13,8 @@ Short form of SC2WBGB3 z0049 87 z4295 z4297 252 z4298 101 z4335 343 z4338 z4342 
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Family Sponsor Immigration Act of 2002, Pub. L. No. 107-150, 116 Stat. 74
+Family Sponsor Immigration Act of 2002
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "SC2WBGB3",
-      "position": 1,
-      "near-note": 1
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -57,3 +39,23 @@ Family Sponsor Immigration Act of 2002, Pub. L. No. 107-150, 116 Stat. 74
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "SC2WBGB3",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

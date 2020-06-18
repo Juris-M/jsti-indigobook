@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "HPEFSYTX"
@@ -19,20 +13,8 @@ Short form of HPEFSYTX z0049 z0015 71 z4283 z0016 82 z4301 737 101 z4353 z4363 1
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Bowling Green v. Godwin</i>, 110 Ohio St.3d 58, 2006-Ohio-3563, 850 N.E.2d 698, ¶ 13, fn. 1
+<i>Bowling Green v. Godwin</i>, 850 N.E.2d 698
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "HPEFSYTX",
-      "position": 1,
-      "near-note": 1
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -58,3 +40,23 @@ Short form of HPEFSYTX z0049 z0015 71 z4283 z0016 82 z4301 737 101 z4353 z4363 1
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "HPEFSYTX",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

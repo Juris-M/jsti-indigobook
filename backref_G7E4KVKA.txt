@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "G7E4KVKA"
@@ -19,20 +13,8 @@ Short form of G7E4KVKA z0049 z0015 71 z4283 z4284 217 z4499 z0016 82 z4301 267 1
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Decl. of Martha Woodmansee at 7, <i>Salinger</i>, 641 F. Supp. 2d 250 (No. 09 Civ. 05095)
+Decl. of Martha Woodmansee, <i>Salinger</i>, 641 F. Supp. 2d 250 (No. 09 Civ. 05095)
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "G7E4KVKA",
-      "position": 1,
-      "near-note": 1
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -58,3 +40,23 @@ Decl. of Martha Woodmansee at 7, <i>Salinger</i>, 641 F. Supp. 2d 250 (No. 09 Ci
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "G7E4KVKA",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

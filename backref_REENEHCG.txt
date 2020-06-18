@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "REENEHCG"
@@ -19,20 +13,8 @@ Short form of REENEHCG z0049 87 z4288 241 101 z4317 300 z4319 104 z0023 z0025 11
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Exec. Order 12,900, 59 FR 9061 (Feb. 22, 1994)
+Exec. Order 12,900, 59 FR 9061
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "REENEHCG",
-      "position": 1,
-      "near-note": 1
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -58,3 +40,23 @@ Exec. Order 12,900, 59 FR 9061 (Feb. 22, 1994)
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "REENEHCG",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "TQJMPSH3"
@@ -19,20 +13,8 @@ Short form of TQJMPSH3 z0049 87 z4295 z4300 262 101 z4335 343 z4349 104 z0023 z0
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-DOE Employee Privacy Standards, 10 C.F.R. § 1008.3 (2000)
+DOE Employee Privacy Standards
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "TQJMPSH3",
-      "position": 1,
-      "near-note": 1
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -53,3 +35,23 @@ DOE Employee Privacy Standards, 10 C.F.R. § 1008.3 (2000)
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "TQJMPSH3",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

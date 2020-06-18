@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "SRMBMJMQ"
@@ -19,20 +13,8 @@ Short form of SRMBMJMQ z0049 z0015 71 z1790 z0016 82 z1808 267 101 z1860 z1861 1
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Smith v. Jones</i>, 95-KA-01234-SCT (¶1) (Miss. 1997)
+<i>Smith v. Jones</i>, 95-KA-01234-SCT
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "SRMBMJMQ",
-      "position": 1,
-      "near-note": 1
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -53,3 +35,23 @@ Short form of SRMBMJMQ z0049 z0015 71 z1790 z0016 82 z1808 267 101 z1860 z1861 1
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "SRMBMJMQ",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

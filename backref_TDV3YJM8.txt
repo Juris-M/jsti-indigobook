@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "TDV3YJM8"
@@ -19,20 +13,8 @@ Short form of TDV3YJM8 z0049 87 z4295 z4300 262 101 z4335 343 z4349 z4350 104 z0
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-50/78 Wyo. Code R. § 321 (LexisNexis 2000)
+50/78 Wyo. Code R. § 321
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "TDV3YJM8",
-      "position": 1,
-      "near-note": 1
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -54,3 +36,23 @@ Short form of TDV3YJM8 z0049 87 z4295 z4300 262 101 z4335 343 z4349 z4350 104 z0
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "TDV3YJM8",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

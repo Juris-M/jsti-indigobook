@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "6GGX29X5"
@@ -19,20 +13,8 @@ Short form of 6GGX29X5 z0049 z0015 71 z4283 z0016 82 z4301 267 101 z4353 z4364 z
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Yates v. United States</i>, No. 13-7451, 2015 U.S. LEXIS 1503, at *40 (Feb. 25, 2015)
+<i>Yates v. United States</i>, No. 13-7451, 2015 U.S. LEXIS 1503
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "6GGX29X5",
-      "position": 1,
-      "near-note": 1
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -58,3 +40,23 @@ Short form of 6GGX29X5 z0049 z0015 71 z4283 z0016 82 z4301 267 101 z4353 z4364 z
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "6GGX29X5",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

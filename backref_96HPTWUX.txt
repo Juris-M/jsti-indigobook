@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "96HPTWUX"
@@ -19,20 +13,8 @@ Short form of 96HPTWUX z0049 z0015 71 z4283 z0016 82 z4301 267 101 z4353 z4363 1
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Warner Bros. Entm’t Inc. v. RDR Books</i>, 575 F. Supp. 2d 513, 518 (S.D.N.Y. 2008)
+<i>Warner Bros. Entm’t Inc. v. RDR Books</i>, 575 F. Supp. 2d 513
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "96HPTWUX",
-      "position": 1,
-      "near-note": 1
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -55,3 +37,23 @@ Short form of 96HPTWUX z0049 z0015 71 z4283 z0016 82 z4301 267 101 z4353 z4363 1
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "96HPTWUX",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

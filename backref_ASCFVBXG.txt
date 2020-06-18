@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "ASCFVBXG"
@@ -19,20 +13,8 @@ Short form of ASCFVBXG z0049 87 z4288 z4289 231 101 z4317 300 z4318 104 z0023 z0
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-SEC Whistleblower Rules, Exchange Act Release No. 75592, 80 Fed. Reg. 47829 (Aug. 10, 2015)
+SEC Whistleblower Rules
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "ASCFVBXG",
-      "position": 1,
-      "near-note": 1
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -59,3 +41,23 @@ SEC Whistleblower Rules, Exchange Act Release No. 75592, 80 Fed. Reg. 47829 (Aug
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "ASCFVBXG",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

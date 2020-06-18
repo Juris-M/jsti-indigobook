@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "IAL7VTK8"
@@ -19,20 +13,8 @@ Short form of IAL7VTK8 z0049 z0015 71 z4283 z0016 82 z4301 275 101 z4353 z4363 1
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Stambovsky v. Ackley</i>, 572 N.Y.S.2d 672, 674 (App. Div. 1991)
+<i>Stambovsky v. Ackley</i>, 572 N.Y.S.2d 672
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "IAL7VTK8",
-      "position": 1,
-      "near-note": 1
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -55,3 +37,23 @@ Short form of IAL7VTK8 z0049 z0015 71 z4283 z0016 82 z4301 275 101 z4353 z4363 1
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "IAL7VTK8",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

@@ -2,6 +2,12 @@
 citation
 <<===== MODE =====<<
 
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
 >>===== KEYS =====>>
 [
   "SIEKVMLW"
@@ -13,8 +19,21 @@ Short form of SIEKVMLW z0049 87 z4288 z4291 101 z4317 300 z4320 z4323 311 z4325 
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Prop. Treas. Reg. § 1.704-1, 48 Fed. Reg. 9871
+Prop. Treas. Reg. § 1.704-1, 48 Fed. Reg. 9871, 9872 (Mar. 9, 1983)
 <<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "SIEKVMLW",
+      "position": 1,
+      "near-note": 1,
+      "locator": "sec 1.704\\-1|9871"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -38,24 +57,3 @@ Prop. Treas. Reg. § 1.704-1, 48 Fed. Reg. 9871
   }
 ]
 <<===== INPUT =====<<
-
-
->>===== OPTIONS =====>>
-{
-  "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "SIEKVMLW",
-      "position": 1,
-      "near-note": 1,
-      "locator": "sec. 1.704\\-1|9871"
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<

@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "CN33JYZH"
@@ -19,20 +13,8 @@ Short form of CN33JYZH z0049 z0015 71 z2014 z0016 82 z2032 267 101 z2084 z2085 1
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Doe v. Roe</i>, 1998 MT 12, ¶¶ 44–45, 286 Mont. 175, 989 P.2d 1312
+<i>Doe v. Roe</i>, 1998 MT 12
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "CN33JYZH",
-      "position": 1,
-      "near-note": 1
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -58,3 +40,23 @@ Short form of CN33JYZH z0049 z0015 71 z2014 z0016 82 z2032 267 101 z2084 z2085 1
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "CN33JYZH",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

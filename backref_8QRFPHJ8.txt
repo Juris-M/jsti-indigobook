@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "8QRFPHJ8"
@@ -19,20 +13,8 @@ Short form of 8QRFPHJ8 z0049 z0015 71 z2698 z0016 82 z2716 267 101 z2768 z2769 1
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Byer v. Wright</i>, 160 Ohio App.3d 472, 2005-Ohio-1797, 827 N.E.2d 835 (11th Dist.)
+<i>Byer v. Wright</i>, 2005-Ohio-1797
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "8QRFPHJ8",
-      "position": 1,
-      "near-note": 1
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -58,3 +40,23 @@ Short form of 8QRFPHJ8 z0049 z0015 71 z2698 z0016 82 z2716 267 101 z2768 z2769 1
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "8QRFPHJ8",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

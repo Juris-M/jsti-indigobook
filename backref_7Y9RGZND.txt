@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "7Y9RGZND"
@@ -19,20 +13,8 @@ Short form of 7Y9RGZND z0059 z0066 z0033 z0071 z0074
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>But cf.</i> <i>5 Things to Know about McDonalds All Day Breakfast</i>, TIME (Oct. 6, 2015), <a href="http://time.com/money/4062667/mcdonalds-all-day-breakfast/">http://time.com/money/4062667/mcdonalds-all-day-breakfast/</a>
+<i>5 Things to Know about McDonalds All Day Breakfast</i>, <i>supra</i>
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "7Y9RGZND",
-      "position": 1,
-      "near-note": 1
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -54,3 +36,23 @@ Short form of 7Y9RGZND z0059 z0066 z0033 z0071 z0074
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "7Y9RGZND",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

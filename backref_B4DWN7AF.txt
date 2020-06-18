@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "B4DWN7AF"
@@ -19,20 +13,8 @@ Short form of B4DWN7AF z0049 87 z4295 101 z4335 343 z4349 z4350 104 z0023 z0025 
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-2006-14 Miss. Laws Adv. Sh. 45 (LexisNexis)
+2006-14 Miss. Laws Adv. Sh. 45
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "B4DWN7AF",
-      "position": 1,
-      "near-note": 1
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -48,3 +30,23 @@ Short form of B4DWN7AF z0049 87 z4295 101 z4335 343 z4349 z4350 104 z0023 z0025 
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "B4DWN7AF",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

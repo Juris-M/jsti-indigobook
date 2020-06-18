@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "923JMSUR"
@@ -19,20 +13,8 @@ Short form of 923JMSUR z0049 87 z4302 z4304 101 z4382 451 z4477 104 109 118 121 
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-American Clean Energy and Security Act, H.R. 2454, 111th Cong. (2009)
+H.R. 2454
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "923JMSUR",
-      "position": 1,
-      "near-note": 1
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -54,3 +36,23 @@ American Clean Energy and Security Act, H.R. 2454, 111th Cong. (2009)
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "923JMSUR",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

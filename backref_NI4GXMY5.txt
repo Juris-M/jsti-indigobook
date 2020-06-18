@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "NI4GXMY5"
@@ -19,20 +13,8 @@ Short form of NI4GXMY5 z0049 87 z4288 241 101 z4317 300 z4331 z4332 104 z4502 z0
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-23 Nev. Reg. Admin. Regs. 6578 (Dec. 31, 2000)
+23 Nev. Reg. Admin. Regs.
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "NI4GXMY5",
-      "position": 1,
-      "near-note": 1
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -54,3 +36,23 @@ Short form of NI4GXMY5 z0049 87 z4288 241 101 z4317 300 z4331 z4332 104 z4502 z0
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "NI4GXMY5",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

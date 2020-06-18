@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "4RCVP9HI"
@@ -19,20 +13,8 @@ Short form of 4RCVP9HI z0049 87 z4295 101 z4335 343 z4349 z4350 z4352 104 z0023 
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>But see, e.g.</i>, Colo. Rev. Stat. Ann. § 18-8-115 (West 2014)
+Colo. Rev. Stat. Ann.
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "4RCVP9HI",
-      "position": 1,
-      "near-note": 1
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -52,3 +34,23 @@ Short form of 4RCVP9HI z0049 87 z4295 101 z4335 343 z4349 z4350 z4352 104 z0023 
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "4RCVP9HI",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

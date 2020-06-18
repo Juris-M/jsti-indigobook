@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "2HCHMYSP"
@@ -19,20 +13,8 @@ Short form of 2HCHMYSP z0049 87 z4288 709 101 z4317 768 z4331 z4332 104 z0023 z0
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-23 N. Mar. I. Reg. 45 (Dec. 31, 2000)
+23 N. Mar. I. Reg. 45
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "2HCHMYSP",
-      "position": 1,
-      "near-note": 1
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -55,3 +37,23 @@ Short form of 2HCHMYSP z0049 87 z4288 709 101 z4317 768 z4331 z4332 104 z0023 z0
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "2HCHMYSP",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

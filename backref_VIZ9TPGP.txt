@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "VIZ9TPGP"
@@ -19,20 +13,8 @@ Short form of VIZ9TPGP z0055 z0031 z0068 z0031
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>See</i> Nimmer &#38; Nimmer, <i>supra</i>, § 14.02
+Nimmer &#38; Nimmer, <i>supra</i>
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "VIZ9TPGP",
-      "position": 1,
-      "near-note": 1
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -62,3 +44,23 @@ Short form of VIZ9TPGP z0055 z0031 z0068 z0031
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "VIZ9TPGP",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

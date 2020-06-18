@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "VRGTKNFP"
@@ -19,20 +13,8 @@ Short form of VRGTKNFP z0049 87 z4295 z4300 724 101 z4335 805 z4349 z4350 104 z0
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-50/78 Vt. Code R. § 321 (2000)
+50/78 Vt. Code R. § 321
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "VRGTKNFP",
-      "position": 1,
-      "near-note": 1
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -53,3 +35,23 @@ Short form of VRGTKNFP z0049 87 z4295 z4300 724 101 z4335 805 z4349 z4350 104 z0
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "VRGTKNFP",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

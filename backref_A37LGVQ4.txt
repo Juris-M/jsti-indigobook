@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "A37LGVQ4"
@@ -19,20 +13,8 @@ Short form of A37LGVQ4 z0049 87 z4295 z4300 270 101 z4335 351 z4349 z4350 z4352 
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-W. Va. Code R. § 12-34-56 (2000)
+W. Va. Code R.
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "A37LGVQ4",
-      "position": 1,
-      "near-note": 1
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -51,3 +33,23 @@ W. Va. Code R. § 12-34-56 (2000)
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "A37LGVQ4",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

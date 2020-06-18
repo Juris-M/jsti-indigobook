@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "JGLQGZ3W"
@@ -19,20 +13,8 @@ Short form of JGLQGZ3W z0049 87 z4288 241 z4293 z4294 101 z4317 300 z4331 104 z0
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-SEC Staff Accounting Bulletin No. 99, 64 Fed. Reg. 45150 (Aug. 19, 1999)
+SEC Staff Accounting Bulletin No. 99
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "JGLQGZ3W",
-      "position": 1,
-      "near-note": 1
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -57,3 +39,23 @@ SEC Staff Accounting Bulletin No. 99, 64 Fed. Reg. 45150 (Aug. 19, 1999)
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "JGLQGZ3W",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

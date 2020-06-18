@@ -2,6 +2,12 @@
 citation
 <<===== MODE =====<<
 
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
 >>===== KEYS =====>>
 [
   "JNLCWCGM"
@@ -13,16 +19,27 @@ Short form of JNLCWCGM z0049 87 z4316 296 101 z4395 104 109 118 121 z4417 z4452
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-’504 Patent
+U.S. Patent No. 8,112,504 B2, fig. 1, item 141 (filed Mar. 4, 2009)
 <<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "JNLCWCGM",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
   {
     "id": "JNLCWCGM",
     "type": "patent",
-    "number": "8,112,504",
-    "status": "B2",
+    "number": "8,112,504 B2",
     "submitted": {
       "date-parts": [
         [
@@ -36,23 +53,3 @@ Short form of JNLCWCGM z0049 87 z4316 296 101 z4395 104 109 118 121 z4417 z4452
   }
 ]
 <<===== INPUT =====<<
-
-
->>===== OPTIONS =====>>
-{
-  "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "JNLCWCGM",
-      "position": 1,
-      "near-note": 1
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<

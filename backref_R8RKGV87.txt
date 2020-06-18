@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "R8RKGV87"
@@ -19,20 +13,8 @@ Short form of R8RKGV87 z0049 87 z4288 241 z4293 z4294 101 z4317 300 z4331 z4333 
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Filing of Privileged Materials and Answers to Motions, Order No. 769, 141 FERC ¶ 61,049 (2012)
+Filing of Privileged Materials and Answers to Motions, Order No. 769, 141 FERC ¶ 61,049
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "R8RKGV87",
-      "position": 1,
-      "near-note": 1
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -51,3 +33,23 @@ Filing of Privileged Materials and Answers to Motions, Order No. 769, 141 FERC �
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "R8RKGV87",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
