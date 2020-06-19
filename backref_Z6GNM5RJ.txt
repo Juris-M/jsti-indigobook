@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "Z6GNM5RJ"
@@ -19,20 +13,8 @@ Short form of Z6GNM5RJ z0049 87 z4302 101 z4382 913 z4477 104 109 118 121 z4410 
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-L.D. 3, 127th Leg., Reg. Sess. (Me. 2015)
+L.D. 3, 127th Leg., Reg. Sess.
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "Z6GNM5RJ",
-      "position": 1,
-      "near-note": 1
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -54,3 +36,23 @@ L.D. 3, 127th Leg., Reg. Sess. (Me. 2015)
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "Z6GNM5RJ",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

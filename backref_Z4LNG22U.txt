@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "Z4LNG22U"
@@ -19,20 +13,8 @@ Short form of Z4LNG22U z0049 z0015 71 z3836 z0016 82 z3854 267 101 z3906 z3917 1
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Camp v. Superman</i>, 119 Vt. 62 (1955)
+<i>Camp v. Superman</i>, 119 Vt. 62
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "Z4LNG22U",
-      "position": 1,
-      "near-note": 1
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -55,3 +37,23 @@ Short form of Z4LNG22U z0049 z0015 71 z3836 z0016 82 z3854 267 101 z3906 z3917 1
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "Z4LNG22U",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

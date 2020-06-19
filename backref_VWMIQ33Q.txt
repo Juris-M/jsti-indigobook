@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "VWMIQ33Q"
@@ -19,20 +13,8 @@ Short form of VWMIQ33Q z0049 87 z4288 249 101 z4317 308 z4331 z4332 z4333 104 z3
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Tenn. Comp. R. &#38; Regs. 11 (2000)
+Tenn. Comp. R. &#38; Regs.
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "VWMIQ33Q",
-      "position": 1,
-      "near-note": 1
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -51,3 +33,23 @@ Tenn. Comp. R. &#38; Regs. 11 (2000)
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "VWMIQ33Q",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "VU45UDJP"
@@ -19,20 +13,8 @@ Short form of VU45UDJP z0049 87 z4295 z4296 101 z4335 343 z4338 z4341 354 z4343 
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Unif. Mediation Act § 8, 7A Pt. III U.L.A. 137 (2006)
+Unif. Mediation Act, 7A Pt. III U.L.A. 137
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "VU45UDJP",
-      "position": 1,
-      "near-note": 1
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -55,3 +37,23 @@ Unif. Mediation Act § 8, 7A Pt. III U.L.A. 137 (2006)
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "VU45UDJP",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

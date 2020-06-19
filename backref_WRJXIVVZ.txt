@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "WRJXIVVZ"
@@ -19,20 +13,8 @@ Short form of WRJXIVVZ z0049 87 z4295 z4300 270 101 z4335 351 z4349 z4352 104 z0
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-N.Y. Uniform District Court Act § 15 (LexisNexis 2000)
+N.Y. Uniform District Court Act § 15
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "WRJXIVVZ",
-      "position": 1,
-      "near-note": 1
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -53,3 +35,23 @@ N.Y. Uniform District Court Act § 15 (LexisNexis 2000)
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "WRJXIVVZ",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

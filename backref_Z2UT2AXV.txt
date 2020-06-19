@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "Z2UT2AXV"
@@ -19,20 +13,8 @@ Short form of Z2UT2AXV z0049 z0015 71 z1331 z0016 82 z1349 267 101 z1401 z1412 1
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Smith v. Jones</i>, 94-2345, p. 7 (La. 7/15/94); 650 So.2d 500, 504
+<i>Smith v. Jones</i>, 650 So.2d 500
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "Z2UT2AXV",
-      "position": 1,
-      "near-note": 1
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -61,3 +43,23 @@ Short form of Z2UT2AXV z0049 z0015 71 z1331 z0016 82 z1349 267 101 z1401 z1412 1
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "Z2UT2AXV",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
