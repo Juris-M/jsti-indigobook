@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Comment, <i>Law and Lawns: Mandatory Water Restrictions and Substantive Due Process</i>, 7 Calif. L. Rev. 138 (1972)
+Comment, <i>Law and Lawns: Mandatory Water Restrictions and Substantive Due Process</i>, 7 Calif. L. Rev. 138 (1972).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

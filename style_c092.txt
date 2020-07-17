@@ -20,7 +20,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>In re Verizon Internet Servs., Inc.</i>, 257 F. Supp. 2d 244 (D.D.C. 2003), <i>rev’d on other grounds</i>, <i>Recording Indus. Ass’n of Am., Inc. v. Verizon Internet Servs., Inc.</i>, 351 F.3d 1229 (D.C. Cir. 2003)
+<i>In re Verizon Internet Servs., Inc.</i>, 257 F. Supp. 2d 244 (D.D.C. 2003), <i>rev’d on other grounds</i>, <i>Recording Indus. Ass’n of Am., Inc. v. Verizon Internet Servs., Inc.</i>, 351 F.3d 1229 (D.C. Cir. 2003).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
@@ -59,7 +59,7 @@ Initial test checkin
     "jurisdiction": "us:c0:dc.d"
   },
   {
-    "id": "YEQPEI97",
+    "id": "TWCKY829",
     "type": "legal_case",
     "title": "Recording Indus. Ass’n of Am., Inc. v. Verizon Internet Servs., Inc.",
     "container-title": "F.3d",

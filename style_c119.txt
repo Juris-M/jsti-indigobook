@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Alex Kozinski &#38; Eugene Volokh, <i>Lawsuit Shmawsuit</i>, 103 Yale L.J. 463, 463 (1993)
+Alex Kozinski &#38; Eugene Volokh, <i>Lawsuit Shmawsuit</i>, 103 Yale L.J. 463, 463 (1993).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

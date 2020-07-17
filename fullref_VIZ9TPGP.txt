@@ -13,7 +13,7 @@ Short form of VIZ9TPGP z0055 z0031 z0068 z0031
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-3 Melville Nimmer &#38; David Nimmer, <i>Nimmer on Copyright</i> (Rev. ed. 2015)
+3 Melville Nimmer &#38; David Nimmer, <i>Nimmer on Copyright</i> (Rev. ed. 2015).
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-3 Melville Nimmer &#38; David Nimmer, <i>Nimmer on Copyright</i> § 12.01 (Rev. ed. 2015)
+3 Melville Nimmer &#38; David Nimmer, <i>Nimmer on Copyright</i> § 12.01 (Rev. ed. 2015).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

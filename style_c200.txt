@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Lilly et al., <i>supra</i>, at 90
+Lilly et al., <i>supra</i>, at 90.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

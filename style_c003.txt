@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>But cf.</i> <i>The Bluebook: A Uniform System of Citation</i> (Columbia Law Review Ass’n et al. eds., 20th ed. 2015)
+<i>But cf.</i> <i>The Bluebook: A Uniform System of Citation</i> (Columbia Law Review Ass’n et al. eds., 20th ed. 2015).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

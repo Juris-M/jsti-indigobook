@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Dava Sobel, <i>Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time</i> <i>passim</i> (1995)
+Dava Sobel, <i>Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time</i> <i>passim</i> (1995).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

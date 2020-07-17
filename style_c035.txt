@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Contra</i> Richard A. Posner, <i>The Bluebook Blues</i>, 120 Yale L.J. 950 (2011)
+<i>Contra</i> Richard A. Posner, <i>The Bluebook Blues</i>, 120 Yale L.J. 950 (2011).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

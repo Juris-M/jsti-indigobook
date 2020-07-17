@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Liz Brown, <i>Bridging The Gap: Improving Intellectual Property Protection for the Look and Feel of Websites</i>, 3 N.Y.U. J. Intell. Prop. &#38; Ent. L. 310, 351 (2014)
+Liz Brown, <i>Bridging The Gap: Improving Intellectual Property Protection for the Look and Feel of Websites</i>, 3 N.Y.U. J. Intell. Prop. &#38; Ent. L. 310, 351 (2014).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

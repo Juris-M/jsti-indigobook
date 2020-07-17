@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Graham C. Lilly et al., <i>Principles of Evidence</i> 122 (6th ed. 2012)
+Graham C. Lilly et al., <i>Principles of Evidence</i> 122 (6th ed. 2012).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

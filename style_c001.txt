@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>see also</i> Gerald Lebovits, <i>Write the Cites Right—Part II</i>, 76 N.Y. St. B.J. 64 (Dec. 2004)
+<i>see also</i> Gerald Lebovits, <i>Write the Cites Right—Part II</i>, 76 N.Y. St. B.J. 64 (Dec. 2004).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
