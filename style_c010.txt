@@ -2,6 +2,12 @@
 citation
 <<===== MODE =====<<
 
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
 >>===== KEYS =====>>
 [
   "TE2K6L7J"
@@ -9,11 +15,11 @@ citation
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+Adding a pinpoint to the example (a silly edit that will be rejected by the editors).
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>see, e.g.</i>, <i>Nix v. Heden</i>, 149 U.S. 304 (1893).
+<i>see, e.g.</i>, <i>Nix v. Heden</i>, 149 U.S. 304, 307 (1893)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
@@ -36,7 +42,7 @@ Initial test checkin
     "title": "Nix v. Heden",
     "container-title": "U.S.",
     "volume": "149",
-    "authority": "supreme.court",
+    "authority": "Supreme Court",
     "page": "304",
     "issued": {
       "date-parts": [
@@ -45,7 +51,7 @@ Initial test checkin
         ]
       ]
     },
-    "jurisdiction": "us"
+    "jurisdiction": "United States|US"
   }
 ]
 <<===== INPUT =====<<
