@@ -2,6 +2,12 @@
 citation
 <<===== MODE =====<<
 
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
 >>===== KEYS =====>>
 [
   "9GKYY987"
@@ -9,21 +15,21 @@ citation
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+Something silly while drunk.
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Lessig v. State</i>, 109 P.3d 224 (Colo. 1997).
+<i>Lessig v. State</i>, 109 P.3d 224 (Colo. 1997)xxxx
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
 [
-[
-  {
-    "id": "9GKYY987",
-    "position": 0
-  }
-]
+  [
+    {
+      "id": "9GKYY987",
+      "position": 0
+    }
+  ]
 ]
 <<===== CITATION-ITEMS =====<<
 
