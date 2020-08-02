@@ -1,0 +1,34 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Gives an example of a page with a "last updated" date and time for R33.5.2
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i><span style="font-size: 12pt; font-family: &quot;Palatino Linotype&quot;, serif;">Patent
+Process Overview</span></i><span style="font-size: 12pt; font-family: &quot;Palatino Linotype&quot;, serif;">, </span><span style="font-size: 12pt; font-family: &quot;Palatino Linotype&quot;, serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-caps: small-caps;">U.S. Pat. &amp;
+Trademark Off.,</span><span style="font-size: 12pt; font-family: &quot;Palatino Linotype&quot;, serif;">&nbsp;https://www.uspto.gov/patents-getting-started/patent-process-overview</span><span style="font-size: 12pt; font-family: &quot;Palatino Linotype&quot;, serif;">&nbsp;(last updated May&nbsp;15,
+2020, 1:34&nbsp;PM EDT).</span>
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  {}
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[]
+<<===== INPUT =====<<
