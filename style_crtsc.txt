@@ -1,0 +1,36 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+This is an example of the usage of passim when citing to a law journal article. (This is an arbitrary edit, at the suggestion of Frank Bennett, for the purpose of familiarizing myself with the interface.)
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<span style="font-size:9.0pt;font-family:&quot;Palatino Linotype&quot;,serif;
+mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-font-family:
+Arial;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:
+EN-US;mso-bidi-language:AR-SA">Jonathan M. Barnett, <i>The Anti-Commons
+Revisited</i>, 29 <span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-caps: small-caps;">Harv. J.L. &amp; Tech</span>.
+127 <i>passim</i> (2015).</span>
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  {}
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[]
+<<===== INPUT =====<<
