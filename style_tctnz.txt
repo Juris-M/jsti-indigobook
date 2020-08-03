@@ -1,0 +1,32 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+This is a
+trial of , , <span style="font-variant: small-caps:">Small Caps</span>, <sup>superscript</sup>, and (for a failure) <sub>subscript</sub>.
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  {}
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[]
+<<===== INPUT =====<<
