@@ -1,0 +1,33 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+This is a
+trial of , , <span style="font-variant: small-caps:" lang="EN-US">Small Caps</span>, <sup>superscript</sup>, and (for a failure) <sub><span style="mso-bidi-font-family:&quot;Times New Roman \(Body CS\)&quot;;
+mso-ansi-language:EN-US" lang="EN-US">subscript</span></sub><span style="mso-ansi-language:EN-US" lang="EN-US">.</span>
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  {}
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[]
+<<===== INPUT =====<<
