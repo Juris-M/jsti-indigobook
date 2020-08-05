@@ -2,6 +2,12 @@
 citation
 <<===== MODE =====<<
 
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
 >>===== KEYS =====>>
 [
   "96HPTWUX"
@@ -9,22 +15,22 @@ citation
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+Broken cite. Ha-ha.
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Warner Bros. Entm’t Inc. v. RDR Books</i>, 575 F. Supp. 2d 513, 518 (S.D.N.Y. 2008).
+<i>Warner Bros. Entm’t Inc. v. RDR Books</i>, 575 F. Supp. 2d 513, 518 (S.D.N.Y. 2008)XXXX
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
 [
-[
-  {
-    "id": "96HPTWUX",
-    "position": 0,
-    "locator": "p. 518"
-  }
-]
+  [
+    {
+      "id": "96HPTWUX",
+      "position": 0,
+      "locator": "p. 518"
+    }
+  ]
 ]
 <<===== CITATION-ITEMS =====<<
 
