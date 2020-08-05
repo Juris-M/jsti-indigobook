@@ -15,11 +15,11 @@ citation
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+Go.
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Vikas Bajaj, <i>Rules for the Marijuana Market</i>, N.Y. Times, Aug. 5, 2014, at A20.
+Vikas Bajaj, <i>RulesXX for the Marijuana Market</i>, N.Y. Times, Aug. 5, 2014, at A20
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
