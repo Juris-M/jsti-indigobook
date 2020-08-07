@@ -15,11 +15,11 @@ citation
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+online publications in should be in small caps as well, per Bluebook 20th Edition R18.2.2(b)(i)
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Mike Masnick, <i>Left Shark Bites Back: 3D Printer Sculptor Hires Lawyer To Respond to Katy Perry’s Bogus Takedown</i>, TechDirt (Feb. 9, 2015, 12:27 PM), <a href="https://www.techdirt.com/articles/20150209/11373729960/left-shark-bites-back-3d-printer-sculptor-hires-lawyer-to-respond-to-katy-perrys-bogus-takedown.shtml">https://www.techdirt.com/articles/20150209/11373729960/left-shark-bites-back-3d-printer-sculptor-hires-lawyer-to-respond-to-katy-perrys-bogus-takedown.shtml</a>.
+Mike Masnick, <i>Left Shark Bites Back: 3D Printer Sculptor Hires Lawyer To Respond to Katy Perry’s Bogus Takedown</i>, <span style="font-variant:small-caps;">TechDirt</span> (Feb. 9, 2015, 12:27 PM), https://www.techdirt.com/articles/20150209/11373729960/left-shark-bites-back-3d-printer-sculptor-hires-lawyer-to-respond-to-katy-perrys-bogus-takedown.shtml
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
