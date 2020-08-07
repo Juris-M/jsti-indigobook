@@ -15,11 +15,11 @@ citation
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+online titles should be in small caps, per Bluebook 20th Edition R18.2.2(b)(i). 
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Kevin Underhill, <i>Gollum Experts to Testify, Says Court</i>, Lowering the Bar (Dec. 4, 2015), <a href="http://www.loweringthebar.net/2015/12/gollum-experts.html">http://www.loweringthebar.net/2015/12/gollum-experts.html</a>.
+Kevin Underhill, <i>Gollum Experts to Testify, Says Court</i>, <span style="font-variant:small-caps;">Lowering the Bar</span> (Dec. 4, 2015), http://www.loweringthebar.net/2015/12/gollum-experts.html
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
