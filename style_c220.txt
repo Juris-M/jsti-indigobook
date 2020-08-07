@@ -15,11 +15,11 @@ citation
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+online titles should be in small caps, per Bluebook 20th Edition R18.2.2(b)(i). 
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Google Books Ngram Viewer</i>, Google, <a href="https://books.google.com/ngrams">https://books.google.com/ngrams</a> (select corpus “English Fiction”; then search for “Arrakis”) (last visited Apr. 17, 2012).
+<i>Google Books Ngram Viewer</i>, <span style="font-variant:small-caps;">Google</span>, https://books.google.com/ngrams (select corpus “English Fiction”; then search for “Arrakis”) (last visited Apr. 17, 2012)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
