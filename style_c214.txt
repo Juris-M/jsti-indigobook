@@ -15,11 +15,11 @@ citation
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+online publications in R33 should be in small caps as well, per Bluebook 20th Edition R18.2.2(b)(i). 
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-nasch, Re: Costumes, IP, and Ownership Rights, Comment to <i>Left Shark Bites Back</i>, TechDirt (Feb. 14, 2015, 9:55 AM), <a href="https://www.techdirt.com/articles/20150209/11373729960/left-shark-bites-back-3d-printer-sculptor-hires-lawyer-to-respond-to-katy-perrys-bogus-takedown.shtml">https://www.techdirt.com/articles/20150209/11373729960/left-shark-bites-back-3d-printer-sculptor-hires-lawyer-to-respond-to-katy-perrys-bogus-takedown.shtml</a>.
+nasch, Re: Costumes, IP, and Ownership Rights, Comment to <i>Left Shark Bites Back</i>, <span style="font-variant:small-caps;">TechDirt</span> (Feb. 14, 2015, 9:55 AM), https://www.techdirt.com/articles/20150209/11373729960/left-shark-bites-back-3d-printer-sculptor-hires-lawyer-to-respond-to-katy-perrys-bogus-takedown.shtml
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
