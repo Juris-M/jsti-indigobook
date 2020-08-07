@@ -15,11 +15,11 @@ citation
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+online publications should be in small caps, per Bluebook 20th Edition R18.2.2(b)(i). 
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Chris Cillizza, <i>Winners and Losers of the 2014 Midterm Elections</i>, Wash. Post Blogs (Nov. 5, 2014, 10:25 AM), <a href="http://www.washingtonpost.com/blogs/the-fix/wp/2014/11/04/winners-and-losers-of-the-2014-election-early-edition/">http://www.washingtonpost.com/blogs/the-fix/wp/2014/11/04/winners-and-losers-of-the-2014-election-early-edition/</a>.
+Chris Cillizza, <i>Winners and Losers of the 2014 Midterm Elections</i>, <span style="font-variant:small-caps;">Wash. Post Blogs</span> (Nov. 5, 2014, 10:25 AM), http://www.washingtonpost.com/blogs/the-fix/wp/2014/11/04/winners-and-losers-of-the-2014-election-early-edition/
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
