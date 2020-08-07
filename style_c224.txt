@@ -15,11 +15,11 @@ citation
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+online titles should be in small caps, per Bluebook 20th Edition R18.2.2(b)(i). 
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Superfan Suits, <a href="http://www.superfansuits.com/">http://www.superfansuits.com/</a> (last visited Feb. 21, 2015).
+<span style="font-variant:small-caps;">Superfan Suits</span>, http://www.superfansuits.com/ (last visited Feb. 21, 2015)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
