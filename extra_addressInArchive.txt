@@ -1,0 +1,87 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== KEYS =====>>
+[
+  "none"
+]
+<<===== KEYS =====<<
+
+>>===== RESULT =====>>
+FIRST
+  W.E.B. Du Bois, Academic Freedom, Address at University of Wisconsin (Apr. 26, 1952), <i>in</i> <i>W. E. B. Du Bois Papers</i> (MS 312) <i>Special Collections and University Archives, University of Massachussetts Amherst Libraries</i> (Apr. 1952), <i>available at</i> bit.ly/DuBoisAF (visited Jun. 5, 2020).
+FIRST w/LOCATOR
+  W.E.B. Du Bois, Academic Freedom, Address at University of Wisconsin (Apr. 26, 1952), <i>in</i> <i>W. E. B. Du Bois Papers</i> (MS 312) <i>Special Collections and University Archives, University of Massachussetts Amherst Libraries</i> 123 (Apr. 1952), <i>available at</i> bit.ly/DuBoisAF (visited Jun. 5, 2020).
+FIRST w/LABEL
+  W.E.B. Du Bois, Academic Freedom, Address at University of Wisconsin (Apr. 26, 1952), <i>in</i> <i>W. E. B. Du Bois Papers</i> (MS 312) <i>Special Collections and University Archives, University of Massachussetts Amherst Libraries</i> ¶ 123 (Apr. 1952), <i>available at</i> bit.ly/DuBoisAF (visited Jun. 5, 2020).
+IBID
+  <i>id.</i>
+IBID w/LOCATOR
+  <i>id.</i> at 123.
+SUBSEQUENT
+  Du Bois, <i>supra</i>.
+SUBSEQUENT w/LOCATOR
+  Du Bois, <i>supra</i>, at 123.
+SUBSEQUENT w/BACKREF
+  Du Bois, <i>supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  Du Bois, <i>supra</i> note 1, at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">W.E.B. Du Bois, Academic Freedom, Address at University of Wisconsin (Apr. 26, 1952), <i>in</i> <i>W. E. B. Du Bois Papers</i> (MS 312) <i>Special Collections and University Archives, University of Massachussetts Amherst Libraries</i> (Apr. 1952), <i>available at</i> bit.ly/DuBoisAF (visited Jun. 5, 2020).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+	{
+        "id": "ITEM-1",
+		"type": "speech",
+		"multi": {
+			"main": {},
+			"_keys": {}
+		},
+		"archive": "Special Collections and University Archives, University of Massachussetts Amherst Libraries",
+		"archive_location": "MS 312",
+		"event-place": "University of Wisconsin",
+		"genre": "Address",
+		"publisher-place": "University of Wisconsin",
+		"title": "Academic freedom",
+		"URL": "bit.ly/DuBoisAF",
+		"archive_collection": "W. E. B. Du Bois Papers",
+		"author": [
+			{
+				"family": "Du Bois",
+				"given": "W.E.B.",
+				"multi": {
+					"_key": {}
+				}
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					6,
+					5
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1952",
+					4,
+					26
+				]
+			]
+		}
+	}
+]
+<<===== INPUT =====<<
+
